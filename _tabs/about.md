@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 **Multi-disciplinary Project Manager, DevOps, and Systems Administrator**
 
 With over a decade of diverse experience across project management, logistics, data management, and workforce optimization, I am a passionate and results-driven professional specializing in driving cross-functional collaboration, effective communication, and operational excellence. My experience spans from supporting sellers in Amazon's to form part of humanitarian projects for UNHCR, each providing valuable lessons on leadership, data-driven decision-making, and stakeholder alignment.
