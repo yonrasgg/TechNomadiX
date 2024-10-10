@@ -1,84 +1,99 @@
-<!-- markdownlint-disable-next-line -->
-<div align="center">
+Here's the updated README with the correct license information:
 
-  <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+---
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+# TechNomadiX Blog
 
-  [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
-  [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod)][license]&nbsp;
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)][gem]&nbsp;
-  [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)][open-container]
+Welcome to the TechNomadiX Blog, a platform dedicated to knowledge management and sharing in tech fields and related knowledge domains. This blog is built on the **Jekyll Theme Chirpy**, a minimal, responsive, and feature-rich theme ideal for technical writing. TechNomadiX is designed for tech enthusiasts, professionals, and lifelong learners who seek to explore, share, and manage insights on technology and related topics.
 
-  [**Live Demo** →][demo]
+## Table of Contents
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+- [About](#about)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
-</div>
+## About
+
+TechNomadiX is a blog focused on exploring various facets of technology, from DevOps and SecOps to Project Management. It's aimed at sharing knowledge, insights, and practical tips within the tech community. The blog leverages **Jekyll Theme Chirpy** to provide a seamless reading experience across devices.
 
 ## Features
 
-- Dark Theme
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
-- Built-in Search
-- Atom Feeds
-- PWA
-- Web Analytics
-- SEO & Performance Optimization
+- **Minimal and Responsive Design**: Ensures readability and a pleasant user experience on all devices.
+- **Feature-Rich Theme**: The theme includes features like dark mode, comments, analytics, and social media integration, providing everything a tech blog needs.
+- **Focus on Knowledge Management**: Posts are organized with knowledge-sharing in mind, making it easy to find insights across a range of tech-related topics.
+- **SEO Optimized**: Includes meta tags, structured data, and the latest practices for search engine optimization.
+  
+## Getting Started
 
-## Documentation
+To start exploring the blog, simply visit the website and navigate through the categories and tags. If you’re interested in technical writing or looking for insights on topics like DevOps, SecOps, and Project Management, TechNomadiX is the perfect place.
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+### Installation for Development
 
-## Contributing
+To install this blog for development on your local machine:
 
-Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
-to learn, inspire, and create. Any contributions you make are greatly appreciated.
-For details, see the "[Contributing Guidelines][contribute-guide]".
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   cd your-repo-name
+   ```
 
-## Credits
+2. **Install dependencies**:
+   ```bash
+   bundle install
+   ```
 
-### Contributors
+3. **Run the site locally**:
+   ```bash
+   bundle exec jekyll serve
+   ```
 
-Thanks to [all the contributors][contributors] involved in the development of the project!
+4. Visit `http://localhost:4000` in your browser to view the blog locally.
 
-[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
+## Acknowledgements
 
-### Third-Party Assets
+This blog is built upon the amazing work done by **Cotes Chung** and **Dinesh Prasanth Moluguwan Krishnamoorthy**. Their efforts in developing the **Jekyll Theme Chirpy** have provided a robust foundation for this platform. 
 
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
+- **Cotes Chung**  
+  - GitHub: [cotes2020](https://github.com/cotes2020/)
+  - Twitter: [@cotes2020](https://twitter.com/cotes2020)
+  
+- **Dinesh Prasanth Moluguwan Krishnamoorthy**  
+  - GitHub: [SilleBille](https://github.com/SilleBille/)
+  - Twitter: [@dinesh_MKD](https://twitter.com/dinesh_MKD)
 
-The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
+Their work has made it possible to share and organize knowledge in a beautifully designed and easy-to-navigate blog.
 
 ## License
 
-This project is published under [MIT License][license].
+This blog is licensed under the [MIT License](https://opensource.org/licenses/MIT):
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[open-container]: https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cotes2020/jekyll-theme-chirpy
-[jekyllrb]: https://jekyllrb.com/
-[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+```
+The MIT License (MIT)
+
+Copyright (c) 2019 Cotes Chung
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+This license applies to the underlying theme. The content of the blog, authored by TechNomadiX, may have additional copyright or licensing considerations.
+
+---
+
