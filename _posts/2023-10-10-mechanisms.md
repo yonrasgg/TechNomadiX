@@ -295,12 +295,11 @@ In summary, characters, images, and frames are three narrative mechanisms that c
 <span style="color:black;">Without preparation, your town could be lost, as it faces difficult and sad times. Working together with your local emergency responders, you can think about and begin to implement individual and community strategies before a disaster occurs.</span>
 
 ---
-### 1. Characters: the vehicle for transportation
 
 ![Characters - the vehicle for transportation]({{ '/assets/img/1 - Characters - the vehicle for transportation - 2.png' | relative_url }})
 
 ---
-### The Role of Priors
+#### The Role of Priors
 
 ![The Role of Priors]({{ '/assets/img/The Role of Priors.png' | relative_url }})
 
@@ -332,7 +331,7 @@ In other cases, images may increase affect when the narrative is congruent with 
 Overall, the power of images in influencing attitudes and behaviors is complex and depends on various factors, including individuals' priors, the congruence between the narrative and images, and the context in which they are presented.
 
 ---
-## 3. Frames
+### 3. Frames
 
 - Frames define the problem. 
 
