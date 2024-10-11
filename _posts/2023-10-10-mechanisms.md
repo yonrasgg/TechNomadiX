@@ -7,32 +7,10 @@ tags: [project-management, mechanisms, narrative, technical-writting]
 
 ## Why narratives matter
 
-<div id="firstTable">
-  <table>
-    <tr>
-      <td>
-        <strong>Homo sapiens</strong>
-        <br>
-        Wise human; knowing person
-      </td>
-      <td>
-        <img src="file:///C:/Users/geova/OneDrive/Documentos/DIGITAL_BRAIN/Mechanisms/ATTACHMENT/Narrative Mechanisms - Homo Sapiens sapienns.png" alt="Homo sapiens image">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Homo narrans</strong>
-        <br>
-        Story telling and story listening humans.
-      </td>
-      <td>
-        <img src="file:///C:/Users/geova/OneDrive/Documentos/DIGITAL_BRAIN/Mechanisms/ATTACHMENT/Narrative Mechanisms - Homo narrans.png" alt="Homo narrans image">
-      </td>
-    </tr>
-  </table>
-</div>
-
-
+| Homo sapiens                                          | Homo narrans                                  |
+| ----------------------------------------------------- | --------------------------------------------- |
+| **Wise human; knowing person**                        | **Story telling and story listening humans.** |
+| ![Narrative Mechanisms - Homo Sapiens sapienns]({{ '/assets/img/Narrative Mechanisms - Homo Sapiens sapienns.png' | relative_url }}) | ![Narrative Mechanisms - Homo narrans]({{ '/assets/img/Narrative Mechanisms - Homo narrans.png' | relative_url }}) |
 
 ---
 ### TIAS question 
