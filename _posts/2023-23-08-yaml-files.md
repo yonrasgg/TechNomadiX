@@ -11,7 +11,6 @@ A YAML file, which stands for "YAML Ain't Markup Language," is a human-readable 
 
 Below is an example of a YAML file to help you understand its syntax and how information is structured:
 
-```yaml
 %YAML 1.2
 ---
 YAML: YAML Ain't Markup Language™
@@ -158,7 +157,6 @@ Related Projects:
   - [yamllint](https://github.com/adrienverge/yamllint)      # YAML Linter based on PyYAML
   - [YAML Diff](https://yamldiff.com/)     # Semantically compare two YAML documents
   - [JSON Schema](https://json-schema-everywhere.github.io/yaml)   # YAML-compliant JSON standard for data validation
-```
 
 ## Areas of Application
 
