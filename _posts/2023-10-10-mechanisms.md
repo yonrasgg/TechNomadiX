@@ -253,7 +253,7 @@ Overall, these mechanisms work together to create a persuasive narrative that ca
 ---
 ## A look at three narrative mechanisms
 
-![[A look at three narrative mechanisms.png]]
+![A look at three narrative mechanisms.png](/home/geova/GitHub/TechNomadiX/assets/img/A look at three narrative mechanisms.png)
 
 Tthree narrative mechanisms:
 
@@ -304,7 +304,7 @@ In summary, characters, images, and frames are three narrative mechanisms that c
 ---
 ### 1. Characters: the vehicle for transportation
 
-![[1 - Characters - the vehicle for transportation.png]]
+![1 - Characters - the vehicle for transportation.png](assets/img/1 - Characters - the vehicle for transportation.png)
 
 <span style="color:red;">Definition </span>
 <span style="color:blue;">Problem framing</span>
@@ -319,12 +319,12 @@ In summary, characters, images, and frames are three narrative mechanisms that c
 ---
 ### 1. Characters: the vehicle for transportation
 
-![[1 - Characters - the vehicle for transportation - 2.png|600x300]]
+![1 - Characters - the vehicle for transportation - 2.png](/home/geova/GitHub/TechNomadiX/assets/img/1 - Characters - the vehicle for transportation - 2.png)
 
 ---
 ### The Role of Priors
 
-![[The Role of Priors.png]]
+![The Role of Priors.png](/home/geova/GitHub/TechNomadiX/assets/img/The Role of Priors.png)
 
 ---
 ### 2. The Power of Images
@@ -339,7 +339,7 @@ To measure priors using a feeling thermometer, you would ask respondents to rate
 
 After measuring priors, you can then present information or stimuli related to flying foxes or bats and assess how this information influences respondents' attitudes or feelings. This can help you understand how priors interact with new information to shape attitudes or beliefs.
 
-![[2. The Power of Images.png]]
+![2. The Power of Images.png](/home/geova/GitHub/TechNomadiX/assets/img/2. The Power of Images.png)
 
 ---
 ### 2. The power of images 
@@ -363,9 +363,10 @@ Overall, the power of images in influencing attitudes and behaviors is complex a
 
 Coronavirus = health issue
 > Coronavirus is dangerous. People are getting sick.
-
+{: .prompt-warning }
 Coronavirus = economic issue
 >Coronavirus is dangerous. People are losing their jobs.
+{: .prompt-warning }
 
 ---
 ### How can narratives stimulate engagement, learning, and action? 
