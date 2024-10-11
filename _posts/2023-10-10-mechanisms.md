@@ -284,9 +284,9 @@ In summary, characters, images, and frames are three narrative mechanisms that c
 
 ![1 - Characters - the vehicle for transportation]({{ '/assets/img/1 - Characters - the vehicle for transportation.png' | relative_url }})
 
-<span style="color:red;">Definition </span>
-<span style="color:blue;">Problem framing</span>
-<span style="color:green;">Science</span>
+<span style="color:red;">Definition </span><br>
+<span style="color:blue;">Problem framing</span><br>
+<span style="color:green;">Science</span><br>
 <span style="color:black;">Characters in action</span>
 
 <span style="color:red;">Flooding occurs when water flows over land that is usually dry. Flooding can result from rain, snowmelt, and high flows in waterways. Flooding can also result from waterways being blocked by debris or ice and from infrastructure failures.</span>
