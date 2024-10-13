@@ -191,6 +191,6 @@ For more advanced configurations and options, refer to the official `nmcli` docu
 - [NetworkManager Reference Manual - nmcli](https://developer.gnome.org/NetworkManager/stable/nmcli.html)
 
 ---
-![Linux Servers]({{ 'assets/img/lt45-05-nmcli-con-show-ens160.png' | relative_url }})
+![Linux Servers]({{ 'assets/img/vishnu-mohanan-rZKdS0wI8Ks-unsplash.jpg' | relative_url }})
 ---
 By mastering `nmcli`, you gain powerful control over network connections directly from the terminal, which is especially useful for server management, scripting, or recovering network connectivity when the GUI is unavailable.
