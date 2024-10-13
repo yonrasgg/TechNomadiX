@@ -43,24 +43,16 @@ To provide context on the popularity of these languages, here’s a visual repre
 
 ```mermaid
 xychart-beta
-    title "DevOps and SRE Language Adoption (2018-2020)"
-    x-axis [2018, 2019, 2020]
-    y-axis "Adoption Percentage" 0 --> 60
 
-    # Python
-    line name="Python" color="blue" [40, 45, 50]
+title "DevOps and SRE Language Adoption (2018-2020)"
 
-    # Go
-    line name="Go" color="green" [10, 20, 25]
+x-axis [Python, Go, Bash, Ruby, JavaScript]
 
-    # Bash
-    line name="Bash" color="purple" [30, 28, 25]
+y-axis "Adoption Percentage (%)" 0 --> 60
 
-    # Ruby
-    line name="Ruby" color="red" [15, 13, 12]
+bar [40, 10, 30, 15, 10]
 
-    # JavaScript
-    line name="JavaScript" color="orange" [10, 12, 15]
+line [50, 25, 25, 12, 15]
 ```
 
 *Python* saw steady growth as its adoption rose from 40% to 50%, becoming the language of choice for many DevOps tools and tasks. *Go* also experienced significant growth, with its usage increasing from 10% to 25%, reflecting its adoption in cloud-native technologies.
