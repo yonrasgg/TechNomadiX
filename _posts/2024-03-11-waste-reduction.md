@@ -17,7 +17,7 @@ The Lean Methodology is all about reducing waste. Waste happens every day, and i
 
 ## Reducing Waste
 
-Now that you know what waste is and how to identify it, let's take it a step further and develop a plan to reduce waste. Continue on to learn more about how you can reduce waste.
+Now that we know what waste is and how to identify it, let's take it a step further and develop a plan to reduce waste. 
 
 - Recall the definition of "waste"
 - Identify examples of waste
