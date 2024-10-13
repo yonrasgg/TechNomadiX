@@ -3,6 +3,9 @@ title: Waste Reduction
 date: 2024-03-11 01:00:00 +/-TTTT
 categories: [PROJECT_MANAGEMENT, LEAN_METHODOLOGY]
 tags: [lean-methodology, waste-reduction, process-improvement, efficiency, productivity]
+image:
+    path: assets/img/alfonso-navarro-qph7tJfcDys-unsplash.jpg
+    alt: Waste reduction
 ---
 
 In large companies, even a little waste by each employee adds up. Let's dive into how to identify and reduce waste during this short post.

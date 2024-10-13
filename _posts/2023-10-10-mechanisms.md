@@ -3,6 +3,9 @@ title: Narrative Mechanisms - Conditions of Narrative Influence
 date: 2020-10-26 01:00:00 +/-TTTT
 categories: [PROJECT_MANAGEMENT, MECHANISMS]
 tags: [project-management, mechanisms, narrative, technical-writting]
+image:
+    path: assets/img/rain-bennett-y9IpCvPyzPI-unsplash.jpg
+    alt: Narratives, story telling
 ---
 
 ## Why narratives matter

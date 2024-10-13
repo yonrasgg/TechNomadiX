@@ -3,6 +3,9 @@ title: YAML Files
 date: 2023-08-23 01:00:00 +/-TTTT
 categories: [DEVOPS, PROGRAMMING]
 tags: [yaml, devops, yaml, productivity, infrastructure-as-code]
+image:
+    path: assets/img/gabriel-heinzer-EUzk9BIEq6M-unsplash.jpg
+    alt: The Use of YAML 
 ---
 
 A YAML file, which stands for "YAML Ain't Markup Language," is a human-readable data format used to represent structured information in text form. YAML is often used for configuring applications and describing data in systems. It stands out for its simplicity and clarity, making it easy to understand for both humans and machines.

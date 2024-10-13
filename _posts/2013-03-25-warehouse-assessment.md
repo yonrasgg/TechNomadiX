@@ -3,6 +3,9 @@ title: Warehouse Assessment Method
 date: 2013-03-25 01:00:00 +/-TTTT
 categories: [PROJECT_MANAGEMENT, LEAN_SIX_SIGMA]
 tags: [lean-six-sigma, warehouse-assessment, warehouse-management, process-improvement, efficiency, inventory-management, quality-assurance, supply-chain-management, logistics, operational-excellence, waste-reduction, continuous-improvement, customer-satisfaction, cost-reduction]
+image:
+    path: assets/img/eduardo-soares-GI5guEoMEgI-unsplash.jpg
+    alt: Warehouse
 ---
 
 ## The Warehouse Assessment Method: A Lean Six Sigma Approach

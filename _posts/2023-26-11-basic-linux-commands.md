@@ -1,6 +1,6 @@
 ---
 title: Linux Commands
-date: 2013-11-26 01:00:00 +/-TTTT
+date: 2023-11-26 01:00:00 +/-TTTT
 categories: [DEVOPS, LINUX]
 tags: [devops, linux-commands, system-administration, command-line, linux-tutorials, lean-six-sigma, productivity]
 image:
