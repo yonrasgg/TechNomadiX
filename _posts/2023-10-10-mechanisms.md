@@ -5,9 +5,6 @@ categories: [PROJECT_MANAGEMENT, MECHANISMS]
 tags: [project-management, mechanisms, narrative, technical-writting]
 ---
 
-![The Power of Images]({{ '/assets/img/2023-10-10-mechanisms/2. The Power of Images.png' | relative_url }})
-
-![The Role of Priors]({{ '/assets/img/2023-10-10-mechanisms/The Role of Priors.png' | relative_url }})
 ## Why narratives matter
 
 | Homo sapiens                                          | Homo narrans                                  |
@@ -234,7 +231,7 @@ Overall, these mechanisms work together to create a persuasive narrative that ca
 ---
 ## A look at three narrative mechanisms
 
-![A look at three narrative mechanisms]({{ '/assets/img/2023-10-10-mechanisms/A look at three narrative mechanisms.png' | relative_url }})
+![A look at three narrative mechanisms]({{ '/assets/img/A look at three narrative mechanisms.png' | relative_url }})
 
 Tthree narrative mechanisms:
 
@@ -285,7 +282,7 @@ In summary, characters, images, and frames are three narrative mechanisms that c
 ---
 ### 1. Characters: the vehicle for transportation
 
-![1 - Characters - the vehicle for transportation]({{ '/assets/img/2023-10-10-mechanisms/1 - Characters - the vehicle for transportation.png' | relative_url }})
+![1 - Characters - the vehicle for transportation]({{ '/assets/img/1 - Characters - the vehicle for transportation.png' | relative_url }})
 
 <span style="color:red;">Definition </span><br>
 <span style="color:blue;">Problem framing</span><br>
@@ -299,12 +296,12 @@ In summary, characters, images, and frames are three narrative mechanisms that c
 
 ---
 
-![Characters - the vehicle for transportation]({{ '/assets/img/2023-10-10-mechanisms/1 - Characters - the vehicle for transportation - 2.png' | relative_url }})
+![Characters - the vehicle for transportation]({{ '/assets/img/1 - Characters - the vehicle for transportation - 2.png' | relative_url }})
 
 ---
 #### The Role of Priors
 
-![The Role of Priors]({{ '/assets/img/2023-10-10-mechanisms/The Role of Priors.png' | relative_url }})
+![The Role of Priors]({{ '/assets/img/The Role of Priors.png' | relative_url }})
 
 ---
 ### 2. The Power of Images
@@ -319,7 +316,7 @@ To measure priors using a feeling thermometer, you would ask respondents to rate
 
 After measuring priors, you can then present information or stimuli related to flying foxes or bats and assess how this information influences respondents' attitudes or feelings. This can help you understand how priors interact with new information to shape attitudes or beliefs.
 
-![The Power of Images]({{ '/assets/img/2023-10-10-mechanisms/2. The Power of Images.png' | relative_url }})
+![The Power of Images]({{ '/assets/img/2. The Power of Images.png' | relative_url }})
 
 The power of images in influencing attitudes and behaviors is evident in various contexts. When individuals have neutral priors (i.e., no strong pre-existing beliefs or attitudes) about a topic, images can significantly impact their emotional response or affect. However, the effect on risk perceptions (both impact and likelihood) may be less pronounced.
 
@@ -340,7 +337,7 @@ Overall, the power of images in influencing attitudes and behaviors is complex a
 
 Coronavirus = health issue
 > Coronavirus is dangerous. People are getting sick.
-{: .prompt-warning }
+{: .prompt-danger }
 Coronavirus = economic issue
 >Coronavirus is dangerous. People are losing their jobs.
 {: .prompt-warning }
