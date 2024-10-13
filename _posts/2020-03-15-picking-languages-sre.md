@@ -48,13 +48,13 @@ title "DevOps and SRE Language Adoption (2018-2020)"
 
 x-axis [Python, Go, Bash, Ruby, JavaScript]
 
-y-axis "Adoption Percentage (%)" 0 --> 60
+y-axis "Adoption Percentage (%)" 0 --> 100
 
 bar [40, 10, 30, 15, 10]
 
 line [50, 25, 25, 12, 15]
 ```
 
-*Python* saw steady growth as its adoption rose from 40% to 50%, becoming the language of choice for many DevOps tools and tasks. *Go* also experienced significant growth, with its usage increasing from 10% to 25%, reflecting its adoption in cloud-native technologies.
+**Python** saw steady adoption, holding strong with adoption values represented at 40% in one set and 50% in another, affirming its position as a popular choice for DevOps tools and automation. Go demonstrated substantial growth, with adoption values shown as 10% and rising to 25%, highlighting its increasing use in cloud-native technologies and infrastructure projects.
 
 ![Programming Stack]({{ 'assets/img/altumcode-PNbDkQ2DDgM-unsplash.jpg' | relative_url }})
