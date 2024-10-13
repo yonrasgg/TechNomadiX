@@ -42,16 +42,25 @@ While Python and Go are popular, remember that the best language depends on your
 To provide context on the popularity of these languages, here’s a visual representation of the trend in Python and Go adoption among DevOps professionals from 2018 to 2020.
 
 ```mermaid
-graph TD
-    A[2018] -->|Python: 40%| B[2019]
-    A -->|Go: 10%| B
-    B -->|Python: 45%| C[2020]
-    B -->|Go: 20%| C
-    A -->|Other: 50%| B
-    B -->|Other: 35%| C
-    C -->|Python: 50%| D[2021]
-    C -->|Go: 25%| D
-    C -->|Other: 25%| D
+xychart-beta
+    title "DevOps and SRE Language Adoption (2018-2020)"
+    x-axis [2018, 2019, 2020]
+    y-axis "Adoption Percentage" 0 --> 60
+
+    # Python
+    line name="Python" color="blue" [40, 45, 50]
+
+    # Go
+    line name="Go" color="green" [10, 20, 25]
+
+    # Bash
+    line name="Bash" color="purple" [30, 28, 25]
+
+    # Ruby
+    line name="Ruby" color="red" [15, 13, 12]
+
+    # JavaScript
+    line name="JavaScript" color="orange" [10, 12, 15]
 ```
 
 *Python* saw steady growth as its adoption rose from 40% to 50%, becoming the language of choice for many DevOps tools and tasks. *Go* also experienced significant growth, with its usage increasing from 10% to 25%, reflecting its adoption in cloud-native technologies.
