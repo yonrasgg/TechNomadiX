@@ -1,5 +1,5 @@
 ---
-title: Software Engineering: Its Principles And Objectives
+title: Software Engineering - Its Principles And Objectives
 date: 2024-06-28 01:00:00 +/-TTTT
 categories: [DEVOPS, AGILE_METHODOLOGIES]
 tags: [software-engineering, principles-of-software-engineering, objectives-of-software-engineering, agile-methodologies, project-management, devops, quality-assurance, software-lifecycle, iso-iec-12207, case-tools, incremental-development, abstraction, modularity, rigor-and-formality, separation-of-concerns, anticipation-of-change, generality, agile-software-development, sdlc]
