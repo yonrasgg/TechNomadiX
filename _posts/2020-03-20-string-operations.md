@@ -5,7 +5,7 @@ categories: [DEVOPS, PROGRAMMING, PYTHON]
 tags: [python, strings, text-manipulation]
 image:
     path: assets/img/Screenshot from 2024-10-15 17-13-14.png
-    alt: Python Text Strings
+    alt: Python Operators
 ---
 
 **Summary**: In this post, we'll explore how strings work in Python. Strings are one of the essential data types and are used to represent text. We'll look at how to create strings, concatenate them, access specific characters, and learn about various built-in methods that can be used to manipulate strings.
