@@ -124,6 +124,7 @@ Agile methodologies prioritize adaptability and responsiveness, making them idea
 
 ---
 ![Agile/Scrum]({{ 'assets/img/Khung_thời_gian_cho_một_Sprint.jpg' | relative_url }}){: width="700" height="300" }
+
 ---
 
 The Spiral, Win-Win Spiral, Iterative, and Agile methodologies each bring unique strengths to software development. While the Spiral models emphasize risk management and stakeholder alignment, the Iterative and Agile methodologies focus on flexibility, incremental progress, and customer collaboration. As a Project Manager with a DevOps focus, leveraging these methodologies can enhance quality and ensure that software products meet user expectations while adhering to project constraints.
