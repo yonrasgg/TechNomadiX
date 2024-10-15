@@ -2,7 +2,7 @@
 title: Mastering Markdown - An Extensive Guide
 date: 2023-04-10 01:00:00 +/-TTTT
 categories: [DEVOPS, PROGRAMMING]
-tags: [devops, markdown, documentation, formatting, code-blocks, embedding-media, images, videos, hyperlinks, tables, lists, headings, text-formatting, blockquotes, guide, tutorial, mastering-markdown, technical-writing]
+tags: [devops, markdown, documentation, formatting, code-blocks, embedding-media, images, videos, hyperlinks, tables, lists, headings, text-formatting, blockquotes, guide, tutorial, mastering-markdown, technical-writting]
 image:
     path: assets/img/markdown-md.png
     alt: Markdown
