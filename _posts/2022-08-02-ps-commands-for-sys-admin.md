@@ -2,7 +2,7 @@
 title: PowerShell Commands for System Administration
 date: 2022-08-02 01:00:00 +/-TTTT
 categories: [DEVOPS, AUTOMATION]
-tags: [powershell, system-administration, automation, scripting, devops, cmdlet, commands-library, system-tasks, agile-methodologies, project-management, system-efficiency, quality-assurance, continuous-improvement, productivity-tools, windows-management]
+tags: [powershell, system-administration, automation, scripting, devops, cmdlet, commands-library, system-tasks, system-efficiency, productivity-tools, windows-management, ms-windows]
 image:
     path: assets/img/28485281273_d2ef89e5d2.jpg
     alt: Power Shell Command
