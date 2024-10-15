@@ -32,7 +32,7 @@ These characteristics make agile methodologies ideal for a variety of projects, 
 Agile is an umbrella term encompassing several methodologies, each with unique practices and strengths. Below, we explore some of the most widely used agile methods and their applications.
 
 ---
-![PM Certifications]({{ 'assets/img/Project-management-certifications-1024x478.png' | relative_url }}){: width="700" height="300" }
+![PM Certifications]({{ 'assets/img/which-certification-is-best-20230405.jpg' | relative_url }}){: width="700" height="300" }
 
 ---
 
