@@ -8,16 +8,6 @@ image:
     alt: Python Aritmetic Operators
 ---
 
----
-layout: post
-title: "Arithmetic Operators in Python"
-date: 2024-10-15
-categories: [Python, Programming]
-tags: [python, arithmetic-operators, math]
----
-
-# Arithmetic Operators in Python 💹
-
 **Summary**: In this post, we explore the various arithmetic operators available in Python. You'll learn how to use addition, subtraction, multiplication, and more to perform calculations. We'll also look at how to work with variables to create dynamic operations.
 
 ## What are Arithmetic Operators?
