@@ -4,7 +4,7 @@ date: 2024-06-30 01:00:00 +/-TTTT
 categories: [DEVOPS, AGILE_METHODOLOGIES]
 tags: [agile-methodologies, traditional-methodologies, heavy-methodologies, waterfall-model, incremental-model, prototype-model, v-model, software-development, project-management, devops, agile-vs-traditional, software-engineering, flexibility, customer-alignment, adaptability, quality-assurance, iterative-development, software-architecture]
 image:
-    path: assets/img/v_diagramx.jpg 
+    path: assets/img/800px-Scaling_agile_methods_comparison.png
     alt: Agile Methodologies versus Traditional (Heavy) Methodologies 
 mermaid: true
 ---
