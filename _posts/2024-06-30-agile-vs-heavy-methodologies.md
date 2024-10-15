@@ -2,7 +2,7 @@
 title: Agile Methodologies versus Traditional (Heavy) Methodologies - A Detailed Comparison
 date: 2024-06-30 01:00:00 +/-TTTT
 categories: [DEVOPS, AGILE_METHODOLOGIES]
-tags: []
+tags: [agile-methodologies, traditional-methodologies, heavy-methodologies, waterfall-model, incremental-model, prototype-model, v-model, software-development, project-management, devops, agile-vs-traditional, software-engineering, flexibility, customer-alignment, adaptability, quality-assurance, iterative-development, software-architecture]
 image:
     path: assets/img/v_diagramx.jpg 
     alt: Agile Methodologies versus Traditional (Heavy) Methodologies 
