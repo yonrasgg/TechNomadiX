@@ -2,7 +2,7 @@
 title: Understanding Operating Systems
 date: 2022-06-26 01:00:00 +/-TTTT
 categories: [DEVOPS, OPERATING_SYSTEMS]
-tags: []
+tags: [operating-system, devops, process-management, process-synchronization, memory-management, cpu-scheduling, file-management, security, computer-system-structure, software-development, resource-allocation, hardware-interface, system-architecture, user-hardware-interface, software-engineering, performance-optimization]
 image:
     path: assets/img/1_OZ5CW34BSLp4vJ0xcxOWUQ.png
     alt: Operating Systems
