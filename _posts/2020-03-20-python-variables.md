@@ -118,4 +118,4 @@ Here are some additional resources for learning about Python variables:
 
 ---
 
-**Next Steps**: In the next post, we'll explore **Tips and Rules for Naming Variables in Python**. You'll learn the best practices and common pitfalls to avoid. Keep learning and happy coding! 🎉
+**Next Steps**: In the next post, we'll explore **Aritmetic Operators**. You'll learn the best practices and common pitfalls to avoid. Keep learning and happy coding! 🎉
