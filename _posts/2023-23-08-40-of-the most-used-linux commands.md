@@ -1,7 +1,7 @@
 ---
 title: The 40 Essential Linux Commands Every User Should Know
 date: 2023-08-23 01:00:00 +/-TTTT
-categories: [DEVOPS, LINUX]
+categories: [PROGRAMMING, BASH]
 tags: [linux-commands, command-line-interface, cli, linux-terminal, basic-linux-commands, linux-tutorial, linux-beginner-guide, linux-command-line, essential-linux-commands, linux-tips, linux-guide, bash-commands, linux-shell, linux-commands-list, linux-administration, linux-syntax, linux-tips-and-tricks, linux-terminal-commands]
 image:
     path: assets/img/isnefnt32wn21.jpg

@@ -1,7 +1,7 @@
 ---
 title: YAML Files
 date: 2023-08-23 01:00:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING]
+categories: [PROGRAMMING, YAML]
 tags: [yaml, devops, yaml, productivity, infrastructure-as-code]
 image:
     path: assets/img/gabriel-heinzer-EUzk9BIEq6M-unsplash.jpg

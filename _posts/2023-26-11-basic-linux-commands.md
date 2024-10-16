@@ -1,7 +1,7 @@
 ---
 title: Linux Commands
 date: 2023-11-26 01:00:00 +/-TTTT
-categories: [DEVOPS, LINUX]
+categories: [PROGRAMMING, BASH]
 tags: [devops, linux-commands, system-administration, command-line, linux-tutorials, productivity]
 image:
     path: assets/img/gabriel-heinzer-xbEVM6oJ1Fs-unsplash.jpg
