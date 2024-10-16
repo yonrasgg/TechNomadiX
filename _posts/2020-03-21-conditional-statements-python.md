@@ -1,7 +1,7 @@
 ---
 title: Conditional Statements in Python 🎯
 date: 2020-03-21 02:30:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, conditionals, control-flow]
 image:
     path: assets/img/Screenshot from 2024-10-15 18-04-44.png

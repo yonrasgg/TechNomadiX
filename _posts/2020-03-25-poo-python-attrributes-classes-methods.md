@@ -1,7 +1,7 @@
 ---
 title: Object-Oriented Programming in Python - Classes, Attributes, Methods, and More 🏫🔵
 date: 2020-03-23 01:00:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, oop, classes, attributes, methods, constructors]
 image:
     path: assets/img/mohammad-rahmani-gA396xahf-Q-unsplash.jpg

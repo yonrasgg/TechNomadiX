@@ -1,7 +1,7 @@
 ---
 title: User Input and Output in Python 📚
 date: 2020-03-20 02:00:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, user-input, output, programming-basics]
 image:
     path: assets/img/Screenshot from 2024-10-15 17-28-40.png

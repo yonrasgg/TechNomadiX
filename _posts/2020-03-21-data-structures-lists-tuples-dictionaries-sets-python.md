@@ -1,7 +1,7 @@
 ---
 title: Data Structures in Python - Lists, Tuples, Dictionaries, and Sets 📚
 date: 2020-03-21 02:40:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, data-structures, lists, tuples, dictionaries, sets]
 image:
     path: assets/img/6703942fc1ea37f60f23e7d7.png 

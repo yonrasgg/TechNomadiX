@@ -1,7 +1,7 @@
 ---
 title: Handling Errors and Exceptions in Python 🚨
 date: 2020-03-23 01:00:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, errors, exceptions, try-except, error-handling]
 image:
     path: assets/img/istockphoto-517127630-1024x1024.jpg

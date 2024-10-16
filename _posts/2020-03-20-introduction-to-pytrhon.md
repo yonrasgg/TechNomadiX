@@ -1,7 +1,7 @@
 ---
 title: Introduction to Python 🐍
 date: 2020-03-20 01:00:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python-introduction, web-development, data-science, automation, game-develppment, open-source, community-driven]
 image:
     path: assets/img/python-code-logo-1536x1024.jpg

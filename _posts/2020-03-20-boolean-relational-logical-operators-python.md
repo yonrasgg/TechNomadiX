@@ -1,7 +1,7 @@
 ---
 title: Boolean, Relational, and Logical Operators in Python 📚
 date: 2020-03-20 02:30:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, boolean, relational-operators, logical-operators]
 image:
     path: assets/img/f57499_bfb5b306791c48c89ac3ccdd9d943c06~mv2.webp

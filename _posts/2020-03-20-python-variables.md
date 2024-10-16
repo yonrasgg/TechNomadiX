@@ -1,7 +1,7 @@
 ---
 title: Python Variables Explained 🎈
 date: 2020-03-20 01:30:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, variables, data-types]
 image:
     path: assets/img/For-Loop-Large-0.8-300x115.gif

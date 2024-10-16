@@ -1,7 +1,7 @@
 ---
 title: Loops in Python - While, For, Range, and Control Statements 🔄
 date: 2020-03-21 01:00:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, loops, control-flow, while, for, break, continue]
 image:
     path: assets/img/1_K90ogNf-wNJI1PJhs80MPw.webp

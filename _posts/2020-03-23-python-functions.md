@@ -1,7 +1,7 @@
 ---
 title: Functions in Python - Built-in, Custom, Math, and More 🔍
 date: 2020-03-23 01:00:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, functions, built-in, parameters, return, global-variables, args]
 image:
     path: assets/img/functions.png

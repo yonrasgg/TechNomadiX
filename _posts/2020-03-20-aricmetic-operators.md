@@ -1,7 +1,7 @@
 ---
 title: Arithmetic Operators in Python 💹
 date: 2020-03-20 01:40:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, arithmetic-operators, math]
 image:
     path: assets/img/arithmeticOperators.png

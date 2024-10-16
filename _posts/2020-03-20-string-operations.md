@@ -1,7 +1,7 @@
 ---
 title: String Operations in Python 🔄 
 date: 2020-03-20 01:50:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, strings, text-manipulation]
 image:
     path: assets/img/Screenshot from 2024-10-15 17-13-14.png
