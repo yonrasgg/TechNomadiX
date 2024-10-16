@@ -194,4 +194,4 @@ For further reading, check out:
 
 ---
 
-**Next Steps**: In the next post, we will explore **Object-Oriented Programming in Python**, covering classes, objects, methods, and inheritance. Stay tuned and keep coding! 🐍💻
+**Next Steps**: In the next post, we will explore **Error Handling in Python**, covering classes, objects, methods, and inheritance. Stay tuned and keep coding! 🐍💻
