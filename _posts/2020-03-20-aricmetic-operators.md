@@ -7,7 +7,7 @@ image:
     path: assets/img/arithmeticOperators.png
     alt: Python Aritmetic Operators
 ---
-
+  
 **Summary**: In this post, we explore the various arithmetic operators available in Python. You'll learn how to use addition, subtraction, multiplication, and more to perform calculations. We'll also look at how to work with variables to create dynamic operations.
 
 ## What are Arithmetic Operators?
