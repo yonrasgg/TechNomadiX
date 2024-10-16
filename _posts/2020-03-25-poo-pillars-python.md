@@ -1,7 +1,7 @@
 ---
 title: The Pillars of Object-Oriented Programming (OOP) in Python 🐍
 date: 2020-03-23 01:00:00 +/-TTTT
-categories: [DEVOPS, PROGRAMMING, PYTHON]
+categories: [PROGRAMMING, PYTHON]
 tags: [python, oop, encapsulation, abstraction, inheritance, polymorphism]
 image:
     path: assets/img/0_fK1B7WaHDiwmGbpw.jpg
