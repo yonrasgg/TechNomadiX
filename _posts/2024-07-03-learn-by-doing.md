@@ -21,6 +21,18 @@ Learning by doing is a hands-on approach that allows individuals to acquire know
   - 50% of what they hear and see.
   - 70% of what they say or write.
   - 90% of what they do.
+
+  ```mermaid
+  xychart-beta
+
+  title "Information Retention by Activity"
+
+  x-axis [Read, Hear, See, Hear and See, Say or Write, Do]
+
+  y-axis "Retention Percentage (%)" 0 --> 100
+  
+  bar [10, 20, 30, 50, 70, 90]
+  ```
   
   These statistics highlight the effectiveness of an active learning approach, where doing yields the highest retention. This is particularly relevant in DevOps, where hands-on experience is crucial for understanding complex systems and workflows.
 
