@@ -4,8 +4,8 @@ date: 2024-07-03 01:30:00 +/-TTTT
 categories: [DEVOPS, AGILE_METHODOLOGIES]
 tags: [learning, devops, programming, trial-and-error, hands-on, learn-by-doing, poka-yoke]
 image:
-    path: 
-    alt: 
+    path: assets/img/images.png
+    alt: Learn by doing
 ---
 
 In software development and DevOps, both the trial and error method and learning by doing are essential techniques that facilitate practical and experiential learning. These methods acknowledge the dynamic nature of technology, where today's decisions impact tomorrow's possibilities, and where unknowns are inevitable. This blog post explores how these methods support growth in DevOps and programming, emphasizing their practical application, value in building resilience, and integration with other methodologies like the Poka Yoke technique for error prevention.
