@@ -33,7 +33,7 @@ In practice, delivering early allows developers and business stakeholders to col
 - **Sub-point A**: Early releases reduce risks by validating core functionality before investing too much effort in additional features.
 - **Sub-point B**: Continuous feedback from real users makes the software more aligned with user expectations.
 
-*[Reference: Agile Development - A Continuous Improvement Approach](https://example.com/agile-continuous-improvement)*
+*[Reference: Agile Development - A Continuous Improvement Approach](https://link.springer.com/chapter/10.1007/978-3-662-44811-3_4)*
 
 ## Section 2: Embracing Change
 
@@ -48,7 +48,7 @@ Agile methodologies support flexibility by encouraging **modular designs** and a
 - **Sub-point A**: Agile design patterns, such as **microservices**, allow individual components to evolve independently, fostering adaptability.
 - **Sub-point B**: Collaborating with stakeholders throughout development ensures expectations evolve together with the software.
 
-*[Reference: Embracing Change with Agile Methods](https://example.com/agile-embracing-change)*
+*[Reference: Embracing Change with Agile Methods](https://teamdeck.io/resources/embracing-change-how-an-agile-mindset-can-transform-your-approach-to-work/#:~:text=Understanding%20the%20Agile%20Mindset&text=At%20its%20core%2C%20this%20mindset,new%20information%20or%20challenges%20arise.)*
 
 ## Section 3: Frequent Delivery of Functional Software
 
@@ -63,7 +63,7 @@ The key to frequent delivery lies in breaking down features into smaller, manage
 - **Sub-point A**: Small, functional releases help mitigate risks by making incremental progress and avoiding large-scale failures.
 - **Sub-point B**: Real-time user interactions provide a concrete measure of project success rather than relying on abstract documents or reports.
 
-*[Reference: Continuous Delivery in Agile Frameworks](https://example.com/agile-continuous-delivery)*
+*[Reference: Continuous Delivery in Agile Frameworks](https://codefresh.io/learn/continuous-delivery/what-is-continuous-delivery-in-agile-and-creating-a-cd-culture/)*
 
 ## Section 4: Business and Developer Collaboration
 
@@ -74,7 +74,7 @@ To maximize project success, **business leaders and developers** must work toget
 - **Sub-point A**: Developers benefit from direct business feedback, which helps refine system functionalities to fit business needs.
 - **Sub-point B**: Regular meetings, such as **sprint reviews** and **backlog grooming**, ensure constant alignment between development and business priorities.
 
-*[Reference: The Importance of Developer-Business Interaction](https://example.com/agile-business-collaboration)*
+*[Reference: The Importance of Developer-Business Interaction](https://www.linkedin.com/pulse/understanding-importance-developer-relations-tessa-kriesel-48bdc)*
 
 ## Section 5: Motivated Individuals and Efficient Communication
 
@@ -89,7 +89,7 @@ Teams that are empowered to make decisions and trusted to execute tasks are more
 - **Sub-point A**: Clear goals and support from management foster an environment where team members feel motivated and valued.
 - **Sub-point B**: Regular stand-ups and open communication channels reduce misunderstandings and foster quicker problem-solving.
 
-*[Reference: Building Motivated Agile Teams](https://example.com/agile-team-motivation)*
+*[Reference: Building Motivated Agile Teams](https://ericnwankwo.medium.com/ways-to-keep-an-agile-team-motivated-and-engaged-eca9549f1655)*
 
 ## Conclusion
 
