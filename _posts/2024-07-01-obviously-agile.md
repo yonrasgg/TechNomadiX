@@ -10,9 +10,9 @@ image:
 
 This post is inspired by the **Agile Manifesto**, which was formulated by seventeen experts in 2001 at the Snowbird Ski Resort in Utah, USA. The manifesto highlights the importance of agility in software development, including collaboration, adaptability, and frequent delivery.
 
-## Section 1: Values of the Agile Manifesto
+## Values of the Agile Manifesto
 
-**Value 1: Individuals and Interactions Over Processes and Tools**
+**Individuals and Interactions Over Processes and Tools**
 
 The **Agile Manifesto** emphasizes the value of individuals and interactions over processes and tools. People are the key to the success of any software project, and focusing on communication and collaboration results in more productive and cohesive teams.
 
@@ -21,9 +21,9 @@ The **Agile Manifesto** emphasizes the value of individuals and interactions ove
 
 *[Reference: Agile Communication Practices](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/)*
 
-## Section 2: Prioritizing Working Software
+## Prioritizing Working Software
 
-**Value 2: Working Software Over Comprehensive Documentation**
+**Working Software Over Comprehensive Documentation**
 
 In agile development, the focus is on delivering functional software rather than creating exhaustive documentation. **Working software** serves as the primary measure of progress, allowing stakeholders to engage directly with the development product.
 
@@ -32,9 +32,9 @@ In agile development, the focus is on delivering functional software rather than
 
 *[Reference: Delivering Functional Software](https://www.linkedin.com/pulse/functional-side-business-software-delivery-neil-magnuson-pmp-csm)*
 
-## Section 3: Customer Collaboration Throughout Development
+## Customer Collaboration Throughout Development
 
-**Value 3: Customer Collaboration Over Contract Negotiation**
+**Customer Collaboration Over Contract Negotiation**
 
 Agile encourages close **collaboration between customers and development teams** throughout the project. This interaction ensures that the evolving needs of the customer are met effectively.
 
@@ -43,9 +43,9 @@ Agile encourages close **collaboration between customers and development teams**
 
 *[Reference: The Role of Product Owners in Agile](https://scaledagileframework.com/product-owner/#:~:text=The%20Product%20Owner%20(PO)%20is,with%20customer%20and%20stakeholder%20needs.)*
 
-## Section 4: Embracing Change Over Following a Plan
+## Embracing Change Over Following a Plan
 
-**Value 4: Responding to Change Over Following a Plan**
+**Responding to Change Over Following a Plan**
 
 Agile methodologies value the ability to respond to change throughout the project, understanding that flexibility is key to successful software development.
 
@@ -54,7 +54,7 @@ Agile methodologies value the ability to respond to change throughout the projec
 
 *[Reference: Agile Adaptability](https://medium.com/@prestinisebastian/agile-flexibility-and-adaptability-67f87f20a498)*
 
-## Section 5: The Agile Alliance and Community Support
+## The Agile Alliance and Community Support
 
 **The Agile Alliance: A Support Network for Agile Practitioners**
 

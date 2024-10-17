@@ -18,9 +18,9 @@ According to the Agile Manifesto, these twelve principles distinguish agile proc
 
 ![Agile]({{ 'assets/img/process-4116431_1280.jpg' | relative_url }}){: width="700" height="300" }
 
-## Section 1: Delivering Early and Continuously
+## Delivering Early and Continuously
 
-**Principle 1: Satisfy the Customer Through Early and Continuous Delivery**
+**Satisfy the Customer Through Early and Continuous Delivery**
 
 The primary goal of agile methodologies is to deliver **functional and useful software** in short time frames—often within weeks. This approach eliminates the uncertainty and dissatisfaction often associated with long project timelines. Delivering a working product early builds trust with the customer and creates opportunities for **feedback and iteration**.
 
@@ -35,9 +35,9 @@ In practice, delivering early allows developers and business stakeholders to col
 
 *[Reference: Agile Development - A Continuous Improvement Approach](https://link.springer.com/chapter/10.1007/978-3-662-44811-3_4)*
 
-## Section 2: Embracing Change
+## Embracing Change
 
-**Principle 2: Welcome Changing Requirements**
+**Welcome Changing Requirements**
 
 In agile, **change is expected** and welcomed—even late in the development cycle. By viewing evolving requirements as opportunities, agile development can provide competitive advantages that better meet customer needs. This flexibility makes agile well-suited to projects with shifting business landscapes or where **user feedback** drives product iterations.
 
@@ -50,9 +50,9 @@ Agile methodologies support flexibility by encouraging **modular designs** and a
 
 *[Reference: Embracing Change with Agile Methods](https://teamdeck.io/resources/embracing-change-how-an-agile-mindset-can-transform-your-approach-to-work/#:~:text=Understanding%20the%20Agile%20Mindset&text=At%20its%20core%2C%20this%20mindset,new%20information%20or%20challenges%20arise.)*
 
-## Section 3: Frequent Delivery of Functional Software
+## Frequent Delivery of Functional Software
 
-**Principle 3: Deliver Working Software Frequently**
+**Deliver Working Software Frequently**
 
 Delivering functional software at regular intervals, typically between two weeks and two months, ensures that stakeholders see progress and can interact with the evolving system. This frequent delivery keeps the customer engaged, motivated, and able to provide **real-time feedback**.
 
@@ -65,9 +65,9 @@ The key to frequent delivery lies in breaking down features into smaller, manage
 
 *[Reference: Continuous Delivery in Agile Frameworks](https://codefresh.io/learn/continuous-delivery/what-is-continuous-delivery-in-agile-and-creating-a-cd-culture/)*
 
-## Section 4: Business and Developer Collaboration
+## Business and Developer Collaboration
 
-**Principle 4: Continuous Collaboration**
+**Continuous Collaboration**
 
 To maximize project success, **business leaders and developers** must work together closely throughout the development cycle. Agile methodologies stress that the client's input is essential to align the technical solution with business goals effectively.
 
@@ -76,7 +76,7 @@ To maximize project success, **business leaders and developers** must work toget
 
 *[Reference: The Importance of Developer-Business Interaction](https://www.linkedin.com/pulse/understanding-importance-developer-relations-tessa-kriesel-48bdc)*
 
-## Section 5: Motivated Individuals and Efficient Communication
+## Motivated Individuals and Efficient Communication
 
 **Principle 5 & 6: Build Projects Around Motivated Individuals and Emphasize Face-to-Face Communication**
 

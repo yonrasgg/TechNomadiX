@@ -10,7 +10,7 @@ image:
 
 **Participatory leadership** emphasizes involving team members in decision-making processes, fostering collective ownership and innovation. This type of leadership is particularly beneficial in agile environments where collaboration, adaptation, and team empowerment are central to achieving project success.
 
-## Section 1: What is Participatory Leadership?
+## What is Participatory Leadership?
 
 Participatory leadership is a leadership approach that addresses organizational challenges as a team, emphasizing **collective problem-solving** and **co-creation of solutions**. By encouraging active participation, leaders ensure that team members are engaged and take ownership of both their tasks and the overall direction of the project.
 
@@ -19,7 +19,7 @@ Participatory leadership is a leadership approach that addresses organizational 
 
 *[Reference: Benefits of Participatory Leadership in Agile](https://www.imd.org/blog/leadership/participative-leadership/#:~:text=Participative%20leadership%20fosters%20a%20culture,members%20to%20contribute%20more%20actively.)*
 
-## Section 2: Tools and Techniques for Participatory Leadership
+## Tools and Techniques for Participatory Leadership
 
 To facilitate participation, leaders use various tools and techniques to empower their teams, such as **frequent team meetings**, **consensus-driven decision-making**, and **recognition of positive performance**. These methods help build a **high-performance team** that is not only productive but also innovative.
 
@@ -32,7 +32,7 @@ One of the best methods for nurturing participatory leadership is **coaching**. 
 
 *[Reference: Coaching in Agile Leadership](https://www.scrumalliance.org/agile-coaching#:~:text=Agile%20coaching%20instills%20a%20mindset,improvement%2C%20and%20implement%20changes%20iteratively.)*
 
-## Section 3: Agile Leadership and Team Empowerment
+## Agile Leadership and Team Empowerment
 
 **Agile leadership** goes hand-in-hand with participatory leadership. Leaders in agile environments must be facilitators rather than dictators, focusing on both the **business goals** and the **team’s needs**. The transition from a traditional administrative role to an agile leader involves embracing **continuous improvement** and creating functional teams that thrive.
 
@@ -41,7 +41,7 @@ One of the best methods for nurturing participatory leadership is **coaching**. 
 
 *[Reference: Transition to Agile Leadership](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/leading-agile-transformation-the-new-capabilities-leaders-need-to-build-21st-century-organizations)*
 
-## Section 4: The Importance of Teamwork in Participatory Leadership
+## The Importance of Teamwork in Participatory Leadership
 
 Work teams play a crucial role in participatory leadership, enabling organizations to adapt to changing demands. By pooling knowledge, skills, and experiences, teams can address challenges in an agile, flexible, and innovative manner.
 
@@ -61,7 +61,7 @@ However, forming and maintaining an effective team is not without its challenges
 
 *[Reference: Challenges of Teamwork in Participatory Leadership](https://www.reworked.co/leadership/what-is-participative-leadership/)*
 
-## Section 5: The Role of 360º Feedback in Participatory Leadership
+## The Role of 360º Feedback in Participatory Leadership
 
 **360º Feedback** is a tool that facilitates both giving and receiving feedback within teams. It helps evaluate individual performance and encourages self-reflection, which is key in participatory leadership.
 
