@@ -1,6 +1,6 @@
 ---
 title: Communication and Motivation in Agile Teams 
-date: 2024-07-02 01:30:00 +/-TTTT
+date: 2024-07-02 01:40:00 +/-TTTT
 categories: [DEVOPS, AGILE_METHODOLOGIES]
 tags: [communication, motivation, teamwork, agile, devops]
 image:
