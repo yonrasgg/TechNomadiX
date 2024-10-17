@@ -39,7 +39,7 @@ The **Vision** defines what the team is building and why, while the **Product Ba
 - Feedback loops mitigate risk by validating progress incrementally rather than waiting for a single end-point evaluation.
 - Continuous feedback keeps the team aligned with customer needs, which often evolve as the project progresses.
 
-*[Reference: Role of Feedback in Agile]()*
+*[Reference: Role of Feedback in Agile](https://businessmap.io/blog/feedback-loops)*
 
 ## Section 3: Timeboxing and Onion Planning
 
@@ -75,7 +75,7 @@ In **traditional planning**, progress is often measured by the completion of pre
 - Traditional planning generally delivers the product at the end, making it hard to pivot if the requirements change. Agile allows **incremental product releases**, offering stakeholders a chance to validate features at every stage.
 - Retrospectives held at the end of each iteration enable teams to constantly improve their processes and product quality, something that’s missing in most traditional project management methodologies.
 
-*[Reference: Empirical Control vs Predictive Control in Project Management](https://www.projectmanagement.com/articles/881889/defined-vs--empirical-process-control--choosing-the-best-approach#_=_)*
+*[Reference: Empirical Control vs Predictive Control in Project Management](https://www.projectmanagement.com/articles/881889/defined-vs--empirical-process-control--choosing-the-best-approach#_=)*
 
 ## Conclusion
 
