@@ -33,3 +33,12 @@ TechNomadiX is a space for those who love to tinker and create. We explore DIY p
 
 **Join the TechNomadiX Community**  
 TechNomadiX isn’t just a blog—it’s a journey of exploration. Our readers are passionate, curious, and always seeking the next discovery. We invite you to join the conversation, share your insights, and learn alongside a community that loves to question, create, and expand their tech horizons.
+
+---
+<script src="https://www.paypal.com/sdk/js?client-id=BAAQWxp7Y--CaAvlDSWs8GnFYeV5KhGZVtCZ2rRzDpzrx-uQHcmL8S75p9wmbGSOhByoJe8H6VlgTyojvg&components=hosted-buttons&disable-funding=venmo&currency=USD"></script>
+<div id="paypal-container-K23BDVULBFBS8"></div>
+<script>
+  paypal.HostedButtons({
+    hostedButtonId: "K23BDVULBFBS8",
+  }).render("#paypal-container-K23BDVULBFBS8")
+</script>
