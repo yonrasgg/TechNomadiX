@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: ENV['GOOGLE_VERIFICATION_CODE'] 
+  google: ENV['google-site-verification'] 
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: ENV['google-site-verification']
+    id: ENV['GOOGLE_ANALYTICS_ID']
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
