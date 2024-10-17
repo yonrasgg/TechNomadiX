@@ -101,7 +101,7 @@ tail_includes:
 
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
-    {% if page.categories.size > 0 %}
+    {% if page.categories and page.categories.size > 0 %}
       <div class="post-meta mb-3">
         <i class="far fa-folder-open fa-fw me-1"></i>
         {% for category in page.categories %}
@@ -112,7 +112,7 @@ tail_includes:
     {% endif %}
 
     <!-- tags -->
-    {% if page.tags.size > 0 %}
+    {% if page.tags and page.tags.size > 0 %}
       <div class="post-tags">
         <i class="fa fa-tags fa-fw me-1"></i>
         {% for tag in page.tags %}
@@ -150,3 +150,22 @@ tail_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
+
+<!-- Add the Giscus script here -->
+<div class="giscus"></div>
+<script src="https://giscus.app/client.js"
+  data-repo="yonrasgg/TechNomadiX"
+  data-repo-id="R_kgDOM9fufg"
+  data-category="General"
+  data-category-id="DIC_kwDOM9fufs4CjZpx"
+  data-mapping="title"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="1"
+  data-input-position="top"
+  data-theme="preferred_color_scheme"
+  data-lang="en"
+  data-loading="lazy"
+  crossorigin="anonymous"
+  async>
+</script>
