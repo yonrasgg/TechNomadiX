@@ -54,7 +54,7 @@ jobs:
         run: 
           echo "GOOGLE_ANALYTICS_ID=${{ secrets.GOOGLE_ANALYTICS_ID }}"
           echo "GOOGLE_SITE_VERIFICATION=${{ secrets.GOOGLE_SITE_VERIFICATION }}"
-          bundle exec jekyll b -d "_site"
+          bundle exec jekyll -d "_site"
         env:
           JEKYLL_ENV: "production"
           GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
@@ -62,7 +62,7 @@ jobs:
 
       - name: Verify site build
         run: |
-          if [ ! -d "_site${{ steps.pages.outputs.base_path }}" ]; then
+          if [ ! -d "_site" ]; then
             echo "Error: _site directory does not exist."
             exit 1
           fi
@@ -76,7 +76,7 @@ jobs:
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "_site${{ steps.pages.outputs.base_path }}"
+          path: "_site"
 
   deploy:
     environment:
