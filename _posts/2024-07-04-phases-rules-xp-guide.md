@@ -60,7 +60,7 @@ The **Production Start-Up Phase** marks the point where the developed functional
 
 *[Production Phase in XP](https://en.wikipedia.org/wiki/Extreme_programming)*
 
-## Section 3: Rules and Practices in Extreme Programming
+## Rules and Practices in Extreme Programming
 
 Extreme Programming is governed by specific rules that help maintain its flexibility and effectiveness throughout the project.
 
