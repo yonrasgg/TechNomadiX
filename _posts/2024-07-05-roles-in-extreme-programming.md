@@ -19,7 +19,7 @@ In XP, the **programmer** is primarily responsible for writing the system code a
 
 By keeping programmers involved in both technical development and customer interaction, XP facilitates a close feedback loop that leads to rapid adjustments and precise feature implementation.
 
-* [Programmer's Responsibilities in XP](https://www.linkedin.com/advice/1/how-can-you-ensure-extreme-programming-roles-67pdf)*
+*[Programmer's Responsibilities in XP](https://www.linkedin.com/advice/1/how-can-you-ensure-extreme-programming-roles-67pdf)*
 
 ## Client as the Project Leader
 
