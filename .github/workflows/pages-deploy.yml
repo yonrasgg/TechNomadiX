@@ -49,8 +49,8 @@ jobs:
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"
-          GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID || '' }}
-          GOOGLE_SITE_VERIFICATION: ${{ secrets.GOOGLE_SITE_VERIFICATION || '' }}
+          GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
+          GOOGLE_SITE_VERIFICATION: ${{ secrets.GOOGLE_SITE_VERIFICATION }}
 
       - name: Test site
         run: |
