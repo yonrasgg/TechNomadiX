@@ -48,7 +48,7 @@ The **Iterations Phase** is the heart of the XP methodology. During this phase, 
 - **Client Involvement**: The client plays an active role, providing input for each iteration and ensuring the development aligns with their needs. The progress of each iteration is an essential measure of the project's overall success.
 - **Iteration Count**: Typically, an XP project contains between 10 to 15 iterations, each contributing incrementally to the overall product.
 
-*[Extreme Programming Rules](https://www.extremeprogramming.org/rules.html)*
+*[Extreme Programming Rules](https://extremeprogrammingalliance.com/about-extreme-programming-xp/extreme-programming-xp-rules/)*
 
 ### **2.4 Production Start-Up Phase**
 
