@@ -35,11 +35,6 @@ jobs:
           # If using the 'assets' git submodule from Chirpy Starter, uncomment above
           # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
 
-      - name: Print Environment Variables
-        run: |
-          echo "GOOGLE_ANALYTICS_ID=${{ secrets.GOOGLE_ANALYTICS_ID }}"
-          echo "GOOGLE_SITE_VERIFICATION=${{ secrets.GOOGLE_SITE_VERIFICATION }}"
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -50,6 +45,11 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
+      - name: Print Environment Variables
+        run: |
+          echo "GOOGLE_ANALYTICS_ID=${{ secrets.GOOGLE_ANALYTICS_ID }}"
+          echo "GOOGLE_SITE_VERIFICATION=${{ secrets.GOOGLE_SITE_VERIFICATION }}"
+
       - name: Build site
         run: 
           echo "GOOGLE_ANALYTICS_ID=${{ secrets.GOOGLE_ANALYTICS_ID }}"
@@ -59,6 +59,13 @@ jobs:
           JEKYLL_ENV: "production"
           GOOGLE_ANALYTICS_ID: ${{ secrets.GOOGLE_ANALYTICS_ID }}
           GOOGLE_SITE_VERIFICATION: ${{ secrets.GOOGLE_SITE_VERIFICATION }}
+
+      - name: Verify site build
+        run: |
+          if [ ! -d "_site${{ steps.pages.outputs.base_path }}" ]; then
+            echo "Error: _site directory does not exist."
+            exit 1
+          fi
 
       - name: Test site
         run: |
