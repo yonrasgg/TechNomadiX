@@ -5,7 +5,7 @@ categories: [AGILE_METHODOLOGIES, EXTREME_PROMGRAMMING]
 tags: [extreme-programming, agile-methodology, iterative-development, user-stories, xp-phases, devops]
 image:
     path: assets/img/Release3.png
-    alt: Phases of extreme programming
+    alt: Phases of Extreme Programming
 ---
 
 Extreme Programming (XP) is an agile software development methodology that emphasizes customer satisfaction, continuous feedback, and iterative progress. XP is particularly suited for projects with changing requirements and helps teams efficiently navigate the uncertainty that accompanies software development. In this blog post, we delve into the core phases and rules of XP, providing a detailed understanding of how this methodology can be implemented effectively in modern development environments.
