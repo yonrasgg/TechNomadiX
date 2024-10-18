@@ -14,6 +14,9 @@
     <meta name="google-site-verification" content="{{ site.webmaster_verifications.google }}" />
   {% endif %}
 
+  <!-- Include Google Analytics -->
+  {% include analytics/google.html %}
+
   {%- capture seo_tags -%}
     {% seo title=false %}
   {%- endcapture -%}
