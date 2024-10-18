@@ -1,6 +1,6 @@
 ---
 title: The Phases and Rules of Extreme Programming - A Comprehensive Guide 
-date: 2024-07-03 01:30:00 +/-TTTT
+date: 2024-07-04 01:50:00 +/-TTTT
 categories: [AGILE_METHODOLOGIES, EXTREME_PROMGRAMMING]
 tags: [extreme-programming, agile-methodology, iterative-development, user-stories, xp-phases, devops]
 image:
@@ -38,7 +38,7 @@ The **Planning Phase** focuses on determining the order in which user stories wi
 - **Collaborative Planning**: Continuous dialogue between the parties involved is crucial. If any of the user stories do not provide enough certainty, teams may conduct small tests—referred to as “spikes”—to reduce risk and provide clarity.
 - **Release Plan**: User stories are prioritized based on their importance, and grouped to form releases. Planning is not a one-time event; regular meetings are scheduled to evaluate and adjust the delivery plan as needed.
 
-*[Planning Techniques in XP](https://hygger.io/blog/4-steps-to-planning-game-in-extreme-programming/)*
+*[Iteration Planning](https://www.extremeprogramming.org/rules/iterationplanning.html)*
 
 ### **2.3 Iterations Phase**
 
@@ -48,7 +48,7 @@ The **Iterations Phase** is the heart of the XP methodology. During this phase, 
 - **Client Involvement**: The client plays an active role, providing input for each iteration and ensuring the development aligns with their needs. The progress of each iteration is an essential measure of the project's overall success.
 - **Iteration Count**: Typically, an XP project contains between 10 to 15 iterations, each contributing incrementally to the overall product.
 
-*[Iterations in XP](http://www.extremeprogramming.org/rules/iterationplanning.html)*
+*[Extreme Programming Rules](https://www.extremeprogramming.org/rules.html)*
 
 ### **2.4 Production Start-Up Phase**
 
