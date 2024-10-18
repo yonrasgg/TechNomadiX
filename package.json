@@ -4,15 +4,15 @@
   "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
+    "url": "https://github.com/yonrasgg/TechNomadiX.git"
   },
-  "author": "Cotes Chung",
+  "author": "Geovanny Alpizar S <geovanny.alpizar@protonmail.com>",
   "license": "MIT",
   "since": 2019,
   "bugs": {
-    "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
+    "url": "https://github.com/yonrasgg/TechNomadiX/issues"
   },
-  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy/",
+  "homepage": "https://github.com/yonrasgg/TechNomadiX",
   "scripts": {
     "build": "concurrently npm:build:*",
     "build:css": "purgecss -c purgecss.config.js",
