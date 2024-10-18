@@ -38,7 +38,7 @@ The **Planning Phase** focuses on determining the order in which user stories wi
 - **Collaborative Planning**: Continuous dialogue between the parties involved is crucial. If any of the user stories do not provide enough certainty, teams may conduct small tests—referred to as “spikes”—to reduce risk and provide clarity.
 - **Release Plan**: User stories are prioritized based on their importance, and grouped to form releases. Planning is not a one-time event; regular meetings are scheduled to evaluate and adjust the delivery plan as needed.
 
-*[Iteration Planning](https://www.extremeprogramming.org/rules/iterationplanning.html)*
+*[Iteration Planning](https://www.pmi.org/disciplined-agile/product-owner/practice-iteration-planning-meeting)*
 
 ### **2.3 Iterations Phase**
 
