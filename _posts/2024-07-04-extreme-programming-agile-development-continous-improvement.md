@@ -2,7 +2,7 @@
 title: Extreme Programming - Agile Development for Continuous Improvement 
 date: 2024-07-03 01:00:00 +/-TTTT
 categories: [AGILE_METHODOLOGIES, EXTREME_PROMGRAMMING]
-tags: [extreme programming, xp, agile, iterative-processes, customer-satisfaction, continuous-integration]
+tags: [extreme programming, xp, agile, iterative-processes, customer-satisfaction, continuous-integration, devops]
 image:
     path: assets/img/5786244105_2072a069e5_b.jpg
     alt: Extreme Programming
