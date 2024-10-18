@@ -43,7 +43,7 @@ Learning by doing is a hands-on approach that allows individuals to acquire know
   - **Knowledge Construction**: Moving from practical to theoretical, this stage focuses on deriving lessons and building conceptual knowledge.
   - **Application to Future Projects**: Finally, individuals consider how the learned lessons can be applied to similar situations in the future, avoiding the same mistakes and applying successful strategies.
 
-*[Reference: [John Dewey on Learning by Doing](https://www.pedagogy4change.org/john-dewey/)]*
+*[John Dewey on Learning by Doing](https://www.pedagogy4change.org/john-dewey/)*
 
 ## Trial and Error in Programming and DevOps
 
@@ -58,7 +58,7 @@ Trial and error is a heuristic approach that involves trying different solutions
   - **Traceability to Requirements**: All tests must be directly traceable to customer requirements to ensure that they meet intended outcomes.
   - **Planned and Structured**: Tests should be planned well in advance, starting with small modules and progressively integrating them to test the entire system.
 
-*[Reference: [Principles of Software Testing](https://www.javatpoint.com/software-testing-principles)]*
+*[Principles of Software Testing](https://www.javatpoint.com/software-testing-principles)*
 
 ## Poka Yoke Technique in DevOps
 
@@ -77,7 +77,7 @@ The Poka Yoke technique, which means “avoid mistakes” in Japanese, is aimed 
   - **Customer Satisfaction**: Delivering high-quality products leads to better customer satisfaction and loyalty.
   - **Reduction in Rework**: Identifying defects earlier in the process reduces the need for rework, saving time and resources.
 
-*[Reference: [Poka Yoke in DevOps](https://businessmap.io/lean-management/improvement/what-is-poka-yoke#:~:text=Poka%2DYoke%20is%20any%20mechanism,human%20errors%20as%20they%20occur.)]*
+*[Poka Yoke in DevOps](https://businessmap.io/lean-management/improvement/what-is-poka-yoke#:~:text=Poka%2DYoke%20is%20any%20mechanism,human%20errors%20as%20they%20occur.)*
 
 ## Conclusion
 

@@ -17,7 +17,7 @@ Effective **communication and motivation** are cornerstones of successful teamwo
 - **Intrinsic motivation** refers to internal factors such as a sense of accomplishment, autonomy, and personal growth. For example, developers often find motivation in seeing their code come to life or solving a challenging problem.
 - **Extrinsic motivation** includes external rewards like bonuses, promotions, and recognition. In agile teams, promoting motivation through regular feedback, recognition in sprint reviews, and giving team members ownership over their work can enhance productivity.
 
-*[Reference: Motivation in Agile Teams](https://www.scrum.org/resources/blog/motivating-scrum-teams-my-insights-scrum-master)*
+*[Motivation in Agile Teams](https://www.scrum.org/resources/blog/motivating-scrum-teams-my-insights-scrum-master)*
 
 ### Motivation Models in Agile Environments
 
@@ -36,7 +36,7 @@ Three major models help us understand how to foster motivation in agile teams:
 - **Clarity and Conciseness** are vital for effective communication in agile teams. Information should be conveyed in a direct and understandable way, which helps avoid confusion during fast-paced sprints.
 - **Non-verbal aspects**, such as tone, volume, and body language, also contribute significantly to communication quality. For instance, a firm but friendly tone can instill confidence during team meetings.
 
-*[Reference: Effective Communication Techniques in Agile Teams](https://www.scrum.org/resources/blog/agile-principles-effective-communication)*
+*[Effective Communication Techniques in Agile Teams](https://www.scrum.org/resources/blog/agile-principles-effective-communication)*
 
 ### Communication Levels in Agile Teams
 
@@ -45,7 +45,7 @@ In agile environments, communication occurs on multiple levels—**intragroup co
 - **Intragroup Communication**: Effective **daily stand-ups** and **sprint retrospectives** are key practices for maintaining open communication within a team. They ensure everyone is aware of each other’s progress, promoting transparency and accountability.
 - **Intergroup Communication**: **Inter-team meetings** are essential when different teams are working on the same product. These meetings help synchronize progress, address interdependencies, and align goals.
 
-*[Reference: Levels of Agile Team Communication](https://simpleprogrammer.com/effective-communication-agile-teams/)*
+*[Levels of Agile Team Communication](https://simpleprogrammer.com/effective-communication-agile-teams/)*
 
 ## Motivation and Communication Techniques in Practice
 
@@ -58,7 +58,7 @@ The **Johari Window** is a model that helps team members understand each other b
 - **Blind Area**: Information others know about us but we are unaware of. Feedback helps reduce this area, fostering growth and understanding.
 - **Unknown Area**: Aspects unknown to both oneself and others, which can be explored over time through self-discovery and feedback.
 
-*[Reference: Applying the Johari Window in Agile Teams](https://medium.com/@agilefreya/using-the-johari-window-to-elevate-your-agile-team-coaching-2e72551b4cb0)*
+*[Applying the Johari Window in Agile Teams](https://medium.com/@agilefreya/using-the-johari-window-to-elevate-your-agile-team-coaching-2e72551b4cb0)*
 
 ### Para-verbal and Non-verbal Communication in Agile
 
@@ -67,7 +67,7 @@ In agile teams, non-verbal communication aspects like **tone of voice**, **volum
 - **Volume** should be constant to avoid misinterpretation. Speaking too loudly may come across as aggressive, while speaking too softly can convey uncertainty.
 - The **tone** of voice affects how a message is received. In agile, maintaining an encouraging and confident tone during meetings helps motivate team members, especially during challenging discussions.
 
-*[Reference: Para-verbal Communication in Agile](https://projectbliss.net/paraverbal-communication/)*
+*[Para-verbal Communication in Agile](https://projectbliss.net/paraverbal-communication/)*
 
 ### The Role of Motivation in Skill Utilization
 
@@ -76,7 +76,7 @@ Motivation isn’t just about being eager to work; it's also about effectively u
 - **Skill and knowledge** are necessary for job performance, but without motivation, their application is limited. Agile practices like pairing and mentoring can help bridge this gap, providing motivational boosts while improving competencies.
 - Practices such as **goal setting** and **recognition** can further enhance motivation, helping individuals and teams achieve high levels of performance and satisfaction.
 
-*[Reference: Motivation and Skill Utilization in Agile Teams](https://www.scrum.org/resources/blog/agile-principles-motivated-people)*
+*[Motivation and Skill Utilization in Agile Teams](https://www.scrum.org/resources/blog/agile-principles-motivated-people)*
 
 ## Conclusion
 
@@ -84,4 +84,4 @@ Effective **communication and motivation** are pivotal in agile teams, ensuring 
 
 For more detailed insights, explore the references provided throughout this post to understand how you can apply these principles to your own agile teams.
 
-*[Explore More: Improving Communication and Motivation in Agile Teams](https://asana.com/resources/team-communication)*
+*[Improving Communication and Motivation in Agile Teams](https://asana.com/resources/team-communication)*

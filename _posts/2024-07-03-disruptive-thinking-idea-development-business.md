@@ -19,7 +19,7 @@ Disruptive thinking involves breaking away from traditional ideas and adopting f
 
 - **Embracing the Unexpected**: Disruptive thinking often starts by identifying opportunities where others may not expect them. For example, looking at areas in your business that are not broken and attempting to innovate can yield powerful results. As the old adage goes, "If it ain't broke, don't fix it" is often the enemy of progress.
 
-*[Reference: [Luke Williams on Disruptive Thinking](https://www.amazon.com/Disrupt-Think-Unthinkable-Transformation-Business/dp/0137025149)]*
+*[Luke Williams on Disruptive Thinking](https://www.amazon.com/Disrupt-Think-Unthinkable-Transformation-Business/dp/0137025149)*
 
 ## Ingredients for Successful Disruptive Innovation
 
@@ -29,7 +29,7 @@ The basis of disruptive innovation lies in creativity—the ability to think dif
 
 - **Identifying the Surplus Society**: Williams also describes the concept of the "surplus society," where businesses fall into a cycle of sameness. Disruptive innovation requires stepping out of these conventions and rethinking what is possible. An example of this is Jonah Staw’s concept of selling mismatched socks as a business idea—a simple yet highly effective disruption that turned a mundane problem into a successful product.
 
-*[Reference: [Paul Romer on Ideas as Recipes](https://www.forbes.com/sites/briandomitrovic/2018/10/08/paul-romers-economic-growth-recipes-are-delicious-and-nutritious/)]*
+*[Paul Romer on Ideas as Recipes](https://www.forbes.com/sites/briandomitrovic/2018/10/08/paul-romers-economic-growth-recipes-are-delicious-and-nutritious/)*
 
 ## Developing Disruptive Ideas
 
@@ -39,7 +39,7 @@ For an idea to have an impact, it must be developed correctly. Effective idea de
 
 - **From Ideation to Implementation**: Once a creative idea is generated, it must be translated into actionable steps. This process involves presenting the idea, making a detailed business plan, and attracting stakeholders. Disruptive ideas often need a supportive organizational structure to flourish—one that allows freedom, tolerates failure, and encourages experimentation.
 
-*[Reference: [Techniques for Creativity](https://www.telefonica.com/en/communication-room/blog/methods-techniques-boost-creativity/)]*
+*[Techniques for Creativity](https://www.telefonica.com/en/communication-room/blog/methods-techniques-boost-creativity/)*
 
 ## Creativity and Innovation in Organizations
 
@@ -73,7 +73,7 @@ graph TB
 
 - **Promoting Creativity**: Organizations should create environments that foster creativity. This includes offering flexible workspaces, encouraging open dialogue, and rewarding innovative ideas. By allowing employees to express themselves freely, organizations can drive greater creativity and innovation.
 
-*[Reference: [Stages of Innovation](https://www.lead-innovation.com/en/insights/english-blog/innovation-process)]*
+*[Stages of Innovation](https://www.lead-innovation.com/en/insights/english-blog/innovation-process)*
 
 ## Conclusion
 

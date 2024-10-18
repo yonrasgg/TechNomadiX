@@ -24,7 +24,7 @@ User stories align with the fundamental principles of **agile methodologies** an
 - A user story often consists of just enough detail to kick off **conversations** between the client and development team, ensuring shared understanding.
 - It focuses on **collaboration** rather than a rigid, top-down documentation process.
 
-*[Reference: User Stories and Agile Communication](https://www.agilealliance.org/glossary/user-stories/)*
+*[User Stories and Agile Communication](https://www.agilealliance.org/glossary/user-stories/)*
 
 ## The Three Cs of a User Story
 
@@ -48,7 +48,7 @@ The **Conversation** is the dialogue that surrounds the story. It is the **core*
 - The acceptance criteria clarify when a story is **complete and functioning as expected**, aligning development efforts with customer expectations.
 - Test cases and user acceptance tests are common forms of confirmation that ensure quality.
 
-*[Reference: The Three Cs of User Stories](https://www.agilealliance.org/glossary/three-cs/)*
+*[The Three Cs of User Stories](https://www.agilealliance.org/glossary/three-cs/)*
 
 ## The INVEST Model for User Stories
 
@@ -66,7 +66,7 @@ The **INVEST** model, created by Bill Wake, defines six characteristics that mak
 - An example of an independent story might involve implementing a specific button function, which does not rely on other features to be completed.
 - To ensure stories are testable, criteria should be defined clearly, such as "the button must redirect to the home page when clicked".
 
-*[Reference: Applying the INVEST Model](https://www.agilealliance.org/glossary/invest/)*
+*[Applying the INVEST Model](https://www.agilealliance.org/glossary/invest/)*
 
 ## Story Mapping and User Roles
 
@@ -86,7 +86,7 @@ The **INVEST** model, created by Bill Wake, defines six characteristics that mak
 - Conduct brainstorming sessions with stakeholders to generate a list of roles.
 - Categorize, refine, and consolidate these roles to ensure no overlap.
 
-*[Reference: Story Mapping for Agile Teams](https://www.agilealliance.org/glossary/story-mapping/)*
+*[Story Mapping for Agile Teams](https://www.agilealliance.org/glossary/story-mapping/)*
 
 ## Conclusion
 
@@ -94,4 +94,4 @@ User stories are an essential part of agile methodologies, emphasizing **collabo
 
 For a deeper understanding, explore the references provided throughout this post and consider how you can integrate these principles into your next agile project.
 
-*[Explore More: User Stories in Agile Development](https://www.agilealliance.org/glossary/user-story-template/)*
+*[User Stories in Agile Development](https://www.agilealliance.org/glossary/user-story-template/)*

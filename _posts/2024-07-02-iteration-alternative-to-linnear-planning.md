@@ -17,7 +17,7 @@ This article discusses **iteration** as an approach to planning that contrasts w
 - Linear planning is predictive and aims to control future conditions through extensive upfront planning. It works well for projects with predictable outputs but can be inflexible when dealing with changing environments.
 - Agile planning is adaptive, focusing on iteration, which involves **incremental improvements** and real-time feedback from stakeholders to adjust direction. This makes it particularly suitable for software development projects where requirements are dynamic.
 
-*[Reference: Iterative vs. Linear Planning in Agile](https://mpug.com/education/understanding-linear-and-iterative-project-management-methodologies/)*
+*[Iterative vs. Linear Planning in Agile](https://mpug.com/education/understanding-linear-and-iterative-project-management-methodologies/)*
 
 ## Elements of Agile Planning
 
@@ -30,7 +30,7 @@ The **Vision** defines what the team is building and why, while the **Product Ba
 - The **Product Backlog** allows for dynamic prioritization, helping teams focus on tasks that deliver the most value to the customer.
 - The **Iteration Backlog** supports short-term planning, ensuring that high-priority features are delivered within a predictable timeframe.
 
-*[Reference: Agile Planning Elements](https://businessmap.io/agile/project-management/planning)*
+*[Agile Planning Elements](https://businessmap.io/agile/project-management/planning)*
 
 ### Feedback Loops and Continuous Improvement
 
@@ -39,7 +39,7 @@ The **Vision** defines what the team is building and why, while the **Product Ba
 - Feedback loops mitigate risk by validating progress incrementally rather than waiting for a single end-point evaluation.
 - Continuous feedback keeps the team aligned with customer needs, which often evolve as the project progresses.
 
-*[Reference: Role of Feedback in Agile](https://businessmap.io/blog/feedback-loops)*
+*[Role of Feedback in Agile](https://businessmap.io/blog/feedback-loops)*
 
 ## Timeboxing and Onion Planning
 
@@ -50,14 +50,14 @@ The **Vision** defines what the team is building and why, while the **Product Ba
 - Timeboxing helps keep the team focused and limits time spent on less valuable tasks. In **Scrum**, each **Sprint** is timeboxed, ensuring that the scope remains manageable within the set duration.
 - The concept of timeboxing also ensures that work is prioritized effectively. For example, if a sprint lasts three weeks, the team is committed to delivering what was agreed upon within that time.
 
-*[Reference: Understanding Timeboxing in Agile](https://businessmap.io/blog/feedback-loops)*
+*[Understanding Timeboxing in Agile](https://businessmap.io/blog/feedback-loops)*
 
 ### Onion Planning Explained
 
 - At the highest level of **Onion Planning**, strategic goals determine the broad objectives of the organization, similar to a **roadmap** for achieving overall success.
 - As we move to the lower layers—**Portfolio**, **Product**, **Deliveries**, and **Iteration**—the plans become more detailed and focused, offering a clear understanding of each level's function and goals.
 
-*[Reference: Onion Planning in Agile](https://medium.com/@sadanand.humane/the-agile-planning-onion-brief-overview-d7d08362e91d)*
+*[Onion Planning in Agile](https://medium.com/@sadanand.humane/the-agile-planning-onion-brief-overview-d7d08362e91d)*
 
 ## Benefits of Iterative Planning
 
@@ -66,7 +66,7 @@ The **Vision** defines what the team is building and why, while the **Product Ba
 - Iterative planning allows teams to start with **high-level requirements** and refine them as the project progresses. This provides flexibility in responding to customer needs, often resulting in a product that more closely matches the client's expectations.
 - **Risk reduction** is another major advantage. With each iteration, a working product is delivered, allowing for continuous customer feedback and ensuring that the project is on track.
 
-*[Reference: Advantages of Iterative Planning](https://asana.com/resources/iterative-process)*
+*[Advantages of Iterative Planning](https://asana.com/resources/iterative-process)*
 
 ## Comparing Iterative and Traditional Planning
 
@@ -75,7 +75,7 @@ In **traditional planning**, progress is often measured by the completion of pre
 - Traditional planning generally delivers the product at the end, making it hard to pivot if the requirements change. Agile allows **incremental product releases**, offering stakeholders a chance to validate features at every stage.
 - Retrospectives held at the end of each iteration enable teams to constantly improve their processes and product quality, something that’s missing in most traditional project management methodologies.
 
-*[Reference: Empirical Control vs Predictive Control in Project Management](https://www.projectmanagement.com/articles/881889/defined-vs--empirical-process-control--choosing-the-best-approach#_=)*
+*[Empirical Control vs Predictive Control in Project Management](https://www.projectmanagement.com/articles/881889/defined-vs--empirical-process-control--choosing-the-best-approach#_=)*
 
 ## Conclusion
 
@@ -83,4 +83,4 @@ In **traditional planning**, progress is often measured by the completion of pre
 
 For a deeper understanding of these agile planning strategies, please refer to the resources linked throughout this post.
 
-*[Explore More: Agile Iterative Planning Techniques](https://www.agilebusiness.org/dsdm-project-framework/iterative-development.html)*
+*[Agile Iterative Planning Techniques](https://www.agilebusiness.org/dsdm-project-framework/iterative-development.html)*
