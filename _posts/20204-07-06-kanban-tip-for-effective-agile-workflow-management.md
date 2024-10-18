@@ -17,7 +17,7 @@ One of the fundamental principles for starting Kanban is developing a **mixed pr
 - **Flexible Production**: Avoid manufacturing large quantities of a single product model by promoting a mixed production approach. This enables the team to adjust to varying customer demands and avoids the challenges that arise from dealing with large inventories of a single item. In software development, this translates to diversifying the types of tasks or user stories being handled concurrently, rather than focusing solely on one type, such as bug fixes or feature development.
 - **Decreasing Lot Sizes**: By decreasing lot sizes, you create an environment where production can be more flexible and adaptable to changes. In a DevOps context, smaller increments of work facilitate faster feedback, reduced bottlenecks, and better alignment with customer expectations.
 
-*[Kanban Mixed Production Tips]()*
+*[Kanban Mixed Production Tips](https://mariachec.medium.com/mastering-kanban-keeping-your-workflow-in-check-8bee3661b60a)*
 
 ## Process Speed and Transportation Efficiency
 
@@ -28,16 +28,16 @@ Maintaining the **speed of each process step** consistently is crucial for a bal
 
 Effective Kanban relies on reducing any unnecessary time wastage during handoffs, ensuring that each step is carried out in a predictable and timely manner.
 
-*[Process Flow Efficiency in Kanban]()*
+*[Process Flow Efficiency in Kanban](https://medium.com/the-cardsmith-adventures/how-to-boost-your-productivity-with-a-kanban-and-scrum-hybrid-a79a900d275b)*
 
-## Section 3: Establishing a Kanban Path and Communication
+## Establishing a Kanban Path and Communication
 
 A **Kanban path** is essentially a map that reflects the flow of needs throughout the production cycle. Establishing a well-defined path helps visualize the entire process, identify weak points, and ensure better coordination among teams.
 
 - **Flow Visualization**: Visualizing the Kanban path helps teams understand how work progresses from one phase to another. This is facilitated by clearly defined stages on the Kanban board—such as backlog, in progress, review, and done. A well-visualized workflow ensures that everyone is aware of what needs to happen next and identifies any bottlenecks quickly.
 - **Enhancing Communication**: **Good communication** among all stakeholders, from sales to production, is a cornerstone of Kanban's success. Regular meetings such as **stand-ups** and review sessions keep the entire team aligned on priorities and project health. Clear communication paths ensure that issues are resolved quickly, fostering an atmosphere of collaboration and continuous improvement.
 
-*[Kanban Path and Communication]()*
+*[Kanban Path and Communication](https://medium.com/@jessica_15943/enhancing-family-flow-and-communication-with-kanban-aa273745805a)*
 
 ## Trust, Respect, and Clear Criteria
 
@@ -48,7 +48,7 @@ Kanban is built on the values of **honesty, trust, and respect** within the team
 
 A Kanban system works best when the team operates transparently, with clear guidelines and mutual respect among members, thus fostering a strong sense of accountability.
 
-*[Trust and Criteria in Kanban]()*
+*[Trust and Criteria in Kanban](https://kanbanzone.com/2019/six-rules-of-kanban/)*
 
 ## The High-Performance Tree Concept
 
@@ -62,7 +62,7 @@ The concept of the **high-performance tree** represents the solid foundation req
 
 The aim is to encourage honesty, trust, and respect, which then fosters an environment where each team member has the courage to accept change. By embracing these principles, teams can optimize each phase of their workflow and create a balanced, productive work environment.
 
-*[High-Performance Principles in Kanban]()*
+*[High-Performance Principles in Kanban](https://teamhood.com/kanban-resources/kanban-principles/)*
 
 ## Conclusion
 
