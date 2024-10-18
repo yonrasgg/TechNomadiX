@@ -16,7 +16,7 @@ Before exploring the phases, it is important to understand the four primary vari
 
 For example, if the client sets the scope and quality, and the project manager defines the budget, then the team has the freedom to determine the project’s duration. This interplay between variables ensures the project remains adaptable and responsive to changes.
 
-*[XP Variables in Project Management](https://agilepm.wiki/dsdm-agile-project-framework/philosophy/project-variables/)*
+*[XP Variables in Project Management](https://agilepm.wiki/dsdm-agile-project-framework/philosophy/project-variables/#:~:text=The%20typical%20project%20variables%20are,out%20the%20variations%20in%20others.)*
 
 ## The Life Cycle of Extreme Programming Projects
 
