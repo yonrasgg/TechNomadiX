@@ -68,7 +68,7 @@ Extreme Programming is governed by specific rules that help maintain its flexibi
 - **Testing and Feedback**: Testing is crucial in XP. Automated tests, continuous integration, and frequent feedback help catch errors early, facilitating smoother progress.
 - **Team Autonomy and Client Interaction**: Teams in XP are given the autonomy to make decisions that affect their workflow, with the client providing guidance to ensure the project remains on track.
 
-*[Rules and Practices of XP](http://www.extremeprogramming.org/rules.html)*
+*[Rules and Practices of XP](https://www.altexsoft.com/blog/extreme-programming-values-principles-and-practices/)*
 
 ## Conclusion
 
