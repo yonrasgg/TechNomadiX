@@ -63,10 +63,10 @@ From using AWS Artifact for accessing compliance reports to integrating the Clou
 
 <div id="carousel" style="display: flex; overflow: hidden;">
   <div style="flex-shrink: 0;">
-    <img src="{{ 'assets/img/2.3 Compliance and Governance - List of access-controlled documents relevant to compliance and .png' | relative_url }}" alt="List of access-controlled documents" style="width: 100%; height: auto;">
+    <img src="{{ 'assets/img/2.3-Compliance-and-Governance-List-of-access-controlled-documents-relevant-to-compliance.png' | relative_url }}" alt="List of access-controlled documents relevant to compliance" style="width: 100%; height: auto;">
   </div>
   <div style="flex-shrink: 0;">
-    <img src="{{ 'assets/img/2.3 Compliance and Governance - Agreements that can be accepted for your account, .png' | relative_url }}" alt="Agreements" style="width: 100%; height: auto;">
+    <img src="{{ 'assets/img/2.3-Compliance-and-Governance-Agreements-that-can-be-accepted-for-your-account.png' | relative_url }}" alt="Agreements that can be accepted for your account" style="width: 100%; height: auto;">
   </div>
 </div>
 
