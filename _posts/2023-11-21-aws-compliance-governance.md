@@ -58,18 +58,10 @@ Understanding and effectively managing compliance and governance within AWS is a
 
 From using AWS Artifact for accessing compliance reports to integrating the Cloud Adoption Framework into daily operations, AWS provides a robust set of tools that ensure compliance doesn't have to come at the cost of agility or efficiency. As you continue to develop and deploy applications in the cloud, keep in mind that compliance is an ongoing journey, one that can be streamlined and automated with the right set of AWS services and best practices.
 
-![List of access-controlled documents]({{ 'assets/img/2.3-Compliance-and-Governance-List-of-access-controlled-documents-relevant-to-compliance.png' | relative_url }})
-![Agreements]({{ 'assets/img/2.3-Compliance-and-Governance-Agreements-that-can-be-accepted-for-your-account.png' | relative_url }})
-
-<div id="carousel" style="display: flex; overflow: hidden;">
-  <div style="flex-shrink: 0;">
-    <img src="{{ 'assets/img/2.3-Compliance-and-Governance-List-of-access-controlled-documents-relevant-to-compliance.png' | relative_url }}" alt="List of access-controlled documents relevant to compliance" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="{{ 'assets/img/2.3-Compliance-and-Governance-Agreements-that-can-be-accepted-for-your-account.png' | relative_url }}" alt="Agreements that can be accepted for your account" style="width: 100%; height: auto;">
-  </div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="{{ 'assets/img/2.3-Compliance-and-Governance-List-of-access-controlled-documents-relevant-to-compliance.png' | relative_url }}" alt="List of access-controlled documents" style="width: 45%;">
+  <img src="{{ 'assets/img/2.3-Compliance-and-Governance-Agreements-that-can-be-accepted-for-your-account.png' | relative_url }}" alt="Agreements that can be accepted" style="width: 45%;">
 </div>
-
 ---
 
 For more information, explore the [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/) and the [AWS Artifact Portal](https://aws.amazon.com/artifact/). These resources provide a wealth of information to ensure that your cloud environment meets global standards and operates with the highest levels of security and governance.
