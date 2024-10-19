@@ -19,7 +19,7 @@ title: TechNomadiX # the main title
 tagline: Where Tech Insights Meet Knowledge Sharing # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive, and feature-rich Jekyll theme dedicated to knowledge management and sharing in technology and related fields. Perfect for tech enthusiasts, professionals, and lifelong learners.
+  TechNomadiX is the go-to platform for tech enthusiasts, professionals, and lifelong learners focused on cutting-edge technology, DevOps, SecOps, automation, and knowledge management. Dive into expert insights, tutorials, and best practices in project management and digital productivity. Whether you're an experienced developer or a curious learner, TechNomadiX delivers top-notch, actionable content in a sleek, responsive design, fostering continuous innovation and skill-building. Stay ahead in the tech world with up-to-date guides and a community-driven approach to learning.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: ENV['GOOGLE_SITE_VERIFICATION'] 
+  google: FXDgsdV3wcBh0GQRx8xpO1hBTvV7N34XSO6RF0rXqTg # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
