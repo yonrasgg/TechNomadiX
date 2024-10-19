@@ -1,6 +1,6 @@
 ---
 title: Understanding Entry Points on AWS - Securing Your Cloud Interactions 
-date: 2023-11-21 01:50:00 +/-TTTT
+date: 2023-11-21 01:40:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, aws-entry-points, api-calls, aws-iam, cloud-security, devops-security]
 image:

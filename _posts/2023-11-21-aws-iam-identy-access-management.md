@@ -1,6 +1,6 @@
 ---
 title: Effective Identity and Access Management (IAM) in AWS 
-date: 2023-11-21 01:40:00 +/-TTTT
+date: 2023-11-21 01:50:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, aws-iam, identity-access-management, aws-security, cloud-credentials, devops-security]
 image:
