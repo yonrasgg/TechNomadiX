@@ -1,7 +1,7 @@
 ---
 title: AWS Security Fundamentals - Building a Secure Cloud Environment
 date: 2024-11-21 01:00:00 +/-TTTT
-categories: [PROGRAMMING, CLOUD_PROVIDERS]
+categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, security, cloud-compliance, iam, data-protection, cloud-providers]
 image:
     path: assets/img/aws-security.png
