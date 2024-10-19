@@ -62,6 +62,8 @@ jobs:
 
       - name: Verify site build
         run: |
+          ls -la
+          ls -la _site
           if [ ! -d "_site" ]; then
             echo "Error: _site directory does not exist."
             exit 1
