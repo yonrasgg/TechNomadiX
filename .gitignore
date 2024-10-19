@@ -6,7 +6,18 @@ Gemfile.lock
 # Jekyll cache
 .jekyll-cache
 .jekyll-metadata
-_site
+
+# Ignore everything in the _site directory
+_site/*
+
+# Except these files
+!_site/index.html
+!_site/about/index.html
+!_site/assets/css/main.css
+!_site/assets/js/main.js
+!_site/assets/img/logo.png
+!_site/sitemap.xml
+!_site/feed.xml
 
 # RubyGems
 *.gem
