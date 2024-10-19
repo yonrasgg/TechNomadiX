@@ -42,7 +42,7 @@ To ensure applications and operating systems are secured and compliant, **AWS Sy
 ![AWS-SM]({{ 'assets/img/Screenshot from 2024-10-19 17-22-20.png' | relative_url }})
 
 - **Automated Patching** reduces the risk of missing crucial updates by ensuring all systems are patched regularly.
-- **Sub-point B**: **Configuration Management** helps separate sensitive data from code, ensuring best practices in key management and reducing potential attack vectors.
+- **Configuration Management** helps separate sensitive data from code, ensuring best practices in key management and reducing potential attack vectors.
 
 *[AWS Systems Manager](https://aws.amazon.com/systems-manager/)*
 
