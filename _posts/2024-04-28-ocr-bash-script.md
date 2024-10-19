@@ -18,7 +18,7 @@ The goal is to create a script that will take a screenshot, find the words in it
 Before we start, we need a couple of tools:
 
 - **[Gnome Screenshot](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en)**: This is like the "camera" on your computer. It takes pictures of your screen.
-- **Tesseract OCR**: This is the "reader" that reads the words from the picture.
+- **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)**: This is the "reader" that reads the words from the picture.
 
 To install them on Ubuntu 24.04 (the "Noble Wombat" version), open a terminal by pressing **Ctrl + Alt + T** and type the following:
 
