@@ -4,8 +4,8 @@ date: 2023-11-21 01:50:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, aws-compliance, security-best-practices, governance, certifications, cloud-security, aws-artifact]
 image:
-    path: 
-    alt: 
+    path: assets/img/governance-category.png
+    alt: AWS Compliance and Governance 
 ---
 
 As a DevOps engineer, understanding compliance and governance in cloud environments is crucial for building secure and reliable systems. AWS offers a comprehensive set of tools and resources that enable customers to adhere to industry regulations and standards. This blog post delves into the critical aspects of AWS compliance and governance, highlighting the services and practices that support maintaining a secure cloud environment. From obtaining industry certifications to leveraging AWS tools like **AWS Artifact**, we will explore how AWS communicates its security and control environment to customers and the importance of compliance in cloud operations.
