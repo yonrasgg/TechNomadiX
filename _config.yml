@@ -63,7 +63,7 @@ plugins:
 # Web Analytics Settings
 analytics:
   google:
-    id: ENV['GOOGLE_ANALYTICS_ID']
+    id: G-MGC64TFDQ1 # fill in your Google Analytics tracking ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
