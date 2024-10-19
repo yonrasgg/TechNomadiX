@@ -1,14 +1,14 @@
 ---
 title: AWS Global Infrastructure - Optimizing Resource Deployment Across Regions 
 date: 2024-11-21 01:30:00 +/-TTTT
-categories: [PROGRAMMING, BASH]
+categories: [PROGRAMMING, CLOUD_PROVIDERS]
 tags: [devops, aws, global-infrastructure, cloud-regions, availability-zones, cost-optimization, cloud-infrastructure, high-availability, resource-deployment, compliance-management, multi-az, disaster-recovery, aws-regions, cloud-resilience, auto-scaling, cloud-providers]
 image:
     path: assets/img/0_bvre9LbAS-WdYoKD.webp
     alt: AWS Global Infrastructure 
 ---
 
-As a DevOps engineer or programmer, a fundamental aspect of leveraging AWS's capabilities lies in understanding its global infrastructure. AWS's physical data centers are structured in a way that enables high availability, reliability, and scalability for services across the globe. This blog post will delve into the AWS Global Infrastructure, focusing on how Availability Zones and AWS Regions work together to provide a secure and efficient platform for your cloud workloads. Understanding these concepts can help you make informed decisions about resource deployment, optimize user experience, and control costs. We will explore key factors to consider, such as compliance, performance, and cost, all while adopting a DevOps-centric perspective.
+A fundamental aspect of leveraging AWS's capabilities lies in understanding its global infrastructure. AWS's physical data centers are structured in a way that enables high availability, reliability, and scalability for services across the globe. This blog post will delve into the AWS Global Infrastructure, focusing on how Availability Zones and AWS Regions work together to provide a secure and efficient platform for your cloud workloads. Understanding these concepts can help you make informed decisions about resource deployment, optimize user experience, and control costs. We will explore key factors to consider, such as compliance, performance, and cost, all while adopting a DevOps-centric perspective.
 
 ## AWS Regions and Availability Zones
 
