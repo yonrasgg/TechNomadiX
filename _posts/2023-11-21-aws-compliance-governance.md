@@ -58,8 +58,8 @@ Understanding and effectively managing compliance and governance within AWS is a
 
 From using AWS Artifact for accessing compliance reports to integrating the Cloud Adoption Framework into daily operations, AWS provides a robust set of tools that ensure compliance doesn't have to come at the cost of agility or efficiency. As you continue to develop and deploy applications in the cloud, keep in mind that compliance is an ongoing journey, one that can be streamlined and automated with the right set of AWS services and best practices.
 
-![List of access-controlled documents]({{ 'assets/img/2.3 Compliance and Governance - List of access-controlled documents relevant to compliance and .png' | relative_url }})
-![Agreements]({{ 'assets/img/2.3 Compliance and Governance - Agreements that can be accepted for your account, .png' | relative_url }})
+![List of access-controlled documents]({{ 'assets/img/2.3-Compliance-and-Governance-List-of-access-controlled-documents-relevant-to-compliance.png' | relative_url }})
+![Agreements]({{ 'assets/img/2.3-Compliance-and-Governance-Agreements-that-can-be-accepted-for-your-account.png' | relative_url }})
 
 <div id="carousel" style="display: flex; overflow: hidden;">
   <div style="flex-shrink: 0;">
