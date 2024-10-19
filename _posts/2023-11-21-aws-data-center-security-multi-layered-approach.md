@@ -1,6 +1,6 @@
 ---
 title: AWS Global Infrastructure - Optimizing Resource Deployment Across Regions
-date: 2024-11-21 01:30:00 +/-TTTT
+date: 2023-11-21 01:40:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, data-center-security, cloud-security, perimeter-layer, environmental-security, infrastructure-layer, data-protection, compliance, cloud-infrastructure, cloud-providers]
 image:
