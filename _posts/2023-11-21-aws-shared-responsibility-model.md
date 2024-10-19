@@ -4,8 +4,8 @@ date: 2023-11-21 01:00:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, shared-responsibility-model, security, cloud-compliance, iam, cloud-providers]
 image:
-    path: 
-    alt: 
+    path: assets/img/2. AWS Security Fundamentals (Second Edition) - AWS Shared Responsibility Model.png
+    alt:  AWS Shared Resposibility Model
 ---
 
 The **AWS Shared Responsibility Model** is fundamental to understanding how security and compliance operate within the cloud. As cloud adoption grows, especially among enterprises transitioning from traditional data centers to cloud environments, knowing which responsibilities lie with AWS and which lie with the user is crucial for maintaining robust security. In this blog post, we delve into the AWS Shared Responsibility Model, breaking down what it means for DevOps engineers, developers, and system administrators. We'll also explore key AWS services that aid in fulfilling these responsibilities and how to align security practices within your organization effectively.
