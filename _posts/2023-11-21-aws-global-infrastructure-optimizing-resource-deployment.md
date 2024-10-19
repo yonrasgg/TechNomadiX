@@ -2,7 +2,7 @@
 title: AWS Global Infrastructure - Optimizing Resource Deployment Across Regions 
 date: 2024-11-21 01:30:00 +/-TTTT
 categories: [PROGRAMMING, BASH]
-tags: [devops, aws, ]
+tags: [devops, aws, global-infrastructure, cloud-regions, availability-zones, cost-optimization, cloud-infrastructure, high-availability, resource-deployment, compliance-management, multi-az, disaster-recovery, aws-regions, cloud-resilience, auto-scaling, cloud-providers]
 image:
     path: assets/img/0_bvre9LbAS-WdYoKD.webp
     alt: AWS Global Infrastructure 
