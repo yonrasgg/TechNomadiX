@@ -46,6 +46,9 @@ Compliance is not just about meeting regulatory requirements; it is also an oppo
 - **AWS Cloud Adoption Framework (CAF)**: AWS also encourages the use of its **Cloud Adoption Framework** for compliance and assurance. The CAF provides structured guidance for ensuring that AWS resources are securely configured. DevOps engineers can utilize this framework as a checklist during the resource deployment phase, ensuring that security and compliance measures are part of the deployment lifecycle.
 
 ### Best Practices for Managing Compliance in Cloud Environments
+
+![List of access-controlled documents]({{ 'assets/img/2.3-Compliance-and-Governance-List-of-access-controlled-documents-relevant-to-compliance.png' | relative_url }})
+
 Managing compliance effectively requires adopting certain best practices that integrate seamlessly into both development and operational stages:
 
 - **Continuous Compliance Monitoring**: Compliance should not be a one-time event but rather a continuous process. By leveraging AWS services like **AWS Config** and **AWS CloudTrail**, teams can ensure ongoing monitoring and record-keeping of resource changes, thereby maintaining an audit trail for compliance purposes. This continuous assessment helps identify gaps and rectify them before they become issues, which is especially crucial in a DevOps setup where deployments are frequent and rapid.
@@ -58,10 +61,8 @@ Understanding and effectively managing compliance and governance within AWS is a
 
 From using AWS Artifact for accessing compliance reports to integrating the Cloud Adoption Framework into daily operations, AWS provides a robust set of tools that ensure compliance doesn't have to come at the cost of agility or efficiency. As you continue to develop and deploy applications in the cloud, keep in mind that compliance is an ongoing journey, one that can be streamlined and automated with the right set of AWS services and best practices.
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="{{ 'assets/img/2.3-Compliance-and-Governance-List-of-access-controlled-documents-relevant-to-compliance.png' | relative_url }}" alt="List of access-controlled documents" style="width: 45%;">
-  <img src="{{ 'assets/img/2.3-Compliance-and-Governance-Agreements-that-can-be-accepted-for-your-account.png' | relative_url }}" alt="Agreements that can be accepted" style="width: 45%;">
-</div>
+![Agreements]({{ 'assets/img/2.3-Compliance-and-Governance-Agreements-that-can-be-accepted-for-your-account.png' | relative_url }})
+
 ---
 
 For more information, explore the [AWS Compliance Programs](https://aws.amazon.com/compliance/programs/) and the [AWS Artifact Portal](https://aws.amazon.com/artifact/). These resources provide a wealth of information to ensure that your cloud environment meets global standards and operates with the highest levels of security and governance.
