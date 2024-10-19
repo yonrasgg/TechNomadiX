@@ -42,9 +42,13 @@ This opens up a blank page called `my_ocr_script.sh`.
 
 #### Step 2: Writing the Script!
 
-Let's also talk about the indentation! Indentation means adding spaces at the beginning of lines to make the structure clearer and easier to read. In this script, indentation helps to show which parts belong together, like steps in a recipe. 
+Indentation is an essential practice in scripting and coding that involves adding spaces at the beginning of lines. This technique makes the structure of your code clearer and easier to follow. In a script, indentation visually groups commands or actions, much like steps in a recipe, showing which parts belong together logically.
 
-For example, everything inside the if statements is indented to indicate that it only runs if the condition is met. This makes your code easier to understand, not just for you, but for anyone else who looks at it!
+For instance, in an if statement, everything inside the block is indented to indicate that those commands are only executed when the condition is true. This organization not only helps you keep track of the flow of your code but also makes it much easier for others to read and understand your work. Proper indentation improves the overall readability, maintainability, and collaboration potential of your scripts.
+
+By following best practices for indentation, you enhance the clarity of your code—whether it's for yourself or for contributors who might work on it in the future.
+
+To see an example of proper indentation in action, check out this [OCR Bash Script on GitHub](https://github.com/yonrasgg/Scripts/blob/main/Bash/OCR_BASH_SCRIPT/ocr-bash-script). Here, indentation is used to clearly structure the flow and logic of the script, ensuring that each condition and its related actions are neatly organized.
 
 Here’s the bash integration that helps your computer read words from a picture:
 
