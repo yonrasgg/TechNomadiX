@@ -1,6 +1,6 @@
 ---
 title: Implementing Detective Controls in AWS for Enhanced Security Monitoring 
-date: 2023-11-21 01:50:00 +/-TTTT
+date: 2023-11-21 02:00:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, cloud-security, aws-detective-controls, amazon-cloudwatch, aws-cloudtrail, monitoring-and-logging, cloud-compliance, amazon-guardduty, aws-config, aws-auditing]
 image:
