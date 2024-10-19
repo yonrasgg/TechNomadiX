@@ -2,7 +2,7 @@
 title: Implementing Detective Controls in AWS for Enhanced Security Monitoring 
 date: 2023-11-21 01:50:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
-tags: [devops, aws, cloud-security, aws-detective-controls, monitoring-and-logging, cloud-compliance, cloud-governance]
+tags: [devops, aws, cloud-security, aws-detective-controls, amazon-cloudwatch, aws-cloudtrail, monitoring-and-logging, cloud-compliance, amazon-guardduty, aws-config, aws-auditing]
 image:
     path: assets/img/0_PSNstxNSC7wxGufW.png
     alt: AWS Detective Controls
@@ -87,7 +87,7 @@ Effective detective controls rely heavily on auditing. AWS provides several tool
 | **Key Services**  | **Description**                                                                                                                                      |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![S3 Server Access Logs]({{ 'assets/img/2.6 Detective Controls - S3 Server Acces Logs.png' | relative_url }})   | **Amazon S3**: Logging can be audited using server access logs, capturing data about requests, types, and timestamps.                                                     |
-| ![Elastic Load Balancing Logs]({{ '' | relative_url }}) | **Elastic Load Balancing**: Logs capture details about requests sent to load balancers, including IP addresses and latencies.                                             |
+| ![Elastic Load Balancing Logs]({{ 'assets/img/39_load-balancer.af7d4495ba.jpg' | relative_url }}) | **Elastic Load Balancing**: Logs capture details about requests sent to load balancers, including IP addresses and latencies.                                             |
 | ![CloudWatch Logs]({{ 'assets/img/2.6 Detective Controls - CloudWatch Logs and Events.png' | relative_url }}) | **CloudWatch Logs**: Monitors operating systems and applications, enabling troubleshooting based on patterns and keyword alerts.                                         |
 | ![VPC Flow Logs]({{ 'assets/img/2.6 Detective Controls - VPC Flow Logs.png' | relative_url }}) | **Amazon VPC Flow Logs**: Tracks IP traffic to and from network interfaces, aiding in the troubleshooting of network issues and ensuring compliance with security rules.   |
 | ![CloudTrail Auditing]({{ 'assets/img/2.6 Detective Controls - ClodTrail.png' | relative_url }})  | **AWS CloudTrail**: Provides detailed records of API calls across your account, giving visibility into who is accessing which resources and for what purpose.              |
