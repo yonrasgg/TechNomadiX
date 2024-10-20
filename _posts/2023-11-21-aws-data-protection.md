@@ -14,7 +14,7 @@ Ensuring the security of data in cloud environments is one of the most critical 
 
 Protecting **data at rest** means securing data that resides on persistent storage. In AWS, this involves encrypting data using various storage services like Amazon S3 and databases. AWS provides two types of encryption options for protecting data at rest:
 
-![Protection-at-Rest]({{ '_posts/2023-11-21-aws-data-protection.md' | relative_url }})
+![Protection-at-Rest]({{ 'assets/img/Visualize-Multi-Account-Inspector-Figure-1.png' | relative_url }})
 
 ### AWS Encryption Options for Data at Rest:
 
