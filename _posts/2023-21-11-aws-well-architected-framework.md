@@ -4,7 +4,7 @@ date: 2023-11-21 02:50:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, security-learning-plan, aws-well-architected-tool, cloud-optimization, workload-review, architecture-best-practices, cloud-providers]
 image:
-    path: assets/img/2.11 AWS Well-Architected Tool - AWS Well-Architected tool console - security pillar questions.png
+    path: assets/img/well-architected-2024-updates-flowchart-1024x530.png
     alt: AWS Well-Architected Tool 
 ---
 
@@ -29,7 +29,7 @@ The **AWS Well-Architected Tool** serves as a comprehensive solution to help use
 
 - One of the advantages of the Well-Architected Tool is its accessibility. It is available at no additional charge; you only need to pay for AWS resources consumed during the workload optimization process. However, availability is currently limited to select regions, and it is recommended to visit the [AWS Well-Architected Tool FAQs](https://aws.amazon.com/well-architected-tool/faqs/) for more detailed information on its regional support.
 
-![Diagram Placeholder for AWS Well-Architected Tool](path/to/aws-well-architected-diagram.png)
+![Well-Architected-Tool]({{ 'assets/img/2.11 AWS Well-Architected Tool.png' | relative_url }})
 
 *[AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)*
 
@@ -50,7 +50,7 @@ The AWS Well-Architected Tool simplifies workload reviews by providing a clear, 
   | **Review Consistency**        | Ensures all workloads are evaluated using a standardized framework, minimizing architectural gaps. |
   | **Self-Service Accessibility**| Available for any AWS customer to use, fostering continuous improvements without requiring AWS consultants. |
 
-![Placeholder for AWS Well-Architected Improvement Plan Image](path/to/aws-improvement-plan-diagram.png)
+![AWS-Well-Architected-Improvement-Plan]({{ 'assets/img/2.11 AWS Well-Architected Tool.png' | relative_url }})
 
 *[AWS Well-Architected Partners](https://partners.amazonaws.com/en/search/partners?facets=Program%20%3A%20AWS%20Well-Architected%20Partner%20Program)*
 
@@ -71,7 +71,7 @@ For DevOps teams, consistency and iterative improvement are key tenets that driv
 | **Automation Integration**          | Integrate workload reviews into CI/CD pipelines to proactively address risks. |
 | **Use of AWS Partner Expertise**    | Engage AWS Well-Architected Partners for in-depth analysis of complex architectures. |
 
-![Placeholder for Well-Architected Best Practices Integration](path/to/aws-best-practices-integration-image.png)
+![Well-Architected]({{ 'assets/img/2.11 AWS Well-Architected Tool - AWS Well-Architected tool console - security pillar questions.png' | relative_url }})
 
 *[New – AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)*
 
