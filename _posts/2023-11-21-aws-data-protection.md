@@ -4,8 +4,8 @@ date: 2023-11-21 02:10:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, aws-security, data-protection, encryption-at-rest, encryption-in-transit, aws-key-management-service, cloud-providers]
 image:
-    path: 
-    alt: 
+    path: assets/img/1713833023308.jpeg
+    alt: AWS Data Protection
 ---
 
 Ensuring the security of data in cloud environments is one of the most critical responsibilities. AWS offers various tools and services that make data protection manageable and effective. In this blog post, we will explore key aspects of AWS data protection, such as protecting data at rest, safeguarding data in transit, and leveraging additional AWS security tools like AWS KMS, CloudHSM, and Amazon Macie. This comprehensive guide will help you understand how to implement best practices in data security, whether you're storing, managing, or transmitting data across AWS infrastructure.
