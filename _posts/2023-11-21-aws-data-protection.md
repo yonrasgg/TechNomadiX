@@ -1,6 +1,6 @@
 ---
 title: Data Protection in AWS - A Comprehensive Guide for DevOps Engineers 
-date: 2023-11-21 02:10:00 +/-TTTT
+date: 2023-11-21 02:20:00 +/-TTTT
 categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, aws-security, data-protection, encryption-at-rest, encryption-in-transit, aws-key-management-service, cloud-providers]
 image:
