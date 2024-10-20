@@ -29,7 +29,7 @@ The **AWS Well-Architected Tool** serves as a comprehensive solution to help use
 
 - One of the advantages of the Well-Architected Tool is its accessibility. It is available at no additional charge; you only need to pay for AWS resources consumed during the workload optimization process. However, availability is currently limited to select regions, and it is recommended to visit the [AWS Well-Architected Tool FAQs](https://aws.amazon.com/well-architected-tool/faqs/) for more detailed information on its regional support.
 
-![Well-Architected-Tool]({{ 'assets/img/2.11 AWS Well-Architected Tool.png' | relative_url }})
+![Well-Architected-Tool]({{ 'assets/img/gt-well-architected.4234ac16be6435d0ddd4ca693ea08106bc33de9f.png' | relative_url }})
 
 *[AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)*
 
