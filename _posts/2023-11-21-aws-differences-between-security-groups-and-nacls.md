@@ -5,7 +5,8 @@ categories: [DEVOPS, CLOUD_PROVIDERS]
 tags: [devops, aws, security-groups, nacls, aws-networking, cloud-security, cloud-providers]
 image:
     path: assets/img/image-70.png
-    alt: Security Groups and Network Access Control Lists 
+    alt: Security Groups and Network Access Control Lists
+mermaid: true 
 ---
 
 In AWS, Security Groups and Network Access Control Lists (NACLs) form the bedrock of network security. These components are essential for ensuring the protection of resources in a Virtual Private Cloud (VPC). Understanding their differences is crucial for DevOps engineers and programmers who need to design robust and secure cloud infrastructures. This blog post aims to provide a comprehensive comparison of Security Groups and NACLs, explaining their roles, how they differ, and the best practices for implementing each in your AWS environment.
