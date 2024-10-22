@@ -1,6 +1,6 @@
 ---
 title: The Origins and Evolution of Cloud Computing - From Concept to Modern Realities 
-date: 2023-11-21 10:41:00 +/-TTTT
+date: 2024-10-21 10:41:00 +/-TTTT
 categories: [DEVOPS, CLOUD_COMPUTING]
 tags: [devops, cloud-computing, history-of-cloud, evolution-of-technology, devops-architecture, distributed-systems]
 image:
@@ -8,7 +8,7 @@ image:
     alt: Amazon Web Services
 ---
 
-Cloud computing has become a pivotal foundation of modern technology and has reshaped how we think about data processing, software distribution, and infrastructure management. As a DevOps engineer, understanding the origins and evolution of cloud computing helps in grasping the context behind current cloud systems and anticipating future developments. This blog post will explore how the concept of cloud computing evolved from the foundational Internet protocols to the advanced architectures we see today, touching upon important milestones, technological shifts, and the resulting impact on industries.
+Cloud computing has become a pivotal foundation of modern technology and has reshaped how we think about data processing, software distribution, and infrastructure management. Understanding the origins and evolution of cloud computing helps in grasping the context behind current cloud systems and anticipating future developments. This blog post will explore how the concept of cloud computing evolved from the foundational Internet protocols to the advanced architectures we see today, touching upon important milestones, technological shifts, and the resulting impact on industries.
 
 ## The Roots of Cloud Computing
 
@@ -41,7 +41,7 @@ The emergence of cloud computing didn't happen overnight. Several concepts laid 
 - **Utility computing** emerged as another key concept, allowing computing services to be delivered like utilities (water, electricity), leading to the pay-per-use model that defines much of today's cloud pricing structures.
 - **Virtualization** was an important technological advancement, making it possible to create virtual instances of physical hardware, enabling better resource utilization. This directly led to the cloud as we understand it—a pool of shared, dynamically allocated resources.
 
-* [SOA and Virtualization in Cloud Computing](https://www.example.com)*
+* [SOA and Virtualization in Cloud Computing](https://www.redhat.com/en/topics/cloud-native-apps/what-is-service-oriented-architecture)*
 
 ## The Growth of Cloud Computing in the Modern Era
 
@@ -81,4 +81,4 @@ Cloud computing's journey—from its conceptual origins to its current status as
 
 ---
 
-For those interested in more in-depth explorations of cloud computing and best practices in implementing cloud solutions, you might consider exploring resources like the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) or articles about [cloud federation techniques](https://www.example.com).
+For those interested in more in-depth explorations of cloud computing and best practices in implementing cloud solutions, you might consider exploring resources like the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) or articles about [cloud federation techniques](https://ieeexplore.ieee.org/document/9952660).
