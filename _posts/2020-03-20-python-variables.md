@@ -1,5 +1,5 @@
 ---
-title: Python Variables Explained 🎈
+title: Python Variables Explained 
 date: 2020-03-20 01:30:00 +/-TTTT
 categories: [PROGRAMMING, PYTHON]
 tags: [python, variables, data-types]

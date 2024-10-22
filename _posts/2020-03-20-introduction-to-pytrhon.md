@@ -69,4 +69,9 @@ Feel free to explore these resources as you begin your journey with Python!
 
 ---
 
-**Next Steps**: In the next post, we'll dive into **Python variables** to get you familiar with manipulating data using Python. Stay tuned and happy coding! 🐍🚀
+**Next Steps**: In the next post, we'll dive into **Python variables** to get you familiar with manipulating data using Python. Stay tuned and happy coding!
+
+----
+
+[^footnote]: SRE Picking your Language Stack
+[^fn-nth-2]: Python Variables Explained 

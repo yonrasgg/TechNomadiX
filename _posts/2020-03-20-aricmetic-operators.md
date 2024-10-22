@@ -1,5 +1,5 @@
 ---
-title: Arithmetic Operators in Python 💹
+title: Arithmetic Operators in Python 
 date: 2020-03-20 01:40:00 +/-TTTT
 categories: [PROGRAMMING, PYTHON]
 tags: [python, arithmetic-operators, math]
@@ -8,7 +8,7 @@ image:
     alt: Python Aritmetic Operators
 ---
   
-**Summary**: In this post, we explore the various arithmetic operators available in Python. You'll learn how to use addition, subtraction, multiplication, and more to perform calculations. We'll also look at how to work with variables to create dynamic operations.
+In this post, we explore the various arithmetic operators available in Python. You'll learn how to use addition, subtraction, multiplication, and more to perform calculations. We'll also look at how to work with variables to create dynamic operations.
 
 ## What are Arithmetic Operators?
 
@@ -72,7 +72,7 @@ In Python, arithmetic operators are symbols that represent mathematical operatio
   print(f"Floor Division: {floor_division}")  # Output: Floor Division: 3
   ```
 
-## Using Arithmetic Operators with Variables 🧮
+## Using Arithmetic Operators with Variables
 
 Arithmetic operators become especially powerful when used with variables. Instead of being limited to static numbers, you can store values in variables and perform operations dynamically:
 
@@ -85,7 +85,7 @@ print('Sum: ', sum_result)  # Output: Sum: 19
 
 By using variables, you can manipulate your data and create more flexible programs.
 
-## Precedence of Arithmetic Operators 📚
+## Precedence of Arithmetic Operators
 
 Just like in mathematics, Python follows a hierarchy when evaluating expressions with multiple operators, known as the **order of precedence**:
 
@@ -139,4 +139,4 @@ For more details on Python operators, check out:
 
 ---
 
-**Next Steps**: In the next post, we'll dive deeper into **Text Strings**. Continue learning and practicing to master these essential skills in Python! 🐍💻
+**Next Steps**: In the next post, we'll dive deeper into **Text Strings**. Continue learning and practicing to master these essential skills in Python!
