@@ -47,8 +47,7 @@ While both Security Groups and Network Access Control Lists serve to control tra
 
 - **Use Cases**: Security Groups are ideal for managing traffic at a more granular instance level, whereas NACLs are often used to control subnet-level access, providing an additional layer of defense.
 
-> ![Insert path for Security Groups vs NACLs image here]
-![]({{ '' | relative_url }})
+![Security Groups vs NACLs]({{ 'assets/img/Screenshot from 2024-10-21 19-42-54.png' | relative_url }})
 
 ## Best Practices for Using Security Groups
 
@@ -65,7 +64,6 @@ To secure AWS resources, DevOps teams must adhere to some best practices when de
 | Network Segmentation | Use multiple security groups to segregate traffic logically |
 | Audits | Regularly review and remove unnecessary rules |
 
-> ![Insert path for security group practices image here]
 ![Security group practices]({{ 'assets/img/security-group-details.png' | relative_url }})
 
 ### Security Group Integration with DevOps
