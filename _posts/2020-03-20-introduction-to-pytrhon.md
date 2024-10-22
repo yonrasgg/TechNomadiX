@@ -1,5 +1,5 @@
 ---
-title: Introduction to Python 🐍
+title: Introduction to Python
 date: 2020-03-20 01:00:00 +/-TTTT
 categories: [PROGRAMMING, PYTHON]
 tags: [python-introduction, web-development, data-science, automation, game-develppment, open-source, community-driven]
@@ -69,9 +69,5 @@ Feel free to explore these resources as you begin your journey with Python!
 
 ---
 
-**Next Steps**: In the next post, we'll dive into **Python variables** to get you familiar with manipulating data using Python. Stay tuned and happy coding!
+[^footnote]: **Next Steps**: In the next post, we'll dive into [**Python variables**][Nombre del post anterior]({% _posts/2020-03-20-python-variables.md %}) to get you familiar with manipulating data using Python. Stay tuned and happy coding!
 
-----
-
-[^footnote]: SRE Picking your Language Stack
-[^fn-nth-2]: Python Variables Explained 
