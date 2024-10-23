@@ -29,7 +29,7 @@ DevOps resolves these by uniting the development and operations teams. The teams
 | **Issue Management**      | Blame Culture                 | Blameless Culture and Shared Accountability |
 | **Tool Usage**            | Department-Specific Tools     | Integrated Toolchain for all Teams       |
 
-*[DevOps and Modern IT Integration](https://cyber.ceupe.com/mod/scorm/player.php?a=3848&currentorg=ORG-cb087dc75b17ef04e2be55458d2f5dad&scoid=41960)*
+*[DevOps and Modern IT Integration](https://github.com/resources/articles/devops/continuous-integration)*
 
 ### Sub-points
 
