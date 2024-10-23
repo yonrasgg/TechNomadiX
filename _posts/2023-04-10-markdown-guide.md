@@ -360,10 +360,6 @@ As mentioned, embedding YouTube videos requires HTML.
 
 **Renders as:**
 
-<a href="https://www.youtube.com/watch?v=_PPWWRV6gbA" class="video-popup">
-  <img src="https://img.youtube.com/vi/_PPWWRV6gbA/hqdefault.jpg" alt="How to Start Using AWS Well-Architected Tool" width="320" height="180">
-</a>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA?si=p7U1yc1n5iDNAOtg" title="How to Start Using AWS Well-Architected Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="application/ld+json">
