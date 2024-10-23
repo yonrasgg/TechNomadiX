@@ -76,7 +76,7 @@ For DevOps teams, consistency and iterative improvement are key tenets that driv
 *[New – AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)*
 
 <a href="https://www.youtube.com/watch?v=g0yFsZp8EVo" class="video-popup">
-  <img src="https://img.youtube.com/vi/g0yFsZp8EVo/hqdefault.jpg" alt="AWS Well-Architected Framework Explicado" width="320" height="180">
+  <img src="https://img.youtube.com/vi/g0yFsZp8EVo/hqdefault.jpg" alt="AWS Well-Architected Framework Explained" width="320" height="180">
 </a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g0yFsZp8EVo?si=aV44IW33G4Txxfyl" title="AWS Well-Architected Framework Explicado | Cómo funciona la herramienta AWS Well-Architected" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
