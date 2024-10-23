@@ -69,4 +69,15 @@ Feel free to explore these resources as you begin your journey with Python!
 
 ---
 
-[^footnote]: **Next Steps**: In the next post, we'll dive into {% raw %}{% assign backlinks = page.backlinks | append: site.posts | where: "url", "_posts/2020-03-20-introduction-to-pytrhon.md" %} {% if backlinks.size > 0 %} <div class="backlink-box"> <ul> {% for backlink in backlinks %} <li><a href="{{ backlink.url }}">{{ backlink.title }}</a></li> {% endfor %} </ul> </div> {% endif %}{% endraw %} to get you familiar with manipulating data using Python. Stay tuned and happy coding!
+[^footnote]: **Next Steps**: In the next post, we'll dive into {% raw %}{% assign backlinks = page.backlinks | append: site.posts | where: "url", "_posts/2020-03-20-introduction-to-python.md" %} {% if backlinks.size > 0 %} <div class="backlink-box"> <ul> {% for backlink in backlinks %} <li><a href="{{ backlink.url }}">{{ backlink.title }}</a></li> {% endfor %} </ul> </div> {% endif %}{% endraw %} to get you familiar with manipulating data using Python. Stay tuned and happy coding!
+
+{% assign backlinks = page.backlinks | append: site.posts | where: "url", "/posts/introduction-to-python/" %}
+{% if backlinks.size > 0 %}
+  <div class="backlink-box">
+    <ul>
+    {% for backlink in backlinks %}
+      <li><a href="{{ backlink.url }}">{{ backlink.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+{% endif %}
