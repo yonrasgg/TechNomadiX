@@ -98,4 +98,4 @@ To further understand DevOps and its implementation, delve into related practice
 
 ---
 
-For further reading and resources about DevOps and other Agile methodologies, visit [DevOps and Modern IT Integration]().
+For further reading and resources about DevOps and other Agile methodologies, visit [DevOps and Modern IT Integration](https://github.com/resources/articles/devops/continuous-integration).
