@@ -38,13 +38,11 @@ social:
   email: geovanny.alpizar@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/GeovaA13 # change to your Twitter homepage
-    - https://github.com/yonrasgg # change to your GitHub homepage
-    # Uncomment below to add more social links
+    - https://x.com/GeovaA13 
+    - https://github.com/yonrasgg 
     - https://www.facebook.com/profile.php?id=61567178129077
     - https://www.youtube.com/@tchnmdx
     - https://www.instagram.com/tchnmdx/
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
@@ -125,9 +123,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: yonrasgg/TechNomadiX
-    repo_id: 
-    category:
-    category_id:
+    repo_id: 86978931
+    category: Gobal navigation
+    category_id: 
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
