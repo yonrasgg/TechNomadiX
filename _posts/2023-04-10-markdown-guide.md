@@ -443,13 +443,33 @@ As mentioned, embedding YouTube videos requires HTML.
 
 **Renders as:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=_PPWWRV6gbA" class="video-popup">
+  <img src="https://img.youtube.com/vi/_PPWWRV6gbA/hqdefault.jpg" alt="How to Start Using AWS Well-Architected Tool" width="320" height="180">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA?si=p7U1yc1n5iDNAOtg" title="How to Start Using AWS Well-Architected Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</a>
 
----
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "The Only Markdown Crash Course You Will Ever Need",
+  "description": "This video provides an introduction on how to understand the Markdown language for technical writting.",
+  "thumbnailUrl": "https://img.youtube.com/vi/_PPWWRV6gbA/maxresdefault.jpg",
+  "uploadDate": "2023-07-04",
+  "duration": "PT11M45S",
+  "contentUrl": "https://www.youtube.com/watch?v=_PPWWRV6gbA",
+  "embedUrl": "https://www.youtube.com/embed/_PPWWRV6gbA",
+  "publisher": {
+    "@type": "Organization",
+    "name": "TechNomadiX",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gaaspkm.online/assets/img/favicons/favicon-32x32.png"
+    }
+  }
+}
+</script>
 
-## Conclusion
+Mastering Markdown enhances your ability to create clear and organized documentation, which is essential for collaboration in documentation. By leveraging the formatting capabilities of Markdown, you can produce professional and accessible documents that facilitate communication across teams.
 
-Mastering Markdown enhances your ability to create clear and organized documentation, which is essential for collaboration in DevOps, programming environments and documentation. By leveraging the formatting capabilities of Markdown, you can produce professional and accessible documents that facilitate communication across teams.
-
-Whether you're writing README files, documentation, or even blog posts, the simplicity and flexibility of Markdown make it an indispensable tool in a developer's toolkit. Practice using the various elements discussed in this guide to become proficient in crafting well-structured and visually appealing documents.
-
+Whether you're writing `README` files, documentation, or even blog posts, the simplicity and flexibility of Markdown make it an indispensable tool. Practice using the various elements discussed in this guide to become proficient in crafting well-structured and visually appealing documents.
