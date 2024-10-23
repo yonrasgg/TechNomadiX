@@ -8,3 +8,17 @@
 ';
 
 /* append your custom style below */
+
+/* Backlink Box Styles */
+.backlink-box {
+    background-color: #fffdf7;
+}
+
+.backlink-box:before {
+    content: "What links here";
+    font-style: italic;
+}
+
+.backlink-box li {
+    line-height: 1em;
+}

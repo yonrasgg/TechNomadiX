@@ -70,6 +70,5 @@ Feel free to explore these resources as you begin your journey with Python!
 ---
 
 [^footnote]: **Next Steps**: In the next post, we'll dive into {% raw %}
-[**Python variables**](_posts/2020-03-20-introduction-to-pytrhon.md)
+[**Python variables**](_posts/2020-03-20-python-variables.md)
 {% endraw %} to get you familiar with manipulating data using Python. Stay tuned and happy coding!
-
