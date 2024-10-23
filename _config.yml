@@ -31,7 +31,7 @@ github:
 twitter: 
   username: GeovaA13 # change to your Twitter username
 
-social:
+social: 
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Geovanny Alpizar
@@ -175,6 +175,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  docs:
+    output: true
+    sort_by: date
 
 defaults:
   - scope:
