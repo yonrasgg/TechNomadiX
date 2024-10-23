@@ -97,5 +97,4 @@ DevOps is not a one-size-fits-all framework but an approach that adapts to an or
 To further understand DevOps and its implementation, delve into related practices such as **Lean Methodology**, **Continuous Delivery**, and **Agile Development**. Explore these through hands-on practice and integrate them gradually into your workflows to truly experience the advantages of this transformative methodology.
 
 ---
-
 For further reading and resources about DevOps and other Agile methodologies, visit [DevOps and Modern IT Integration](https://github.com/resources/articles/devops/continuous-integration).
