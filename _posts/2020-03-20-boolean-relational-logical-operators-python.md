@@ -1,5 +1,5 @@
 ---
-title: Boolean, Relational, and Logical Operators in Python 📚
+title: Boolean, Relational, and Logical Operators in Python 
 date: 2020-03-20 02:30:00 +/-TTTT
 categories: [PROGRAMMING, PYTHON]
 tags: [python, boolean, relational-operators, logical-operators]
@@ -8,7 +8,7 @@ image:
     alt: Python Booleans
 ---
 
-**Summary**: In this post, we'll explore the fundamentals of Boolean data types, relational operators, and logical operators in Python. You will learn how to use them to compare values, combine conditions, and make decisions in your programs. Additionally, we'll discuss some built-in Boolean methods for strings in Python.
+In this post, we'll explore the fundamentals of Boolean data types, relational operators, and logical operators in Python. You will learn how to use them to compare values, combine conditions, and make decisions in your programs. Additionally, we'll discuss some built-in Boolean methods for strings in Python.
 
 ## What are Boolean Values in Python?
 
@@ -35,7 +35,7 @@ print(bool(filled_string))  # Output: True
 
 Booleans are fundamental in programming, allowing us to control the flow of our programs through decision-making and loops.
 
-## Relational Operators in Python 👥
+## Relational Operators in Python
 
 Relational operators, also known as comparison operators, are used to compare two values. They return a boolean value (`True` or `False`) depending on whether the comparison is true or false. Python provides the following relational operators:
 
@@ -78,7 +78,7 @@ print(num1 != num2) # Checks if num1 is not equal to num2
 
 This program uses relational operators to evaluate the relationship between two user-provided numbers.
 
-## Logical Operators in Python 🎭
+## Logical Operators in Python
 
 Logical operators in Python are used to combine multiple conditions. Python provides three logical operators: `and`, `or`, and `not`.
 
@@ -121,7 +121,7 @@ print(not(z < y))  # Output: True
 
 In this example, logical operators allow us to evaluate multiple conditions and determine if they collectively meet certain criteria.
 
-## Boolean Methods for Strings 🎭
+## Boolean Methods for Strings
 
 Python provides several built-in Boolean methods for strings that return `True` or `False` based on the characteristics of the string. Here are some commonly used Boolean methods:
 
@@ -147,7 +147,7 @@ print(string1.isalpha())            # Output: False
 
 These Boolean methods are useful for quickly checking certain conditions of strings in your programs.
 
-## Practice Exercises 📝
+## Practice Exercises
 
 Try the following exercises to reinforce what you've learned:
 
@@ -170,4 +170,4 @@ For further reading:
 
 ---
 
-**Next Steps**: In the next post, we'll explore **Control Flow with Conditional Statements** in Python. Continue practicing and honing your skills! 🐍💻
+**Next Steps**: In the next post, we'll explore [*Loops in Python - While, For, Range, and Control Statements*](https://gaaspkm.online/posts/conditional-statements-python) in Python. Continue practicing and honing your skills!

@@ -1,5 +1,5 @@
 ---
-title: The Pillars of Object-Oriented Programming (OOP) in Python 🐍
+title: The Pillars of Object-Oriented Programming (OOP) in Python 
 date: 2020-03-23 01:00:00 +/-TTTT
 categories: [PROGRAMMING, PYTHON]
 tags: [python, oop, encapsulation, abstraction, inheritance, polymorphism]
@@ -8,19 +8,9 @@ image:
     alt: POO Pillars In Python
 ---
 
----
-layout: post
-title: "The Pillars of Object-Oriented Programming (OOP) in Python: Encapsulation, Abstraction, Inheritance, and Polymorphism"
-date: 2024-10-15
-categories: [Python, Programming]
-tags: [python, oop, encapsulation, abstraction, inheritance, polymorphism]
----
+This post explores the four key pillars of Object-Oriented Programming (OOP) in Python: encapsulation, abstraction, inheritance, and polymorphism. Understanding these fundamental principles will help you write more modular, reusable, and organized Python code.
 
-# The Pillars of Object-Oriented Programming (OOP) in Python 🐍
-
-**Summary**: This post explores the four key pillars of Object-Oriented Programming (OOP) in Python: encapsulation, abstraction, inheritance, and polymorphism. Understanding these fundamental principles will help you write more modular, reusable, and organized Python code.
-
-## Introduction to Object-Oriented Programming 🧩
+## Introduction to Object-Oriented Programming
 
 **Object-Oriented Programming (OOP)** is a programming paradigm based on the concept of "objects," which are instances of **classes** that can hold both data (attributes) and methods (functions). OOP allows for efficient code organization and reusability.
 
@@ -32,7 +22,7 @@ The four pillars of OOP are:
 
 Let’s dive into each one and understand how Python supports these powerful concepts.
 
-## 1️⃣ Encapsulation 🔒
+## Encapsulation
 
 **Encapsulation** refers to the bundling of data (attributes) and methods that operate on that data within one unit, or class. It hides the internal state of an object and only exposes the necessary methods, preventing direct access to the object's internal data.
 
@@ -83,7 +73,7 @@ print(a.value)  # Get value using getter - Output: 10
 
 This is an example of best practices for encapsulating class properties and safely interacting with them.
 
-## 2️⃣ Abstraction 🎭
+## Abstraction
 
 **Abstraction** is the process of hiding complex implementation details and exposing only what is necessary. It simplifies interaction by providing a clean interface.
 
@@ -115,7 +105,7 @@ a.count = -3  # Output: Invalid value. Count must be non-negative.
 
 By providing these getters and setters, the actual attribute is protected, and we control how it is accessed and modified.
 
-## 3️⃣ Inheritance 🦁
+## Inheritance
 
 **Inheritance** allows a class (child class) to inherit attributes and methods from another class (parent class). This helps in code reusability and establishing a natural hierarchical relationship between classes.
 
@@ -155,7 +145,7 @@ print(my_dog.name)  # Output: Max
 print(my_dog.sound)  # Output: Woof Woof
 ```
 
-## 4️⃣ Polymorphism 🦄
+## Polymorphism
 
 **Polymorphism** allows different classes to define methods with the same name but potentially different behaviors. This makes the code more flexible and extensible.
 
@@ -185,7 +175,7 @@ make_animal_speak(my_cat)  # Output: Meow Meow
 
 Here, both `Dog` and `Cat` classes have a `speak()` method, but each implements it differently. The function `make_animal_speak()` works with any object that has a `speak()` method, demonstrating polymorphism.
 
-## Practice Exercises 📝
+## Practice Exercises
 
 ### Exercise 1: Encapsulation Practice
 Create a class `Student` with private attributes for `name` and `grade`. Provide public methods to set and get these attributes, ensuring that grades are always non-negative.
@@ -196,7 +186,7 @@ Create a `Vehicle` class with attributes like `make` and `model`, and derive `Ca
 ### Exercise 3: Polymorphism Practice
 Create classes `Bird` and `Fish` with a method `move()`. Implement `move()` to represent how each animal moves. Write a function that takes an object and calls `move()` to demonstrate polymorphism.
 
-## More Information 📘
+## More Information
 
 Understanding the four pillars of OOP—encapsulation, abstraction, inheritance, and polymorphism—will help you build robust, modular, and reusable code. Applying these principles effectively is key to mastering Python’s OOP capabilities.
 
@@ -204,3 +194,6 @@ For more learning, check out:
 - [Python Official Documentation on OOP](https://docs.python.org/3/tutorial/classes.html)
 - [Real Python - OOP in Python](https://realpython.com/python3-object-oriented-programming/)
 
+---
+
+**Next Steps**: In the next post, we will explore [*POO Classes, Attributes, Methods*](https://gaaspkm.online/posts/poo-python-attrributes-classes-methods/), including classes, objects, and inheritance. Stay tuned and keep coding!

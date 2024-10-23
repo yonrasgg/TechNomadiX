@@ -1,5 +1,5 @@
 ---
-title: User Input and Output in Python 📚
+title: User Input and Output in Python
 date: 2020-03-20 02:00:00 +/-TTTT
 categories: [PROGRAMMING, PYTHON]
 tags: [python, user-input, output, programming-basics]
@@ -8,7 +8,7 @@ image:
     alt: Python Inputs and Outputs
 ---
 
-**Summary**: In this post, you'll learn how to use the `input()` function to take data from users and how to display data using `print()`. We'll explore basic concepts with examples to understand user interaction in Python and conclude with exercises to practice what you've learned.
+In this post, you'll learn how to use the `input()` function to take data from users and how to display data using `print()`. We'll explore basic concepts with examples to understand user interaction in Python and conclude with exercises to practice what you've learned.
 
 ## Taking User Input in Python
 
@@ -25,7 +25,7 @@ print("Hello " + name + ", you are " + age + " years old")  # Output: Hello <nam
 
 In this code, we ask the user for their name and age. We then use that information to print a personalized greeting.
 
-## Example: Resolving Cubic Equations 📝
+## Example: Resolving Cubic Equations
 
 In this exercise, we'll develop a program that solves cubic equations of the form \(ax^3 + bx^2 + cx + d = 0\). To achieve this, we ask the user to provide the coefficients \(a\), \(b\), \(c\), and \(d\).
 
@@ -52,7 +52,7 @@ print("The solutions of the cubic equation are: ", x1, x2, x3)
 
 This program provides a good example of how arithmetic operators and complex mathematical functions in Python can be used to solve advanced mathematical problems.
 
-## Example: Calculating Final Course Grade 📝
+## Example: Calculating Final Course Grade
 
 In this exercise, we'll develop a program that calculates the final grade of a student based on three components: assignments, midterms, and a final project.
 
@@ -81,7 +81,7 @@ print("The final grade is: ", final_grade)
 
 This program provides a good example of how arithmetic operators can be used to calculate averages and final grades.
 
-## Practice Exercises 📝
+## Practice Exercises
 
 Try the following exercises to apply what you've learned about user input and output:
 
@@ -101,4 +101,4 @@ For further reading and more detailed information, check out:
 
 ---
 
-**Next Steps**: In the next post, we will cover **Boolean Operators and Control Flow** in Python. Stay tuned and keep coding! 🐍💻
+**Next Steps**: In the next post, we will cover [*Boolean Operators and Control Flow*](https://gaaspkm.online/posts/boolean-relational-logical-operators-python/) in Python. Stay tuned and keep coding!

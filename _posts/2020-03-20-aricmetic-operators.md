@@ -110,7 +110,7 @@ In the above code, Python evaluates the expression in the following order:
 3. **Multiplication and Division**: `b * (result of c ** 2)` and `result of multiplication / result of parentheses`
 4. **Addition**: `a + (result of division)`
 
-## Practice Exercises 📝
+## Practice Exercises 
 
 Try your hand at the following exercises to reinforce your understanding:
 
@@ -139,4 +139,4 @@ For more details on Python operators, check out:
 
 ---
 
-**Next Steps**: In the next post, we'll dive deeper into **Text Strings**. Continue learning and practicing to master these essential skills in Python!
+**Next Steps**: In the next post, we'll dive deeper into [*Text Strings*](https://gaaspkm.online/posts/string-operations/). Continue learning and practicing to master these essential skills in Python!

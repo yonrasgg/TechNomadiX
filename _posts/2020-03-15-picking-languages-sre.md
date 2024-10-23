@@ -58,3 +58,5 @@ line [50, 25, 25, 12, 15]
 **Python** saw steady adoption, holding strong with adoption values represented at 40% in one set and 50% in another, affirming its position as a popular choice for DevOps tools and automation. Go demonstrated substantial growth, with adoption values shown as 10% and rising to 25%, highlighting its increasing use in cloud-native technologies and infrastructure projects.
 
 ![Programming Stack]({{ 'assets/img/altumcode-PNbDkQ2DDgM-unsplash.jpg' | relative_url }})
+
+**Next Steps**: In the next post, we'll dive into [*Introduction to Python*](https://gaaspkm.online/posts/introduction-to-pytrhon/) to get you familiar with manipulating data using Python. Stay tuned and happy coding!

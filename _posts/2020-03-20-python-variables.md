@@ -8,7 +8,7 @@ image:
     alt: Python Variables
 ---
 
-**Summary**: In this post, we cover what variables are in Python, how to use them, and explore various data types. We'll look into the syntax for creating variables, naming conventions, and see some examples that illustrate how variables work.
+In this post, we cover what variables are in Python, how to use them, and explore various data types. We'll look into the syntax for creating variables, naming conventions, and see some examples that illustrate how variables work.
 
 ## What is a Variable in Python?
 
@@ -118,4 +118,4 @@ Here are some additional resources for learning about Python variables:
 
 ---
 
-**Next Steps**: In the next post, we'll explore **Aritmetic Operators**. You'll learn the best practices and common pitfalls to avoid. Keep learning and happy coding! 🎉
+**Next Steps**: In the next post, we'll explore [*Aritmetic Operators*](https://gaaspkm.online/posts/aricmetic-operators/). You'll learn the best practices and common pitfalls to avoid. Keep learning and happy coding! 

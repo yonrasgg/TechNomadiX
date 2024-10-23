@@ -1,5 +1,5 @@
 ---
-title: Object-Oriented Programming in Python - Classes, Attributes, Methods, and More 🏫🔵
+title: Object-Oriented Programming in Python - Classes, Attributes, Methods, and More
 date: 2020-03-23 01:00:00 +/-TTTT
 categories: [PROGRAMMING, PYTHON]
 tags: [python, oop, classes, attributes, methods, constructors]
@@ -8,13 +8,13 @@ image:
     alt: POO In Python
 ---
 
-**Summary**: In this post, we will explore the key concepts of Object-Oriented Programming (OOP) in Python, including classes, attributes, methods, the `self` keyword, the `__init__` constructor, and special methods like `__str__` and `__len__`. Understanding these fundamental building blocks will help you create more modular, reusable, and organized Python programs.
+In this post, we will explore the key concepts of Object-Oriented Programming (OOP) in Python, including classes, attributes, methods, the `self` keyword, the `__init__` constructor, and special methods like `__str__` and `__len__`. Understanding these fundamental building blocks will help you create more modular, reusable, and organized Python programs.
 
-## Introduction to Object-Oriented Programming (OOP) 📘
+## Introduction to Object-Oriented Programming (OOP)
 
 **Object-Oriented Programming (OOP)** is a programming paradigm based on the concept of "objects." An object can contain both data (attributes) and functionality (methods). Objects are created using templates called **classes**.
 
-### Classes and Objects 🏷️🔧
+### Classes and Objects
 
 A **class** is like a blueprint for creating an **object**. It defines the set of attributes that will characterize any object made from that class.
 
@@ -34,11 +34,11 @@ print(car_instance.color)  # Output: Red
 
 In this example, `Car` is a class, and `car_instance` is an object created from that class.
 
-## Attributes and Methods in OOP 🚀
+## Attributes and Methods in OOP
 
 Attributes are like characteristics that define an object, while methods are actions that the object can perform.
 
-### Defining Attributes 🎨
+### Defining Attributes
 
 Attributes are variables defined inside a class. They represent the properties that the instances of the class will have. Consider the `Car` class below with attributes like `color`, `brand`, and `speed`.
 
@@ -56,7 +56,7 @@ my_car = Car()
 print(my_car.color)  # Output: Blue
 ```
 
-### Defining Methods 🛠️
+### Defining Methods
 
 Methods are functions defined inside a class that describe the behaviors of an object.
 
@@ -75,11 +75,11 @@ my_car.accelerate()  # Output: Speed: 5
 
 Here, `accelerate()` is a method that increases the `speed` of the car by 5 every time it's called.
 
-## The `self` Keyword and `__init__` Constructor 🤳🛠️
+## The `self` Keyword and `__init__` Constructor
 
 The **`self` keyword** in Python is used to refer to the instance of the class. It allows each method to access the attributes and other methods of the class. It must be the first parameter in any method defined within a class.
 
-### The `__init__` Constructor 🏗️
+### The `__init__` Constructor
 
 The `__init__` method is a special method in Python that serves as a constructor. It gets called automatically when an instance of the class is created.
 
@@ -96,11 +96,11 @@ car2 = Car("Subaru", "Blue")  # Output: A new car has been created: Subaru, Blue
 
 The `__init__` constructor initializes the attributes `brand` and `color` when a new object is created, using the values provided as arguments.
 
-## Special Methods in Python 🐍🌟
+## Special Methods in Python
 
 Python provides several special methods, often called **dunder methods** (short for "double underscore"). These methods can add special functionality to your classes.
 
-### The `__str__` Method 🖋️
+### The `__str__` Method
 
 The `__str__` method allows you to define how an instance of a class should be represented as a string. It is called when you use `print()` or `str()` on an instance.
 
@@ -117,7 +117,7 @@ my_car = Car("Toyota", "Red")
 print(my_car)  # Output: Brand: Toyota, Color: Red
 ```
 
-### The `__len__` Method 📏
+### The `__len__` Method
 
 The `__len__` method allows you to define what should be returned when calling `len()` on an object of your class. For example:
 
@@ -135,7 +135,7 @@ print(len(my_car))  # Output: 4
 
 This example shows how the `len()` function can be used to return a specific property of the class—in this case, the number of doors.
 
-## Deep Dive into Object-Oriented Programming 🏊‍♂️
+## Deep Dive into Object-Oriented Programming
 
 As you go deeper into **Object-Oriented Programming (OOP)**, you'll come across advanced concepts like:
 
@@ -143,7 +143,7 @@ As you go deeper into **Object-Oriented Programming (OOP)**, you'll come across 
 - **Encapsulation**: Restricts direct access to some of an object's components, which helps protect the integrity of the data.
 - **Polymorphism**: Allows different classes to be treated as instances of the same class through a shared interface, which makes the code more flexible.
 
-### Example: Inheritance 🗂️
+### Example: Inheritance
 
 ```python
 class Vehicle:
@@ -164,27 +164,23 @@ my_car.start()  # Output: Toyota is starting.
 
 In this example, `Car` inherits from `Vehicle`, allowing `my_car` to access the `start()` method defined in `Vehicle`.
 
-## Practice Exercises 📝
+## Practice Exercises
 
 To practice your understanding of OOP, try the following exercises:
 
 ### Exercise 1: Create a Pet Class 🐾
 Create a `Pet` class with attributes `name` and `species`. Add a method that makes the pet "speak."
 
-### Exercise 2: Inheritance Practice 🔄
+### Exercise 2: Inheritance Practice
 Create a `Bird` class that inherits from `Pet`, with an additional method `fly()`, and create an instance of `Bird`.
 
-### Exercise 3: Special Methods 💡
+### Exercise 3: Special Methods
 Add a `__str__` method to the `Pet` class to provide a custom representation of your pet.
 
-## More Information 📘
+## More Information
 
 Object-Oriented Programming is a powerful tool for structuring your Python programs, making them more modular and reusable. Understanding concepts like classes, methods, constructors, and inheritance can significantly enhance your ability to write clean, efficient, and scalable code.
 
 For more learning, check out:
 - [Python Official Documentation on OOP](https://docs.python.org/3/tutorial/classes.html)
 - [Real Python - Python OOP Tutorial](https://realpython.com/python3-object-oriented-programming/)
-
----
-
-**Next Steps**: In the next post, we will delve into the **Pillars of OOP** in Python, including inheritance, encapsulation, and polymorphism. Keep learning, and happy coding! 🐍🚀

@@ -1,5 +1,5 @@
 ---
-title: Conditional Statements in Python 🎯
+title: Conditional Statements in Python
 date: 2020-03-21 02:30:00 +/-TTTT
 categories: [PROGRAMMING, PYTHON]
 tags: [python, conditionals, control-flow]
@@ -8,7 +8,7 @@ image:
     alt: Python Conditionals
 ---
 
-**Summary**: In this post, we will explore conditional statements in Python, which are crucial for controlling the flow of your program. You will learn about the `if`, `elif`, and `else` statements, as well as nested conditionals, to make decisions in your code. We will also provide examples and exercises to help solidify your understanding.
+In this post, we will explore conditional statements in Python, which are crucial for controlling the flow of your program. You will learn about the `if`, `elif`, and `else` statements, as well as nested conditionals, to make decisions in your code. We will also provide examples and exercises to help solidify your understanding.
 
 ## `if` and `else` Statements in Python
 
@@ -93,7 +93,7 @@ else:
 
 In this code, we first check if the user's name is in lowercase. If it is, we then check whether they are an adult. Otherwise, we print that the name is not in lowercase.
 
-## Practice Exercises 📝
+## Practice Exercises
 
 Try the following exercises to strengthen your understanding of conditionals:
 
@@ -119,4 +119,4 @@ For more details, explore:
 
 ---
 
-**Next Steps**: In the next post, we'll delve into **Python Data Structures**, covering lists, tuples, dictionaries, and more. Keep practicing, and happy coding! 🐍💻
+**Next Steps**: In the next post, we'll delve into [*Python Data Structures*](https://gaaspkm.online/posts/data-structures-lists-tuples-dictionaries-sets-python/), covering lists, tuples, dictionaries, and more. Keep practicing, and happy coding!
