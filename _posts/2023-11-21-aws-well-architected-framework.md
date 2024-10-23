@@ -75,7 +75,31 @@ For DevOps teams, consistency and iterative improvement are key tenets that driv
 
 *[New – AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)*
 
-<iframe id="lb-video-0_Youtube_api" sandbox="allow-scripts allow-same-origin allow-presentation allow-popups" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen="1" title="How to start using AWS Trusted Advisor (11:45)" width="640" height="360" src="https://d3nn3d4w2aqyem.cloudfront.net/mp4/Getting_started_video.mp4" tabindex="-1" spellcheck="false"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g0yFsZp8EVo?si=aV44IW33G4Txxfyl" title="AWS Well-Architected Framework Explicado | Cómo funciona la herramienta AWS Well-Architected" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![AWS Well-Architected Framework Explicado](https://img.youtube.com/vi/g0yFsZp8EVo/maxresdefault.jpg)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "How to start using AWS Well Architected Tool.",
+  "description": "This video provides an introduction to how to get started with the AWS Well Architected Tool.",
+  "thumbnailUrl": "https://gaaspkm.online/assets/img/well-architected-blog-logo.png",
+  "uploadDate": "2023-11-21",
+  "duration": "PT11M45S",
+  "contentUrl": "https://d3nn3d4w2aqyem.cloudfront.net/mp4/Getting_started_video.mp4",
+  "embedUrl": "https://gaaspkm.online/_posts/2023-11-21-aws-well-architected-framework.md#video",
+  "publisher": {
+    "@type": "Organization",
+    "name": "TechNomadiX",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gaaspkm.online/assets/img/favicons/favicon-32x32.png"
+    }
+  }
+}
+</script>
 
 The AWS Well-Architected Tool is a cornerstone for developing cloud solutions that are not only functional but also optimized across multiple facets, such as security, reliability, and cost-efficiency. By integrating this tool into DevOps practices, teams can consistently evaluate and refine their cloud architectures. Whether you are a small startup or an enterprise managing large workloads, adopting the AWS Well-Architected Tool can lead to better alignment with industry best practices and continuous improvement.
 
