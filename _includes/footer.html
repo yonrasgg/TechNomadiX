@@ -47,3 +47,26 @@
     {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
   </p>
 </footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+<script>
+$(document).ready(function() {
+  $('.video-popup').magnificPopup({
+    type: 'iframe',
+    iframe: {
+      patterns: {
+        youtube: {
+          index: 'youtube.com/',
+          id: function(url) {        
+            var m = url.match(/[\\?\\&]v=([^\\?\\&]+)/);
+            if ( !m || !m[1] ) return null;
+            return m[1];
+          },
+          src: 'https://www.youtube.com/embed/%id%?autoplay=1&rel=0'
+        }
+      }
+    }
+  });
+});
+</script>

@@ -15,11 +15,11 @@ Gem::Specification.new do |spec|
   }
 
   spec.metadata = {
-    "bug_tracker_uri"   => "https://github.com/yonrasgg/jekyll-theme-chirpy/issues",
-    "documentation_uri" => "https://github.com/yonrasgg/jekyll-theme-chirpy/#readme",
-    "homepage_uri"      => "https://yonrasgg.github.io/chirpy-demo",
-    "source_code_uri"   => "https://github.com/yonrasgg/jekyll-theme-chirpy",
-    "wiki_uri"          => "https://github.com/yonrasgg/jekyll-theme-chirpy/wiki",
+    # "bug_tracker_uri"   => "https://github.com/yonrasgg/TechNomadiX/issues",
+    "documentation_uri" => "https://github.com/yonrasgg/TechNomadix/#readme",
+    "homepage_uri"      => "https://gaaspkm.online",
+    "source_code_uri"   => "https://github.com/yonrasgg/TechNomadiX",
+    # "wiki_uri"          => "https://github.com/yonrasgg/jekyll-theme-chirpy/wiki",
     "plugin_type"       => "theme"
   }
 
