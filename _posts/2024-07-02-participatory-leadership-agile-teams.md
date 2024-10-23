@@ -72,8 +72,7 @@ However, forming and maintaining an effective team is not without its challenges
 
 *[Implementing 360º Feedback in Agile Teams](https://daily.dev/blog/360-degree-feedback-for-developers-complete-guide)*
 
-## Conclusion
-
+---
 **Participatory leadership** is an effective approach in agile teams, where **collaboration, empowerment**, and **continuous feedback** drive success. By involving team members in decision-making, providing coaching, promoting teamwork, and utilizing tools like **360º Feedback**, leaders can create a motivated and high-performing team. The principles of participatory leadership align well with agile methodologies, making it a powerful framework for modern DevOps and software development teams.
 
 For further insights on participatory leadership and its implementation in agile teams, explore the resources linked throughout this post.

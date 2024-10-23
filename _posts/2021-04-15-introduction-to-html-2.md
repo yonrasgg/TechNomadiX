@@ -195,8 +195,6 @@ Tips:
 - Use the `<footer>` to give a professional and informative end to your page.
 - Ensure consistency across pages by placing site-wide links and details in the footer.
 
-## Conclusion on HTML5 Elements
-
 HTML5 introduces semantic elements that greatly improve the clarity and accessibility of web pages. These elements help browsers, search engines, and assistive technologies to better understand the layout and importance of content.
 
 For more in-depth details on HTML5, check out the [MDN Web Docs on HTML5](https://developer.mozilla.org/es/docs/Web/HTML/Elemento).

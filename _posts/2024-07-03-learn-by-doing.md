@@ -79,8 +79,7 @@ The Poka Yoke technique, which means “avoid mistakes” in Japanese, is aimed 
 
 *[Poka Yoke in DevOps](https://businessmap.io/lean-management/improvement/what-is-poka-yoke#:~:text=Poka%2DYoke%20is%20any%20mechanism,human%20errors%20as%20they%20occur.)*
 
-## Conclusion
-
+---
 Trial and error, learning by doing, and techniques like Poka Yoke play crucial roles in the growth and success of software development and DevOps practices. Trial and error provide the flexibility to experiment and learn, while learning by doing ensures knowledge is deeply internalized. The Poka Yoke technique ensures quality and error prevention, leading to a more robust and reliable development process. By combining these approaches, teams can foster an environment of continuous learning and improvement.
 
 ---

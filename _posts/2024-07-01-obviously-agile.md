@@ -65,8 +65,7 @@ The **Agile Alliance** emerged from the 2001 meeting, promoting the principles a
 
 *[Agile Alliance Membership](https://www.agilealliance.org/membership)*
 
-## Conclusion
-
+---
 The **Agile Manifesto** and its values continue to shape the software development industry by emphasizing **people, collaboration, working software, and adaptability**. These core principles drive innovation, engagement, and customer satisfaction. As agile continues to evolve, it is essential for developers, project managers, and organizations to embrace the manifesto’s principles, making software development more **adaptive, human-centered, and effective**.
 
 To learn more, explore the links and resources mentioned throughout this post.

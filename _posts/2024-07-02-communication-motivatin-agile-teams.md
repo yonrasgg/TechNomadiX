@@ -78,8 +78,7 @@ Motivation isn’t just about being eager to work; it's also about effectively u
 
 *[Motivation and Skill Utilization in Agile Teams](https://www.scrum.org/resources/blog/agile-principles-motivated-people)*
 
-## Conclusion
-
+---
 Effective **communication and motivation** are pivotal in agile teams, ensuring that all members are engaged and projects move smoothly towards their goals. By focusing on the different levels of communication, implementing models like the **Johari Window**, and emphasizing both intrinsic and extrinsic motivation, teams can enhance collaboration and productivity. A motivated, well-communicating team is the key to successful software delivery in agile environments.
 
 For more detailed insights, explore the references provided throughout this post to understand how you can apply these principles to your own agile teams.

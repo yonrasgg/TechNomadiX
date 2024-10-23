@@ -8,7 +8,7 @@ image:
     alt: CSS3
 ---
 
-# The Universal Selector in CSS: Global Styling for All Elements 🎨
+# The Universal Selector in CSS: Global Styling for All Elements
 
 The universal selector in CSS, represented by the asterisk `*`, is a powerful tool that allows developers to apply styles globally to all elements within an HTML document. This selector affects every tag and component present on a webpage, including nested elements within other elements.
 
@@ -23,13 +23,13 @@ In the example provided, we used the universal selector to apply a set of common
 }
 ```
 
-- 💡 `font-size: 25px;`: Sets the font size of all elements to 25 pixels. Since the universal selector applies to all elements, each will have a uniform font size throughout the page.
+- `font-size: 25px;`: Sets the font size of all elements to 25 pixels. Since the universal selector applies to all elements, each will have a uniform font size throughout the page.
 
-- 🎨 `color: gray;`: Defines the text color of all elements as gray. Similar to the font size, all text in the page will share this color.
+- `color: gray;`: Defines the text color of all elements as gray. Similar to the font size, all text in the page will share this color.
 
-- 🖋️ `font-family: Arial, Helvetica, sans-serif;`: Specifies the font for all elements. In this case, it chooses a sequence of fonts: Arial, Helvetica, and the generic sans-serif. If one of these fonts is unavailable, the browser will use the next one in the list.
+- `font-family: Arial, Helvetica, sans-serif;`: Specifies the font for all elements. In this case, it chooses a sequence of fonts: Arial, Helvetica, and the generic sans-serif. If one of these fonts is unavailable, the browser will use the next one in the list.
 
-- 🎆 `background-color: azure;`: Sets the background color to a light azure shade for all elements. This means that all page content will be displayed on a light blue background.
+- `background-color: azure;`: Sets the background color to a light azure shade for all elements. This means that all page content will be displayed on a light blue background.
 
 It's important to note that the universal selector should be used with caution, as it affects all elements, including those inside other containers or components. This means that any styles defined later for specific elements might be overridden by styles applied through the universal selector.
 

@@ -55,12 +55,7 @@ Continuous improvement is at the heart of the Kanban methodology, encouraging te
 
 *[Continuous Improvement in Kanban](https://kanbanzone.com/resources/kanban/process-improvement/)*
 
-## Conclusion
-
+---
 The **Kanban method** offers an agile approach to workflow management, emphasizing visualization, WIP limits, and continuous improvement. By implementing Kanban, teams can enhance transparency, effectively manage workloads, and steadily improve their processes. From its origins in Toyota’s production lines to its widespread use in software development and service industries, Kanban remains a powerful tool for enabling efficient, flexible, and collaborative work environments.
 
 By visualizing work, managing flow effectively, and focusing on continuous improvement, teams can build a culture of transparency, quality, and adaptability. If you're considering adopting an agile framework, Kanban provides a simple yet robust foundation that can evolve with the needs of your projects and organization.
-
----
-
-Kanban is more than just a methodology—it is a cultural shift towards greater transparency and collective responsibility. Embrace the visual power of Kanban boards, control work-in-progress effectively, and continuously look for ways to improve—these principles will lead you to a more efficient and agile way of managing work.

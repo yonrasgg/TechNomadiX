@@ -75,8 +75,7 @@ graph TB
 
 *[Stages of Innovation](https://www.lead-innovation.com/en/insights/english-blog/innovation-process)*
 
-## Conclusion
-
+---
 Disruptive thinking and idea development are crucial for businesses that want to stay ahead of the competition and adapt to a rapidly changing market. By encouraging creativity, challenging established norms, and embracing new approaches, organizations can create disruptive innovations that redefine their industry. Start thinking disruptively today, and explore the resources linked throughout this post to deepen your understanding of how to apply these concepts effectively.
 
 ---

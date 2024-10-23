@@ -95,7 +95,7 @@ To save what you’ve written, press **Ctrl + O**, then **Enter**. To exit nano,
 
 ![OCR Bash Script]({{ 'assets/img/Screenshot from 2024-10-18 22-43-21.png' | relative_url }})
 
-#### Step 4: Make It Magical (Executable!)
+#### Step 4: Make It Executable
 To make our script executable, which means telling the computer it’s okay to follow these instructions, type:
 
 ```bash

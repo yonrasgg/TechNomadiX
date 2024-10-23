@@ -64,12 +64,7 @@ The aim is to encourage honesty, trust, and respect, which then fosters an envir
 
 *[High-Performance Principles in Kanban](https://teamhood.com/kanban-resources/kanban-principles/)*
 
-## Conclusion
-
+---
 Starting Kanban involves more than just implementing a visual board—it's about establishing a culture rooted in transparency, communication, and continuous improvement. By following these practical tips, such as developing mixed production systems, optimizing workflow speed, enhancing communication, and focusing on the high-performance principles, organizations can create a more effective Kanban system that truly enhances productivity.
 
 The key to success lies in creating an environment of mutual trust and respect, where team members are encouraged to communicate openly, share responsibilities, and work towards a shared goal. By following the principles outlined in this guide, your journey to integrating Kanban can be smoother, more effective, and ultimately rewarding for the entire team.
-
----
-
-Embrace Kanban to foster an agile, transparent, and highly collaborative workflow. With a commitment to continuous improvement, proper planning, and clear communication, Kanban can transform how your team manages its projects, ultimately leading to higher efficiency and customer satisfaction.

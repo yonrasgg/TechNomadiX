@@ -1000,8 +1000,7 @@ ps [options]
 | `wget`                | Downloads files from the web.                              |
 | `zip`                 | Compresses multiple files into a zip archive.              |
 
-## Conclusion
-
+---
 Mastering these Linux commands will allow you to take full advantage of the power and flexibility that the operating system offers. The command line is an essential tool for system administrators, developers, and anyone looking to interact efficiently with Linux.
 
 I recommend practicing regularly and exploring the different options each command offers. Feel free to consult the manual pages with `man [command]` for detailed information.
@@ -1009,4 +1008,3 @@ I recommend practicing regularly and exploring the different options each comman
 ![MAN MAN]({{ 'assets/img/Screenshot from 2024-10-13 17-21-26.png' | relative_url }}){: width="300" height="100" }
 
 Dive into the world of Linux and discover all you can achieve with these essential commands!
-

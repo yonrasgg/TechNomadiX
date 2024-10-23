@@ -59,8 +59,6 @@ Whether you're building a new application, testing existing workloads, or gainin
 
 Ready to begin your journey? Head over to the [AWS Free Tier homepage](https://aws.amazon.com/free/) and start experimenting today!
 
-### **Resources**
-
 For more information about how to monitor your free tier usage, see the following resources:
 
 - [Managing your costs with AWS Budgets](https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html) in the _AWS Billing and Cost Management User Guide_

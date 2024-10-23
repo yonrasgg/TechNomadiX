@@ -1,6 +1,6 @@
 ---
 title: HTML5 Attributes Explained
-date: 2021-04-15 01:00:00 +/-TTTT
+date: 2021-04-15 01:30:00 +/-TTTT
 categories: [PROGRAMMING, HTML]
 tags: [html, header, attributes, accessibility, styling]
 image:
@@ -179,8 +179,7 @@ The `title` attribute provides additional information as a tooltip when users ho
 
 **Tips**: Use `tabindex` to improve accessibility for keyboard users and `title` to clarify the purpose of elements without cluttering the UI.
 
-## Conclusion
-
+---
 These HTML5 attributes provide powerful ways to enhance user experience, accessibility, and the interactive capabilities of your web pages. By leveraging attributes like `style`, `class`, `id`, `accesskey`, `contenteditable`, `dir`, `draggable`, `hidden`, `tabindex`, and `title`, you can create highly engaging and user-friendly websites.
 
 For further reading and detailed references, check out the [MDN Web Docs on HTML5 Attributes](https://developer.mozilla.org/en/docs/Web/HTML/Attributes).

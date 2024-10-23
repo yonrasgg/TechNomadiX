@@ -187,6 +187,5 @@ Using YAML is straightforward. All you need is a text editor to create and modif
 
 Numerous tools and programming languages offer native support for working with YAML, allowing easy integration and manipulation. Whether you're using Python, JavaScript, or just a shell script, there are libraries and tools available to parse and handle YAML effectively.
 
-## Conclusion
-
+---
 YAML files are a versatile and human-readable tool that can be applied in a wide range of contexts, from software configuration to managing daily activities. Their ability to represent structured data in a clear and simple way makes them indispensable for both professionals and casual users alike. Whether you're setting up a CI/CD pipeline at work or organizing your personal to-do lists, YAML offers a straightforward solution to handle structured data.
