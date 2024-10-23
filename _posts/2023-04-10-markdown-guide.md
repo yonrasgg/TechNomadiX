@@ -348,7 +348,7 @@ While Markdown doesn't support video embedding natively, you can include a link 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3p2VxzFgz6g?si=xJdlH_uKMICO_pTN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Embedding YouTube Videos
+#### Embedding YouTube Videos
 
 As mentioned, embedding YouTube videos requires HTML.
 
