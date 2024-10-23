@@ -8,7 +8,7 @@ image:
     alt: Python 
 ---
 
-**Summary**: In this post, you will learn what Python is, why it's so popular, and get a brief overview of its capabilities. We'll discuss its core features and why it's an excellent choice for beginners as well as experienced developers.
+In this post, you will learn what Python is, why it's so popular, and get a brief overview of its capabilities. We'll discuss its core features and why it's an excellent choice for beginners as well as experienced developers.
 
 ## What is Python?
 
