@@ -312,6 +312,10 @@ Use `![]()` with the image URL inside the parentheses.
 
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
+<a href="https://www.youtube.com/watch?v=_PPWWRV6gbA" class="video-popup">
+  <img src="https://img.youtube.com/vi/_PPWWRV6gbA/hqdefault.jpg" alt="How to Start Using AWS Well-Architected Tool" width="320" height="180">
+</a>
+
 **Clickable Image Link:**
 
 You can make an image a clickable link.
@@ -335,14 +339,54 @@ While Markdown doesn't support video embedding natively, you can include a link 
 **Example using HTML iframe:**
 
 ```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3p2VxzFgz6g?si=xJdlH_uKMICO_pTN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
 **Note:** The ability to render HTML depends on the platform you're using.
 
 **Renders as:**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3p2VxzFgz6g?si=xJdlH_uKMICO_pTN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Embedding YouTube Videos
+
+As mentioned, embedding YouTube videos requires HTML.
+
+**Example:**
+
+```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+```
+
+**Renders as:**
+
+<a href="https://www.youtube.com/watch?v=_PPWWRV6gbA" class="video-popup">
+  <img src="https://img.youtube.com/vi/_PPWWRV6gbA/hqdefault.jpg" alt="How to Start Using AWS Well-Architected Tool" width="320" height="180">
+</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA?si=p7U1yc1n5iDNAOtg" title="How to Start Using AWS Well-Architected Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "The Only Markdown Crash Course You Will Ever Need",
+  "description": "This video provides an introduction on how to understand the Markdown language for technical writting.",
+  "thumbnailUrl": "https://img.youtube.com/vi/_PPWWRV6gbA/maxresdefault.jpg",
+  "uploadDate": "2023-07-04",
+  "duration": "PT11M45S",
+  "contentUrl": "https://www.youtube.com/watch?v=_PPWWRV6gbA",
+  "embedUrl": "https://www.youtube.com/embed/_PPWWRV6gbA",
+  "publisher": {
+    "@type": "Organization",
+    "name": "TechNomadiX",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gaaspkm.online/assets/img/favicons/favicon-32x32.png"
+    }
+  }
+}
+</script>
 
 ---
 
@@ -429,45 +473,6 @@ You can embed GIFs using the image syntax with the GIF URL.
 ![Coding Fun](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ---
-
-### Embedding YouTube Videos
-
-As mentioned, embedding YouTube videos requires HTML.
-
-**Example:**
-
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-```
-
-**Renders as:**
-
-<a href="https://www.youtube.com/watch?v=_PPWWRV6gbA" class="video-popup">
-  <img src="https://img.youtube.com/vi/_PPWWRV6gbA/hqdefault.jpg" alt="How to Start Using AWS Well-Architected Tool" width="320" height="180">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_PPWWRV6gbA?si=p7U1yc1n5iDNAOtg" title="How to Start Using AWS Well-Architected Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</a>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "The Only Markdown Crash Course You Will Ever Need",
-  "description": "This video provides an introduction on how to understand the Markdown language for technical writting.",
-  "thumbnailUrl": "https://img.youtube.com/vi/_PPWWRV6gbA/maxresdefault.jpg",
-  "uploadDate": "2023-07-04",
-  "duration": "PT11M45S",
-  "contentUrl": "https://www.youtube.com/watch?v=_PPWWRV6gbA",
-  "embedUrl": "https://www.youtube.com/embed/_PPWWRV6gbA",
-  "publisher": {
-    "@type": "Organization",
-    "name": "TechNomadiX",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://gaaspkm.online/assets/img/favicons/favicon-32x32.png"
-    }
-  }
-}
-</script>
 
 Mastering Markdown enhances your ability to create clear and organized documentation, which is essential for collaboration in documentation. By leveraging the formatting capabilities of Markdown, you can produce professional and accessible documents that facilitate communication across teams.
 
