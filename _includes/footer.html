@@ -45,8 +45,7 @@
     {%- endcapture -%}
 
     {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}<br>
-    {{ site.time | date: '%Y' }} {{ site.title }}
-    <a href="{{ 'assets/policies/privacy-policy.md' | relative_url }}">Privacy Policy</a>
+    {{ site.title }} <a href="{{ 'assets/policies/privacy-policy.md' | relative_url }}">Privacy Policy</a>
   </p>
 </footer>
 
