@@ -107,6 +107,6 @@ To implement Crystal effectively, start by choosing the right variant based on p
 
 ---
 
-For further reading and deeper insight into Crystal Methodologies and other agile frameworks, refer to [Crystal]().
+For further reading and deeper insight into Crystal Methodologies and other agile frameworks, refer to [Crystal](https://monday.com/blog/rnd/agile-crystal/).
 
 ![Crystal Methodologies]({{ 'assets/img/cfrmwr.jpeg' | relative_url }})
