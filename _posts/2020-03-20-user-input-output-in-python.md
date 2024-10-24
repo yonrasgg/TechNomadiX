@@ -10,7 +10,7 @@ image:
 
 In this post, you'll learn how to use the `input()` function to take data from users and how to display data using `print()`. We'll explore basic concepts with examples to understand user interaction in Python and conclude with exercises to practice what you've learned.
 
-## Taking User Input in Python
+## [Taking User Input in Python](https://github.com/yonrasgg/Scripts/blob/main/Python/19.KeywordInputsOutputs.py)
 
 In Python, the `input()` function is used to take data from the user. This function displays a message (prompt) and then waits for the user to type something and press ENTER. The function then returns whatever the user typed, which is generally saved in a variable for further use.
 
@@ -85,10 +85,10 @@ This program provides a good example of how arithmetic operators can be used to 
 
 Try the following exercises to apply what you've learned about user input and output:
 
-### Exercise 1: Cubic Equation Solver
+### Exercise 1: [Cubic Equation Solver](https://github.com/yonrasgg/Scripts/blob/main/Python/20.Exercise_1.py)
 Develop a program that takes user input to solve cubic equations of the form \(ax^3 + bx^2 + cx + d = 0\). Use the complex math (`cmath`) module as demonstrated above.
 
-### Exercise 2: Grade Calculator
+### Exercise 2: [Grade Calculator](https://github.com/yonrasgg/Scripts/blob/main/Python/21.Exercise_2.py)
 Write a program that takes user input for assignment, midterm, and project grades and calculates the final grade based on given weightings.
 
 ## More Information
