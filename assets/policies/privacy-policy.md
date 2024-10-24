@@ -1,10 +1,3 @@
----
-```markdown
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 5
----
-
 # Privacy Policy
 
 _Last updated: October 24, 2024_
