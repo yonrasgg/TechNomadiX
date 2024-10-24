@@ -10,7 +10,7 @@ image:
 
 In this post, we'll explore the fundamentals of Boolean data types, relational operators, and logical operators in Python. You will learn how to use them to compare values, combine conditions, and make decisions in your programs. Additionally, we'll discuss some built-in Boolean methods for strings in Python.
 
-## What are Boolean Values in Python?
+## [What are Boolean Values in Python?](https://github.com/yonrasgg/Scripts/blob/main/Python/25.Booleans.py)
 
 Booleans are a data type in Python that can have one of two values: `True` or `False`. They are especially useful for comparisons and decision-making in programs.
 
@@ -35,7 +35,7 @@ print(bool(filled_string))  # Output: True
 
 Booleans are fundamental in programming, allowing us to control the flow of our programs through decision-making and loops.
 
-## Relational Operators in Python
+## [Relational Operators in Python](https://github.com/yonrasgg/Scripts/blob/main/Python/22.RelationalOperators.py)
 
 Relational operators, also known as comparison operators, are used to compare two values. They return a boolean value (`True` or `False`) depending on whether the comparison is true or false. Python provides the following relational operators:
 
@@ -78,7 +78,7 @@ print(num1 != num2) # Checks if num1 is not equal to num2
 
 This program uses relational operators to evaluate the relationship between two user-provided numbers.
 
-## Logical Operators in Python
+## [Logical Operators in Python](https://github.com/yonrasgg/Scripts/blob/main/Python/23.LogicOperators.py)
 
 Logical operators in Python are used to combine multiple conditions. Python provides three logical operators: `and`, `or`, and `not`.
 
@@ -121,7 +121,7 @@ print(not(z < y))  # Output: True
 
 In this example, logical operators allow us to evaluate multiple conditions and determine if they collectively meet certain criteria.
 
-## Boolean Methods for Strings
+## [Boolean Methods for Strings](https://github.com/yonrasgg/Scripts/blob/main/Python/24.BooleanMthods.py)
 
 Python provides several built-in Boolean methods for strings that return `True` or `False` based on the characteristics of the string. Here are some commonly used Boolean methods:
 
