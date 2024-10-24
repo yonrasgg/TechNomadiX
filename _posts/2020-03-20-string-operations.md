@@ -12,7 +12,7 @@ In this post, we'll explore how strings work in Python. Strings are one of the e
 
 ## [Creating Strings in Python](https://github.com/yonrasgg/Scripts/blob/main/Python/5.Comments.py)
 
-Strings in Python can be created by enclosing text within single quotes (`'`), double quotes (`"`), or triple quotes (`'''` or `"""`). Here are some examples:
+[Strings](https://github.com/yonrasgg/Scripts/blob/main/Python/12.Strings.py) in Python can be created by enclosing text within single quotes (`'`), double quotes (`"`), or triple quotes (`'''` or `"""`). Here are [some examples](https://github.com/yonrasgg/Scripts/blob/main/Python/15.StringMethods.py):
 
 ```python
 string1 = 'Hello, world!'
@@ -38,9 +38,9 @@ print(string4)  # Output: This string contains a "double quote"
 print(string5)  # Output: This string contains an "double quote"
 ```
 
-## Concatenating Strings in Python
+## [Concatenating Strings in Python](https://github.com/yonrasgg/Scripts/blob/main/Python/14.StringConcatenation.py)
 
-String concatenation refers to the operation of joining two or more strings into one. This can be done using the `+` operator:
+[String concatenation](https://github.com/yonrasgg/Scripts/blob/main/Python/14.StringConcatenation.py) refers to the operation of joining two or more strings into one. This can be done using the `+` operator:
 
 ```python
 string1 = 'Hello, world!'
@@ -58,7 +58,7 @@ print(str(number1) + string1)  # Output: 5Hello, world!
 - **Repetition with `*`**: Repeats `string1` three times.
 - **Concatenation with a Number**: Convert the number to a string with `str()` before concatenating.
 
-## Length of a String
+## [Length of a String](https://github.com/yonrasgg/Scripts/blob/main/Python/16.StringLenght.py)
 
 To get the length of a string, use the `len()` function, which counts the total number of characters including spaces:
 
@@ -74,7 +74,7 @@ You can also calculate the length of a substring:
 print(len(string[0:15]))  # Output: 15
 ```
 
-## Accessing Characters in a String
+## [Accessing Characters in a String](https://github.com/yonrasgg/Scripts/blob/main/Python/13.SubStrings.py)
 
 In Python, you can access individual characters of a string using indexing, where the first character has index `0`:
 
@@ -123,7 +123,7 @@ print(string.find('is'))  # Output: 7
 
 Try the following exercises to reinforce what you have learned:
 
-### Exercise 1
+### [Exercise 1](https://github.com/yonrasgg/Scripts/blob/main/Python/17.Ejxercise_1.py)
 Create a program with a variable containing the string "I love my dog; it's the best" and display the following:
 - Print the first two characters.
 - Print the last three characters.
@@ -131,7 +131,7 @@ Create a program with a variable containing the string "I love my dog; it's the 
 - Print the string in reverse order.
 - Print the string in normal and reverse order, combined.
 
-### Exercise 2
+### [Exercise 2](https://github.com/yonrasgg/Scripts/blob/main/Python/18.Exercise_2.py)
 Create a program that takes the string "Apart" and inserts a dot (`.`) between each character, resulting in "A.p.a.r.t".
 
 ## More Information
