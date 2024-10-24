@@ -4,8 +4,8 @@ date: 2024-07-08 01:40:00 +/-TTTT
 categories: [DEVOPS, ADAPTIVE_SOFTWARE_DEVELOPMENT]
 tags: [devops, adaptive-software, iterative-development, incremental-delivery, continuous-learning, collaboration-methods, speculation-exploration, risk-mitigation, non-linear-lifecycle, dynamic-lifecycle]
 image:
-    path: 
-    alt: 
+    path: assets/img/software-engineer.png 
+    alt: ASD
 ---
 
 Adaptive Software Development (ASD) is an agile methodology that champions iterative and incremental development through continuous deliveries of prototypes. In an environment where software requirements frequently evolve, ASD emphasizes a dynamic lifecycle, embracing changes, reducing risks, and fostering collaboration. This post will comprehensively explore the fundamentals of ASD, provide insights into its key phases—Speculate, Collaborate, and Learn—and illustrate its impact on modern software projects.
