@@ -30,7 +30,6 @@ DSDM is a flexible methodology that aligns well with agile development principle
 
 ![DSDM]({{ 'assets/img/Screenshot from 2024-10-23 17-44-18.png' | relative_url }})
 
-
 ## The Phases of DSDM
 
 DSDM is divided into three major phases, each with its own distinct focus and deliverables. Let's explore these phases and understand their importance:
