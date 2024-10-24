@@ -1,3 +1,10 @@
+---
+title: "Privacy Policy"
+description: "TechNomadiX Privacy Policy detailing data collection, usage, and user rights."
+date: "2024-10-24"
+author: "TechNomadiX"
+---
+
 # Privacy Policy
 
 _Last updated: October 24, 2024_
