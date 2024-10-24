@@ -10,7 +10,7 @@ image:
 
 In this post, we'll explore how strings work in Python. Strings are one of the essential data types and are used to represent text. We'll look at how to create strings, concatenate them, access specific characters, and learn about various built-in methods that can be used to manipulate strings.
 
-## Creating Strings in Python
+## [Creating Strings in Python](https://github.com/yonrasgg/Scripts/blob/main/Python/5.Comments.py)
 
 Strings in Python can be created by enclosing text within single quotes (`'`), double quotes (`"`), or triple quotes (`'''` or `"""`). Here are some examples:
 

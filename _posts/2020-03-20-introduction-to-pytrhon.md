@@ -49,7 +49,7 @@ To get started with Python, you will need to install Python 3 on your computer. 
 
 ## A Simple Python Example
 
-Let's look at a simple example. This is a basic Python script that prints "Hello, World!":
+Let's look at a simple example. This is a basic [Python script that prints "Hello, World!":](https://github.com/yonrasgg/Scripts/blob/main/Python/1.HelloWorld.py)
 
 ```python
 print("Hello, World!")

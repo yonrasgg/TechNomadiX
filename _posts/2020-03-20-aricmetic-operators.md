@@ -10,7 +10,7 @@ image:
   
 In this post, we explore the various arithmetic operators available in Python. You'll learn how to use addition, subtraction, multiplication, and more to perform calculations. We'll also look at how to work with variables to create dynamic operations.
 
-## What are Arithmetic Operators?
+## [What are Arithmetic Operators?](https://github.com/yonrasgg/Scripts/blob/main/Python/7.AritmeticOperators.py)
 
 In Python, arithmetic operators are symbols that represent mathematical operations. They allow you to perform basic calculations like addition, subtraction, multiplication, and division, as well as more advanced operations like exponentiation and finding remainders.
 
@@ -72,7 +72,7 @@ In Python, arithmetic operators are symbols that represent mathematical operatio
   print(f"Floor Division: {floor_division}")  # Output: Floor Division: 3
   ```
 
-## Using Arithmetic Operators with Variables
+## [Using Arithmetic Operators with Variables](https://github.com/yonrasgg/Scripts/blob/main/Python/8.VariableAritmeticOperators.py)
 
 Arithmetic operators become especially powerful when used with variables. Instead of being limited to static numbers, you can store values in variables and perform operations dynamically:
 
@@ -85,7 +85,7 @@ print('Sum: ', sum_result)  # Output: Sum: 19
 
 By using variables, you can manipulate your data and create more flexible programs.
 
-## Precedence of Arithmetic Operators
+## [Precedence of Arithmetic Operators](https://github.com/yonrasgg/Scripts/blob/main/Python/9.OperationsHierarchy.py)
 
 Just like in mathematics, Python follows a hierarchy when evaluating expressions with multiple operators, known as the **order of precedence**:
 
@@ -114,10 +114,10 @@ In the above code, Python evaluates the expression in the following order:
 
 Try your hand at the following exercises to reinforce your understanding:
 
-### Exercise 1
+### [Exercise 1](https://github.com/yonrasgg/Scripts/blob/main/Python/10.%20Exercise_1.py)
 Write a program that calculates the result of the following arithmetic operation: `(7 + 2 / 8 - 2)**2`. Use parentheses to control the order of operations.
 
-### Exercise 2
+### [Exercise 2](https://github.com/yonrasgg/Scripts/blob/main/Python/11.Exercise_2.py)
 A bookstore needs to calculate the total weight of an order. Books weigh 500g each, and magazines weigh 300g each. Write a program that calculates the total weight of an order consisting of 3 books and 2 magazines.
 
 ```python

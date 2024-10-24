@@ -10,7 +10,7 @@ image:
 
 In this post, we cover what variables are in Python, how to use them, and explore various data types. We'll look into the syntax for creating variables, naming conventions, and see some examples that illustrate how variables work.
 
-## What is a Variable in Python?
+## [What is a Variable in Python?](https://github.com/yonrasgg/Scripts/blob/main/Python/2.Variables.py)
 
 Variables are like storage boxes in your computer's memory where you can keep information to use later in your program. Each variable is a named reference to a piece of data, allowing you to manipulate and manage it more easily.
 
@@ -30,7 +30,7 @@ name = "Another Name"
 
 Python distinguishes between lowercase and uppercase, meaning `name` and `Name` would be treated as two different variables.
 
-### Types of Variables in Python
+### [Types of Variables in Python](https://github.com/yonrasgg/Scripts/blob/main/Python/3.RulesAndAdvices.py)
 
 Python supports several types of data that can be stored in variables:
 
@@ -67,7 +67,7 @@ Python supports several types of data that can be stored in variables:
   person = {"name": "John", "age": 30}  # This is a dictionary
   ```
 
-## Naming Variables in Python
+## [Naming Variables in Python](https://github.com/yonrasgg/Scripts/blob/main/Python/4.ConstantVariable.py)
 
 - Variables can start with a letter or an underscore (`_`), but not with a number.
 - They can contain letters, numbers, and underscores.
