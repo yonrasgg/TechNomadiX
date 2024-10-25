@@ -9,6 +9,12 @@
 
 /* append your custom style below */
 
+$background-color: #ffffff; 
+$text-color: #333333; 
+$heading-color: #000000; 
+$link-color: #1a0dab; 
+$link-hover-color: #551a8b; 
+
 .privacy-policy {
     @extend .page;
     padding: 2rem;
