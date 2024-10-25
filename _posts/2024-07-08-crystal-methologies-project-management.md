@@ -1,7 +1,7 @@
 ---
 title: Crystal Methodologies for Agile Project Management
 date: 2024-07-08 01:30:00 +/-TTTT
-categories: [DEVOPS, CRYSTAL_METHODOLOGIES]
+categories: [AGILE_METHODOLOGIES, CRYSTAL_METHODOLOGIES]
 tags: [devops, agile-methodologies, crystal-clear, iterative-development, incremental-delivery, frequent-deliveries, reflective-improvement, osmotic-communication, personal-security, project-management, easy-access-expert-users, technical-environment-agile-testing, configuration-management, continuous-integration] 
 image:
     path: assets/img/crystal.jpeg

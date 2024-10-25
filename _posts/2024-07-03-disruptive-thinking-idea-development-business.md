@@ -1,7 +1,7 @@
 ---
 title: Disruptive Thinking and Idea Development for Businesses 
 date: 2024-07-03 01:00:00 +/-TTTT
-categories: [DEVOPS, AGILE_METHODOLOGIES]
+categories: [AGILE_METHODOLOGIES, DISRUPTIVE_THINKING]
 tags: [disruptive-thinking, creativity, business-innovation, strategy, entrepreneurship, devops]
 image:
     path: assets/img/7986106231_1f4cee5707_k.jpg

@@ -1,7 +1,7 @@
 ---
 title: Leveraging Lean Startup for Agile Product Development 
 date: 2024-07-07 02:40:00 +/-TTTT
-categories: [DEVOPS, LEAN_METHODOLOGY]
+categories: [AGILE_METHODOLOGIES, LEAN_METHODOLOGY]
 tags: [devops, lean-startup, minimum-viable-product, innovation-accounting, customer-feedback, prototyping, build-measure-learn, pivot] 
 image:
     path: assets/img/Pasted image 20240722183214.png

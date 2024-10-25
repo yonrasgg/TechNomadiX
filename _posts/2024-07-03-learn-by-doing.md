@@ -1,7 +1,7 @@
 ---
 title: Trial and Error - Learning by Doing in DevOps and Programming 
 date: 2024-07-03 01:30:00 +/-TTTT
-categories: [DEVOPS, AGILE_METHODOLOGIES]
+categories: [AGILE_METHODOLOGIES, TRIAL_AND_ERROR]
 tags: [learning, devops, programming, trial-and-error, hands-on, learn-by-doing, poka-yoke]
 image:
     path: assets/img/images.png

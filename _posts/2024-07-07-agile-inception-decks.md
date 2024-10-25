@@ -1,7 +1,7 @@
 ---
 title: Mastering Agile Inception Deck for Effective Project Kickoffs 
 date: 2024-07-07 02:50:00 +/-TTTT
-categories: [DEVOPS, AGILE_METHODOLOGIES]
+categories: [AGILE_METHODOLOGIES, INCEPTION_DECK]
 tags: [devops, agile-inception, project-management, team-participation, flexible-methodology, adaptive-solutions, cost-estimation, problem-definition, design-thinking, product-benefits, customer-perspective, collaboration-trust] 
 image:
     path: assets/img/5372705705_3809413a21_b.jpg

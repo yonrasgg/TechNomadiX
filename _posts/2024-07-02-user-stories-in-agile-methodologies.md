@@ -1,7 +1,7 @@
 ---
 title: User Stories in Agile Methodologies 
 date: 2024-07-02 01:00:00 +/-TTTT
-categories: [DEVOPS, AGILE_METHODOLOGIES]
+categories: [AGILE_METHODOLOGIES, EXTREME_PROGRAMMING]
 tags: [agile, user-stories, requirements-management, collaboration, devops]
 image:
     path: assets/img/5605859819_c7ccd1d0e7_k.jpg

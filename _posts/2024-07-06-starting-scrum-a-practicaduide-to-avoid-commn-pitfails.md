@@ -1,7 +1,7 @@
 ---
 title: Starting Scrum - A Practical Guide to Avoiding Common Pitfalls 
 date: 2024-07-06 01:00:00 +/-TTTT
-categories: [AGILE_METHODOLOGIES, EXTREME_PROMGRAMMING]
+categories: [AGILE_METHODOLOGIES, SCRUM]
 tags: [devops, scrum-adoption, agile-transition, team-integration, project-roles, pilot-project]
 image:
     path: assets/img/images.jpeg

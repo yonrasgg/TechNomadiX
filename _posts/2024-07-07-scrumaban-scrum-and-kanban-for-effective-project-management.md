@@ -1,7 +1,7 @@
 ---
 title: Scrumban - Bridging the Best of Scrum and Kanban for Effective Project Management 
 date: 2024-07-07 02:30:00 +/-TTTT
-categories: [AGILE_METHODOLOGIES, KANBAN]
+categories: [AGILE_METHODOLOGIES, SCCRUMNBAN]
 tags: [devops, scrumban, scrum, kanban, agile, workflow-optimization, team-roles, continuous-improvement]
 image:
     path: assets/img/KDGFKUJFCGKUJFCG.jpeg

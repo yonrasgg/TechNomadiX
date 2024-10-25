@@ -1,6 +1,6 @@
 ---
 title: Fundamental Principles in Software Engineering
-date: 2024-05-12 01:00:00 +/-TTTT
+date: 2024-07-09 01:00:00 +/-TTTT
 categories: [DEVOPS, AGILE_METHODOLOGIES]
 tags: [software-engineering, agile-methodologies, devops, lean-thinking, scrum, extreme-programming, software-development, software-principles, modularity, abstraction, anticipation-of-change, generality, incremental-development, continuous-improvement, separation-of-concerns, rigour-and-formality, scrum-team-characteristics, xp-phases]
 image:

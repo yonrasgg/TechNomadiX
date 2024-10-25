@@ -1,7 +1,7 @@
 ---
 title: Adaptive Software Development (ASD) for Modern Software Projects 
 date: 2024-07-08 01:40:00 +/-TTTT
-categories: [DEVOPS, ADAPTIVE_SOFTWARE_DEVELOPMENT]
+categories: [AGILE_METHODOLOGIES, ASD]
 tags: [devops, adaptive-software, iterative-development, incremental-delivery, continuous-learning, collaboration-methods, speculation-exploration, risk-mitigation, non-linear-lifecycle, dynamic-lifecycle]
 image:
     path: assets/img/software-engineer.png 

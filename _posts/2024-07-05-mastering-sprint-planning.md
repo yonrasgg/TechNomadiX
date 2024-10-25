@@ -1,7 +1,7 @@
 ---
 title: Mastering Sprint Planning - A Comprehensive Guide for Scrum Teams 
 date: 2024-07-05 01:50:00 +/-TTTT
-categories: [AGILE_METHODOLOGIES, EXTREME_PROMGRAMMING]
+categories: [AGILE_METHODOLOGIES, SCRUM]
 tags: [devops, sprint-planning, scrum, agile-methodology, product-backlog, team-collaboration]
 image:
     path: assets/img/Plan_de_sprint_iceScrum.png

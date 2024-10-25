@@ -1,7 +1,7 @@
 ---
 title: Roles in a Scrum Team - A Comprehensive Guide to Effective Agile Collaboration 
 date: 2024-07-05 01:30:00 +/-TTTT
-categories: [AGILE_METHODOLOGIES, EXTREME_PROMGRAMMING]
+categories: [AGILE_METHODOLOGIES, SCRUM]
 tags: [devops, scrum, agile-teams, product-owner, scrum-master, development-team, self-organization]
 image:
     path: assets/img/Doussin_throws_the_ball_in_the_scrum.jpg

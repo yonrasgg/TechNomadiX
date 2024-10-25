@@ -1,7 +1,7 @@
 ---
 title: Understanding Lean Thinking 
 date: 2024-07-07 02:30:00 +/-TTTT
-categories: [DEVOPS, LEAN_METHODOLOGY]
+categories: [AGILE_METHODOLOGIES, LEAN_METHODOLOGY]
 tags: [devops, lean-thinking, kaizen, continuous-improvement, value-stream, waste-reduction, just-in-time, jidoka, lean-tools, organizational-culture] 
 image:
     path: assets/img/680px-Lean_manufactory_house.png
