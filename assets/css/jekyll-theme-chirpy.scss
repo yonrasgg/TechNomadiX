@@ -9,16 +9,34 @@
 
 /* append your custom style below */
 
-/* Backlink Box Styles */
-.backlink-box {
-    background-color: #fffdf7;
-}
+.privacy-policy {
+    @extend .page;
+    padding: 2rem;
+    background-color: $background-color;
+    color: $text-color;
 
-.backlink-box:before {
-    content: "What links here";
-    font-style: italic;
-}
+    h1, h2, h3, h4, h5, h6 {
+        color: $heading-color;
+    }
 
-.backlink-box li {
-    line-height: 1em;
+    p {
+        margin-bottom: 1rem;
+    }
+
+    a {
+        color: $link-color;
+        text-decoration: underline;
+
+        &:hover {
+            color: $link-hover-color;
+        }
+    }
+
+    ul, ol {
+        margin-left: 2rem;
+    }
+
+    li {
+        margin-bottom: 0.5rem;
+    }
 }
