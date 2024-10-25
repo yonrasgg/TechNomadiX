@@ -16,7 +16,7 @@ $link-color: #1a0dab;
 $link-hover-color: #551a8b; 
 
 .privacy-policy {
-    @extend .page;
+    @extend .page !optional;
     padding: 2rem;
     background-color: $background-color;
     color: $text-color;
