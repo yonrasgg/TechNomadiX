@@ -35,21 +35,21 @@ These phases ensure that the AUP method maintains an iterative approach while al
 
 ## Detailed Breakdown of Each AUP Phase
 
-### Initiation Phase**
+### **Initiation Phase**
 
 The **Initiation Phase** is pivotal in establishing a clear project scope and setting expectations among stakeholders. It involves defining the system’s architecture and, when applicable, securing project funding. Properly executing this phase helps in minimizing miscommunication and ensuring every stakeholder has a shared vision of what success looks like.
 
 - Establishing clear goals and setting expectations helps prevent scope creep.
 - Early identification of architecture sets the stage for building a scalable and reliable solution.
 
-### Preparation Phase**
+### **Preparation Phase**
 
 In the **Preparation Phase**, the project team works on validating the architecture and identifying any potential system limitations. This phase also includes gathering all necessary resources, tools, and team members to ensure a smooth transition to the next development stage.
 
 - Architecture validation ensures that the system can support future iterations without performance degradation.
 - Understanding system limitations early prevents unforeseen obstacles in the construction phase.
 
-### Construction Phase**
+### **Construction Phase**
 
 The **Construction Phase** is where the actual development takes place. Unlike traditional waterfall models, AUP emphasizes building software incrementally. This approach allows teams to adapt to changes and reprioritize features based on feedback from stakeholders. By developing features in short cycles, AUP encourages continuous integration and early testing, which helps to maintain code quality and align with business goals.
 
@@ -58,7 +58,7 @@ The **Construction Phase** is where the actual development takes place. Unlike t
 | **Incremental Development**       | Allows flexibility to reprioritize based on stakeholder input. |
 | **Continuous Feedback Loop**      | Ensures that features meet requirements and reduces chances of major rework. |
 
-### Transition Phase**
+### **Transition Phase**
 
 The **Transition Phase** is all about validating the system and deploying it to production. It ensures that the product is thoroughly tested and ready for launch, thereby meeting customer requirements effectively. Any issues identified are quickly resolved, and teams make sure all documentation is up-to-date, ensuring a smooth handover to the client.
 
