@@ -6,7 +6,7 @@ tags: [devops, devops-definition, agile-software-dev, iterative-development, sof
 image:
     path: assets/img/aws-dev-ops-hero-graphic-1.webp
     alt: DevOps
-----
+---
 
 DevOps has emerged as a pivotal methodology in software development, blending agility and operational efficiency to achieve rapid, high-quality releases. The term "DevOps" itself has become widely used, often misunderstood, but crucially important for teams seeking to bridge the gap between software development and IT operations. In this blog post, we delve into the origins, fundamental concepts, and the core principles that underpin DevOps. By understanding the history and evolution of DevOps, you'll gain insights into how it has transformed the IT landscape and why it continues to be a critical part of modern software engineering.
 
