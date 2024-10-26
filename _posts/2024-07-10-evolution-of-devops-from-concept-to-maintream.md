@@ -45,7 +45,7 @@ In **2012**, DevOps became a buzzword, and the movement gained significant momen
 
 ### **The Phoenix Project and Enterprise Adoption (2013-2014)**
 
-In **2013**, DevOps reached new heights as several books on the subject were published, the most notable of which was **"The Phoenix Project"** by **[Gene Kim](http://www.realgenekim.me/), [Kevin Behr](https://itrevolution.com/author/kevin-behr/), and [George Spafford](https://www.gartner.com/analyst/bbc100bb7e)**. The book provided a narrative-driven explanation of DevOps principles and illustrated their effectiveness in overcoming IT bottlenecks.
+In **2013**, DevOps reached new heights as several books on the subject were published, the most notable of which was **"The Phoenix Project"** by **[Gene Kim](https://itrevolution.com/author/gene-kim/), [Kevin Behr](https://itrevolution.com/author/kevin-behr/), and [George Spafford](https://www.gartner.com/analyst/bbc100bb7e)**. The book provided a narrative-driven explanation of DevOps principles and illustrated their effectiveness in overcoming IT bottlenecks.
 
 By **2014**, large enterprises like **[Target](https://www.target.com/), [Nordstrom](https://www.nordstrom.com/), and [LEGO](https://www.lego.com/en-us?age-gate=grown_up)** became early adopters of DevOps, applying its principles to achieve improved agility, automation, and collaboration. This enterprise adoption helped establish DevOps as a key component in the modern IT landscape, bridging the gap between development and operations for faster, more reliable software delivery.
 
