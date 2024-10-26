@@ -1,7 +1,3 @@
-Here's the updated README with the correct license information:
-
----
-
 # TechNomadiX Blog
 
 Welcome to the TechNomadiX Blog, a platform dedicated to knowledge management and sharing in tech fields and related knowledge domains. This blog is built on the **Jekyll Theme Chirpy**, a minimal, responsive, and feature-rich theme ideal for technical writing. TechNomadiX is designed for tech enthusiasts, professionals, and lifelong learners who seek to explore, share, and manage insights on technology and related topics.
