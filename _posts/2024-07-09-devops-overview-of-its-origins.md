@@ -1,6 +1,6 @@
 ---
 title: DevOps - An Overview of its Origins and Principles
-date: 2024-07-08 02:20:0 +/-TTTT
+date: 2024-07-09 02:20:0 +/-TTTT
 categories: [DEVOPS, PROJECT_MANAGEMENT]
 tags: [devops, devops-definition, agile-software-dev, iterative-development, software-delivery, collaboration-automation, it-mindset, team-autonomy, production-environment, delivery-predictability, efficiency-security]
 image:

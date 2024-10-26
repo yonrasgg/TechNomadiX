@@ -1,6 +1,6 @@
 ---
 title: Business Model Canvas
-date: 2024-07-26 01:00:00 +/-TTTT
+date: 2024-07-15 01:00:00 +/-TTTT
 categories: [DEVOPS, AGILE_METHODOLOGIES]
 tags: [customer-segments, channels, customer-relationships, revenue-streams, value-propositions, key-activities, key-resources, cost-structure, key-partners, business-model-canvas, tech-startup, ai-productivity-tools, digital-marketing, subscription-model, freemium-model, cloud-infrastructure, data-security, user-feedback, product-development]
 image:
