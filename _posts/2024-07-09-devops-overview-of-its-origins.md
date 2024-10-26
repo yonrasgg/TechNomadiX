@@ -83,7 +83,7 @@ DevOps requires a shift in organizational culture. This cultural shift is about 
 - Jenkins helps automate parts of software development related to building, testing, and deploying, making CI/CD possible.
 - Tools like Docker and Kubernetes help standardize environments and make scaling applications more efficient and consistent.
 
----
+
 DevOps has evolved from a collection of best practices in software development and operations into a comprehensive approach that unifies teams, automates processes, and empowers ownership. By bridging the gap between development and operations, DevOps accelerates software delivery, improves quality, and increases collaboration across all stakeholders.
 
 Understanding DevOps not just as a set of practices, but as an **IT mindset** that fosters collaboration and shared ownership, is essential for modern software development. Teams that embrace DevOps can achieve faster delivery, reduce inefficiencies, and respond more effectively to customer needs.
