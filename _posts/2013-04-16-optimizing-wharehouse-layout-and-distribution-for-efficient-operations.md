@@ -151,21 +151,21 @@ In larger warehouse environments, departments may be organized based on area nee
 graph LR
     A["Platform"] --> Corridor
     subgraph Departments
-    D1["1. Toasters"]
-    D2["2. Air Conditioning"]
-    D3["3. Microwaves"]
-    D4["4. Stereos"]
-    D5["5. Televisions"]
-    D6["6. Radios"]
-    D7["7. Bulk Items"]
+    B["1. Toasters"]
+    C["2. Air Conditioning"]
+    D["3. Microwaves"]
+    E["4. Stereos"]
+    F["5. Televisions"]
+    G["6. Radios"]
+    H["7. Bulk Items"]
     end
-    Corridor --> D1
-    Corridor --> D2
-    Corridor --> D3
-    Corridor --> D4
-    Corridor --> D5
-    Corridor --> D6
-    Corridor --> D7
+    Corridor --> B
+    Corridor --> C
+    Corridor --> D
+    Corridor --> E
+    Corridor --> F
+    Corridor --> G
+    Corridor --> H
 ```
 
 In this arrangement, departments are arranged along a main corridor to facilitate easy access. Each department’s space is determined based on frequency of access and size needs, ensuring that high-traffic areas are conveniently located.
