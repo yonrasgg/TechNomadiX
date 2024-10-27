@@ -1,6 +1,6 @@
 ---
 title: Quantum Computing Basics - How a Quantum Bit (Qubit) is Fabricated
-date: 2024-10-21 02:00:00 +/-TTTT0
+date: 2024-10-27 02:00:00 +/-TTTT0
 categories: [DEVOPS, QUANTUM_CFOMPUTING]
 tags: [quantum-computing, qubit-fabrication, transmon-qubit, josephson-junction, artificial-atoms, quantum-superposition, coherence-time, quantum-measurement, majorana-qubits, superconducting-circuits, LC-circuit, quantum-resonator, quantum-oscillations, topological-protection, quantum-technology, quantum-circuits, it]
 image:
