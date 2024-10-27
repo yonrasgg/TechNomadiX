@@ -12,20 +12,6 @@ math: true
 
 Cloud computing has become a foundational technology for businesses worldwide, offering flexibility, scalability, and cost-effectiveness by providing on-demand access to shared resources. According to the National Institute of Standards and Technology (NIST), cloud computing consists of several defining characteristics, including self-service, scalability, and supervised services. This guide breaks down each characteristic and explores the architectural elements that power the cloud, enriched with diagrams and technical insights.
 
-## Mathematics
-
-We use [**MathJax**][mathjax] to generate mathematics. To enable MathJax for website performance, include the following in your header:
-
-```yaml
----
-math: true
----
-```
-
-After enabling this feature, you can add equations as demonstrated below.
-
-[mathjax]: https://www.mathjax.org/
-
 ## Key Characteristics of Cloud Computing
 
 ### 1. Self-Service on Demand
