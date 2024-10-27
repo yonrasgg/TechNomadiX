@@ -1,7 +1,7 @@
 ---
 title: Guide to Warehouse and Logistics in Supply Chain Management 
 date: 2013-04-15 01:00:00 +/-TTTT
-categories: [PROJECT_MANAGEMENT, WAREHOUSE_MANAGEMENT]
+categories: [LOGISTICS, WAREHOUSE_MANAGEMENT]
 tags: [project-management, warehouse-management, supply-chain-management, logistics, inventory-control, customer-satisfaction, material-flow, business-strategy, supply-chain-strategy, warehousing, logistics-optimization, supply-chain-infrastructure, inventory-management, physical-distribution, customer-service-policy, supplier-management]
 image:
     path: assets/img/Schema-of-the-objective-of-the-Systematic-Literature-Review.png

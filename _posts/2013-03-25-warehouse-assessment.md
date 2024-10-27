@@ -1,7 +1,7 @@
 ---
 title: Warehouse Assessment Method
 date: 2013-03-25 01:00:00 +/-TTTT
-categories: [PROJECT_MANAGEMENT, LEAN_SIX_SIGMA]
+categories: [LOGISTICS, WAREHOUSE_MANAGEMENT]
 tags: [lean-six-sigma, warehouse-assessment, warehouse-management, process-improvement, efficiency, inventory-management, quality-assurance, supply-chain-management, logistics, operational-excellence, waste-reduction, continuous-improvement, customer-satisfaction, cost-reduction]
 image:
     path: assets/img/eduardo-soares-GI5guEoMEgI-unsplash.jpg
@@ -34,6 +34,7 @@ To effectively implement Lean Six Sigma in warehousing, it's essential to assess
 - **Labeling Systems for Orders and Invoices**: Evaluate the effectiveness of your labeling for ensuring accurate deliveries.
 - **Dedicated Areas for Order Preparation**: Determine if there are specific zones for assembling and organizing orders.
 - **Cross-Docking Strategies**: Consider implementing cross-docking to streamline direct shipments.
+
 - **Quality Inspection Systems**: Establish procedures for checking products during loading, dispatch, and delivery.
 
 ### 3. Material Handling Equipment
