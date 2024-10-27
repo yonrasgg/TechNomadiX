@@ -4,8 +4,8 @@ date: 2013-04-16 01:00:00 +/-TTTT
 categories: [LOGISTICS, WAREHOUSE_MANAGEMENT]
 tags: [project-management, warehouse-management, supply-chain-management, logistics, inventory-control, customer-satisfaction, material-flow, business-strategy, supply-chain-strategy, warehousing, logistics-optimization, supply-chain-infrastructure, inventory-management, physical-distribution, customer-service-policy, supplier-management]
 image:
-    path: 
-    alt: 
+    path: assets/img/what-is-a-logistics-company-1024x1024.jpg
+    alt: Logistics
 mermaid: true
 ---
 
