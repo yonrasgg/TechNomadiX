@@ -2,7 +2,7 @@
 title: Exploring Cloud Computing - Key Characteristics and Technical Insights 
 date: 2024-10-21 11:00:00 +/-TTTT0
 categories: [DEVOPS, CLOUD_COMPUTING]
-tags: [devops, ]
+tags: [devops, cloud-computing, key-characteristics, technical-insights, self-service, scalability, ubiquitous-access, data-relocation, virtualization, dynamic-scaling, resource-allocation, monitoring, third-party-dependency, mermaid-diagram, mathjax, mathematical-expressions, load-balancing, supervised-service, cloud-architecture, internet-access, scalability-formula]
 image:
     path: assets/img/Benefits-of-Cloud-Computing.png 
     alt: Cloud Computing
