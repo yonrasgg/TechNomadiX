@@ -1,6 +1,6 @@
 ---
 title: Exploring Cloud Computing - Key Characteristics and Technical Insights 
-date: 2024-10-21 10:50:00 +/-TTTT
+date: 2024-10-21 11:00:00 +/-TTTT0
 categories: [DEVOPS, CLOUD_COMPUTING]
 tags: [devops, ]
 image:
