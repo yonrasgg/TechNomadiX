@@ -149,15 +149,15 @@ In larger warehouse environments, departments may be organized based on area nee
 
 ```mermaid
 graph LR
-    A[Platform] --> Corridor
+    A["Platform"] --> Corridor
     subgraph Departments
-    D1[1. Toasters]
-    D2[2. Air Conditioning]
-    D3[3. Microwaves]
-    D4[4. Stereos]
-    D5[5. Televisions]
-    D6[6. Radios]
-    D7[7. Bulk Items]
+    D1["1. Toasters"]
+    D2["2. Air Conditioning"]
+    D3["3. Microwaves"]
+    D4["4. Stereos"]
+    D5["5. Televisions"]
+    D6["6. Radios"]
+    D7["7. Bulk Items"]
     end
     Corridor --> D1
     Corridor --> D2
