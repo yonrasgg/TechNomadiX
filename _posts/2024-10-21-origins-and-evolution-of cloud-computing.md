@@ -1,6 +1,6 @@
 ---
 title: The Origins and Evolution of Cloud Computing - From Concept to Modern Realities 
-date: 2024-10-21 10:41:00 +/-TTTT
+date: 2024-10-21 10:41:00 +/-TTTT0
 categories: [DEVOPS, CLOUD_COMPUTING]
 tags: [devops, cloud-computing, history-of-cloud, evolution-of-technology, devops-architecture, distributed-systems]
 image:
