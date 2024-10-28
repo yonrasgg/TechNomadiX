@@ -1,7 +1,7 @@
 ---
 title: Exploring Virtualization Categories - Enhancing IT Infrastructure Efficiency 
 date: 2024-10-21 12:10:00 +/-TTTT0
-categories: [DEVOPS, CLOUD_COMPUTING]
+categories: [DEVOPS, VIRTUALIZATION]
 tags: [devops, virtualization, server-virtualization, storage-virtualization, desktop-virtualization, application-virtualization, presentation-virtualization, IT-infrastructure, resource-optimization, remote-access, centralized-management, cost-savings, cross-platform-compatibility, business-productivity, data-center-management]
 image:
     path: assets/img/vt-types.jpeg

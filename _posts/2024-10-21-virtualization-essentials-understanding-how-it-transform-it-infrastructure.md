@@ -1,7 +1,7 @@
 ---
 title: Virtualization Essentials - Understanding How It Transforms IT Infrastructure 
 date: 2024-10-21 12:00:00 +/-TTTT0
-categories: [DEVOPS, CLOUD_COMPUTING]
+categories: [DEVOPS, VIRTUALIZATION]
 tags: [virtualization, cloud-computing, hardware-abstraction, virtual-machines, resource-optimization, full-virtualization, para-virtualization, data-center-management, disaster-recovery, system-migration, sandbox-environment, it-infrastructure, cost-savings, DevOps, testing-and-development]
 image:
     path: assets/img/1-s2.0-S1084804523001455-gr5.jpg

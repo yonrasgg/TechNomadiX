@@ -1,7 +1,7 @@
 ---
 title: Understanding Cloud Computing - The Backbone of Modern IT 
 date: 2024-10-21 10:50:00 +/-TTTT
-categories: [DEVOPS, CLOUD_COMPUTING]
+categories: [DEVOPS, VIRTUALIZATION]
 tags: [devops, ]
 image:
     path: assets/img/0_KztVa0VTO5003nsm.webp 
