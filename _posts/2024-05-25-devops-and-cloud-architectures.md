@@ -1,6 +1,6 @@
 --- 
 title: Mastering DevOps and Cloud Systems Architecture 
-date: 2024-05-25 01:10:00 +/-TTTT0
+date: 2024-05-25 01:00:00 +/-TTTT0
 categories: [DEVOPS, CLOUD_COMPUTING]
 tags: [devops, cloud-computing, iaas, paas, saas, xaas, public-cloud, private-cloud, hybrid-cloud, community-cloud, cloud-services, cloud-deployment-models, IT-infrastructure, data-security, cloud-architecture, scalable-solutions, business-technology]
 image:
@@ -17,7 +17,7 @@ Cloud computing has evolved into a broad term encompassing various types of serv
 
 | Service Model           | Description                                                                                                                                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Infrastructure as a Service (IaaS)** | Provides a virtualized infrastructure that users can configure, manage, and administer. Users control the operating system and applications, paying based on resource usage and time.               |
+| [**Infrastructure as a Service (IaaS)**](https://gaaspkm.online/posts/iaas-infrastructure-as-a-service/) | Provides a virtualized infrastructure that users can configure, manage, and administer. Users control the operating system and applications, paying based on resource usage and time.               |
 | **Platform as a Service (PaaS)**       | Offers infrastructure and tools for building, deploying, and managing web applications. This model eliminates the need for local installations, enabling development directly through the cloud. |
 | **Software as a Service (SaaS)**       | Grants access to specific applications via the internet, with no installation required on the user's device. Maintenance and support are handled by the provider, accessible through a web browser. |
 | **Everything as a Service (XaaS)**     | A comprehensive model where all services are delivered as a package, replacing traditional software installations on individual devices.                                        |
