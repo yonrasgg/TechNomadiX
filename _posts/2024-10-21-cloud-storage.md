@@ -1,8 +1,8 @@
 ---
 title: Cloud Storage - Secure, Scalable Solutions for Data Management 
 date: 2024-10-21 12:20:00 +/-TTTT0
-categories: [DEVOPS, VIRTUALIZATION]
-tags: [devops, ]
+categories: [DEVOPS, CLOUD_STORAGE]
+tags: [devops, cloud-storage, data-management, internet-access, data-security, confidentiality, data-integrity, data-availability, data-reliability, encryption, authentication, authorization, cloud-computing, service-level-agreement, data-backup, redundancy]
 image:
     path: assets/img/best-cloud-storage.jpg
     alt: Cloud Storage
