@@ -6,7 +6,6 @@ tags: [devops, cloud-computing, iaas, paas, saas, xaas, public-cloud, private-cl
 image:
     path: assets/img/architectures.png
     alt: DevOps and Cloud Systems Architectures 
-mermaid: true
 ---
 
 Cloud computing has evolved into a broad term encompassing various types of services and deployment models. As businesses and developers increasingly rely on cloud solutions, understanding the different types of cloud services and deployment options becomes essential. This post offers a foundational overview of cloud computing, including the major service models—Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), and Everything as a Service (XaaS)—along with the deployment models: public, private, hybrid, and community clouds.
