@@ -18,9 +18,9 @@ Cloud computing has evolved into a broad term encompassing various types of serv
 | Service Model           | Description                                                                                                                                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Infrastructure as a Service (IaaS)**](https://gaaspkm.online/posts/iaas-infrastructure-as-a-service/) | Provides a virtualized infrastructure that users can configure, manage, and administer. Users control the operating system and applications, paying based on resource usage and time.               |
-| **Platform as a Service (PaaS)**       | Offers infrastructure and tools for building, deploying, and managing web applications. This model eliminates the need for local installations, enabling development directly through the cloud. |
-| **Software as a Service (SaaS)**       | Grants access to specific applications via the internet, with no installation required on the user's device. Maintenance and support are handled by the provider, accessible through a web browser. |
-| **Everything as a Service (XaaS)**     | A comprehensive model where all services are delivered as a package, replacing traditional software installations on individual devices.                                        |
+| [**Platform as a Service (PaaS)**](https://gaaspkm.online/posts/paas-platform-as-a-service/)       | Offers infrastructure and tools for building, deploying, and managing web applications. This model eliminates the need for local installations, enabling development directly through the cloud. |
+| [**Software as a Service (SaaS)**](https://gaaspkm.online/posts/saas-software-as-a-service/)       | Grants access to specific applications via the internet, with no installation required on the user's device. Maintenance and support are handled by the provider, accessible through a web browser. |
+| [**Everything as a Service (XaaS)**](https://gaaspkm.online/posts/additional-cloud-service-models/)     | A comprehensive model where all services are delivered as a package, replacing traditional software installations on individual devices.                                        |
 
 ---
 
