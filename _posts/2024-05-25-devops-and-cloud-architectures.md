@@ -28,7 +28,7 @@ Cloud computing has evolved into a broad term encompassing various types of serv
 | Deployment Model        | Description                                                                                                                                                                                             |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Public Cloud**        | Services are hosted on external servers managed by third parties. Access is available via free or paid subscription, offering flexibility but potentially limiting control over data security.             |
-| [**Private Cloud**]()       | Services are hosted on-premises for exclusive use by an organization. Private clouds offer high security and control, suitable for organizations needing enhanced protection for sensitive data.          |
+| [**Private Cloud**](https://gaaspkm.online/posts/private-cloud/)       | Services are hosted on-premises for exclusive use by an organization. Private clouds offer high security and control, suitable for organizations needing enhanced protection for sensitive data.          |
 | **Hybrid Cloud**        | A combination of public and private clouds, allowing organizations to manage certain data in-house while using external cloud resources for non-sensitive data.                                         |
 | **Community Cloud**     | A shared cloud infrastructure designed for multiple organizations with similar goals or compliance requirements. It enables secure collaboration while maintaining shared responsibilities.               |
 
