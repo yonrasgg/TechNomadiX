@@ -4,8 +4,8 @@ date: 2024-05-25 02:00:00 +/-TTTT0
 categories: [DEVOPS, CLOUD_COMPUTING]
 tags: [devops, private-cloud, cloud-solutions, younity, lima, my-cloud, owncloud, seafile, cloud-computing, data-privacy, file-sync, cloud-security, cloud-storage, network-attached-storage, vpn-security, collaborative-tools, aws-hosting, cloud-options]
 image:
-    path: 
-    alt: 
+    path: assets/img/Screenshot from 2024-10-29 21-24-25.png
+    alt: Self Hosted Cloud
 mermaid: true
 ---
 
@@ -29,6 +29,8 @@ With increasing concerns over data privacy and security, many organizations are 
 
 ### Younity
 
+![Younity]({{ 'assets/img/younity-logo.png' | relative_url }}){: width="400" height="50" }
+
 - **Description**: Younity is an iOS application that synchronizes files across devices without relying on third-party servers. It allows users to access their desktop files remotely, including streaming videos and accessing media galleries.
 - **Main Features**:
   - Remote file access
@@ -37,6 +39,8 @@ With increasing concerns over data privacy and security, many organizations are 
 - **Best For**: Users who prioritize privacy and need a basic, low-cost solution for file access.
 
 ### Lima
+
+![Lima]({{ 'assets/img/lima-cloud-ultra-2-211659.webp' | relative_url }}){: width="400" height="50" }
 
 - **Description**: Lima is a hardware device that connects via USB and allows users to create a secure private cloud by connecting external storage devices. It offers enhanced security through VPN for data transfer.
 - **Main Features**:
@@ -47,6 +51,8 @@ With increasing concerns over data privacy and security, many organizations are 
 
 ### My Cloud
 
+![My Cloud]({{ 'assets/img/mch-logo-hero.png.thumb.1280.1280.png' | relative_url }}){: width="400" height="50" }
+
 - **Description**: Western Digital’s My Cloud is a NAS device providing extensive storage, accessible remotely. It supports multimedia management, backups, and file access from various devices.
 - **Main Features**:
   - NAS-based storage with high capacity
@@ -56,6 +62,8 @@ With increasing concerns over data privacy and security, many organizations are 
 
 ### OwnCloud
 
+![OwnCloud]({{ 'assets/img/owncloud-icon-2048x2048-uuor4edn.png' | relative_url }}){: width="400" height="50" }
+
 - **Description**: OwnCloud is an open-source software solution for creating a customizable private cloud with extensive collaborative tools. It supports multimedia, file versioning, and integration with external storage.
 - **Main Features**:
   - Customizable file sync and storage
@@ -64,6 +72,8 @@ With increasing concerns over data privacy and security, many organizations are 
 - **Best For**: Businesses that require collaborative features, flexibility, and are comfortable with technical setup.
 
 ### Seafile
+
+![Seafile]({{ 'assets/img/475133590a65b656cb59cf8a6db3fa074c1eacef.png' | relative_url }}){: width="400" height="50" }
 
 - **Description**: Seafile provides a secure private cloud solution with file encryption and group management features. Users can set it up on their server or host it with AWS.
 - **Main Features**:
