@@ -4,8 +4,8 @@ date: 2024-05-26 01:10:00 +/-TTTT0
 categories: [DEVOPS, CLOUD_COMPUTING]
 tags: [devops, public-cloud, cloud-computing, scalability, cost-savings, pay-as-you-go, infrastructure-management, cloud-accessibility, it-maintenance, data-transfer, cloud-security, cloud-control, operational-efficiency, cloud-flexibility, cloud-costs, cloud-deployment-models]
 image:
-    path: 
-    alt: 
+    path: assets/img/what-is-a-public-cloud.png
+    alt: Public Cloud Key Points
 ---
 
 The public cloud model offers scalability, ease of access, and cost savings, making it a popular choice for individuals and organizations alike. However, while it presents many benefits, potential drawbacks, such as limited control and security perceptions, should be carefully considered. This post outlines the main advantages and disadvantages of the public cloud, helping businesses make informed decisions about adopting this cloud service model.
