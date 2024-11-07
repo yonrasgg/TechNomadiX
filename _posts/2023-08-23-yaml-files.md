@@ -159,6 +159,7 @@ Related Projects:
   - [Pygments](https://pygments.org/demo/?lang=yaml)      # Python language Syntax Colorizer /w YAML support
   - [yamllint](https://github.com/adrienverge/yamllint)      # YAML Linter based on PyYAML
   - [YAML Diff](https://yamldiff.com/)     # Semantically compare two YAML documents
+  - [YAMLine](https://yamline.com/)     # YAML Linter, comparator, formatter, and converters
   - [JSON Schema](https://json-schema-everywhere.github.io/yaml)   # YAML-compliant JSON standard for data validation
 
 ## Areas of Application
